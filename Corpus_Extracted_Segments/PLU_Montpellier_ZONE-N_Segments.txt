@@ -1,0 +1,1536 @@
+>>> False
+
+CARACTERE DE LA ZONE :
+ 
+DESCRIPTION :
+ 
+Il s’agit d’une zone de protection de la nature et des sites, de «coupures vertes».
+
+
+>>> False
+
+CARACTERE DE LA ZONE :
+ 
+LOCALISATION :
+ 
+Quatre Seigneurs, Montmaur, Lavalette, le Lez vert, les berges du Lez, la Mogère, Parc du Nègues 
+Cats, domaine de Grammont, Parc Marianne, les berges de la Lironde, Jardins de la Lironde, parc 
+Richter, le clos de l’Hirondelle, les berges du Rieucoulon, Mas d’Estor, la Piscine, Château Bon, les 
+berges de la Mosson, Bionne, Malamort, château Bonnier de la Mosson, le lac des Garrigues, 
+Malbosc, château d’O, Verdanson.
+
+
+>>> False
+
+CARACTERE DE LA ZONE :
+ 
+PRINCIPAUX OBJECTIFS :
+ 
+− Conserver le caractère naturel des sites ou les aménager pour les loisirs des Montpelliérains, en 
+conservant leur caractère naturel.
+
+
+>>> Soft
+
+CARACTERE DE LA ZONE :
+ 
+PRINCIPALES TRADUCTIONS REGLEMENTAIRES :
+ 
+- Dans son ensemble la zone N se caractérise par :
+ 
+• l’autorisation de la réhabilitation du bâti existant et (ou) son extension mesurée, de la 
+réalisation d’équipements collectifs à condition qu’ils ne portent pas atteinte au caractère 
+naturel de la zone. 
+• les espaces libres plantés doivent représenter au moins 50 % de la surface de l’unité foncière.
+
+
+>>> Soft
+
+CARACTERE DE LA ZONE :
+ 
+PRINCIPALES TRADUCTIONS REGLEMENTAIRES :
+ 
+La zone comprend 6 secteurs :
+ 
+- Le secteur N-1 : secteur naturel non aménagé.
+
+
+>>> Soft
+
+CARACTERE DE LA ZONE :
+ 
+PRINCIPALES TRADUCTIONS REGLEMENTAIRES :
+ 
+La zone comprend 6 secteurs :
+ 
+- Le secteur N-2 couvrant des secteurs naturels à usage de loisirs urbains (secteurs naturels 
+aménagés ou à aménager).
+
+
+>>> Soft
+
+CARACTERE DE LA ZONE :
+ 
+PRINCIPALES TRADUCTIONS REGLEMENTAIRES :
+ 
+La zone comprend 6 secteurs :
+ 
+- Le secteur N-3 des Jardins de la Lironde destiné à la réalisation d’un parc public pouvant 
+admettredes constructions limitées liées notamment à son fonctionnement et à la fréquentation du 
+public. 
+surface de plancher autorisée pour des équipements collectifs (ce secteur est situé dans le 
+périmètre de la ZAC Port Marianne – Jardins de la Lironde).
+
+
+>>> Soft
+
+CARACTERE DE LA ZONE :
+ 
+PRINCIPALES TRADUCTIONS REGLEMENTAIRES :
+ 
+La zone comprend 6 secteurs :
+ 
+- Le secteur N-4 de Richter destiné à la réalisation d’un parc public pouvant admettre des 
+constructions limitées liées notamment à son fonctionnement et à la fréquentation du public. 
+Surface de plancher autorisée pour des équipements collectifs (ce secteur est situé dans le 
+périmètre de la ZAC Port Marianne – Richter).
+
+
+>>> Soft
+
+CARACTERE DE LA ZONE :
+ 
+PRINCIPALES TRADUCTIONS REGLEMENTAIRES :
+ 
+La zone comprend 6 secteurs :
+ 
+- Le secteur N-5 couvrant les cimetières de la ville.
+
+
+>>> Soft
+
+CARACTERE DE LA ZONE :
+ 
+PRINCIPALES TRADUCTIONS REGLEMENTAIRES :
+ 
+La zone comprend 6 secteurs :
+ 
+- Le secteur N-6 de la ZAC OZ 1 destiné à la réalisation du parc public du Nègues Cats, pouvant 
+admettre notamment des installations et constructions légères liées à son fonctionnement et à la 
+fréquentation du public, ainsi que des équipements nécessaires à des services publics et d’intérêt 
+collectif (aménagements hydrauliques, voies de circulation, stationnement des véhicules…).
+
+
+>>> False
+
+CARACTERE DE LA ZONE :
+ 
+PRINCIPALES TRADUCTIONS REGLEMENTAIRES :
+ 
+Pour rappel :  
+Les secteurs N-3 et N-6 sont couverts par des orientations d’aménagement au sens 
+de l’article L. 123-1 du Code de l’urbanisme. Celles-ci définissent les conditions d’un 
+aménagement cohérent et de qualité du secteur. Les occupations et utilisations du sol 
+doivent être compatibles avec ces orientations d’aménagement dans les conditions 
+définies par l’article L.123-5 du Code de l’urbanisme.
+
+
+>>> False
+
+CARACTERE DE LA ZONE :
+ 
+ATTENTION :
+ 
+La zone N est partiellement concernée par le plan de prévention des risques d'inondations de la basse 
+vallée du Lez et de la Mosson (P.P.R.I.). Aussi il convient, le cas échéant, de se reporter aux 
+dispositions du règlement du P.P.R.I. qui constitue une servitude d'utilité publique annexée au présent 
+P.L.U.
+
+
+>>> False
+
+Article 1 : Occupations ou utilisations du sol interdites
+ 
+1) Dans l’ensemble de la zone les secteurs N-1, N-2, N-3, N-4, N-5 sont interdits :
+ 
+Les pylônes et poteaux, supports d’enseignes et d’antennes d’émission ou de réception de 
+signaux radioélectriques.
+
+
+>>> False
+
+Article 1 : Occupations ou utilisations du sol interdites
+ 
+1) Dans l’ensemble de la zone les secteurs N-1, N-2, N-3, N-4, N-5 sont interdits :
+ 
+Les antennes d'émission ou de réception de signaux radioélectriques dont l'une des 
+dimensions est supérieure à 5 mètres, support inclus.
+
+
+>>> Verifiable
+
+Article 1 : Occupations ou utilisations du sol interdites
+ 
+1) Dans l’ensemble de la zone les secteurs N-1, N-2, N-3, N-4, N-5 sont interdits :
+ 
+Les habitations légères de loisirs.
+
+
+>>> Verifiable
+
+Article 1 : Occupations ou utilisations du sol interdites
+ 
+1) Dans l’ensemble de la zone les secteurs N-1, N-2, N-3, N-4, N-5 sont interdits :
+ 
+Les constructions destinées à l’habitation.
+
+
+>>> Non-verifiable
+
+Article 1 : Occupations ou utilisations du sol interdites
+ 
+1) Dans l’ensemble de la zone les secteurs N-1, N-2, N-3, N-4, N-5 sont interdits :
+ 
+Les constructions destinées à l’hébergement hôtelier.
+
+
+>>> Verifiable
+
+Article 1 : Occupations ou utilisations du sol interdites
+ 
+1) Dans l’ensemble de la zone les secteurs N-1, N-2, N-3, N-4, N-5 sont interdits :
+ 
+Les constructions destinées aux bureaux, au commerce, à l’artisanat, à l’industrie, à la fonction 
+d’entrepôt.
+
+
+>>> Verifiable
+
+Article 1 : Occupations ou utilisations du sol interdites
+ 
+1) Dans l’ensemble de la zone les secteurs N-1, N-2, N-3, N-4, N-5 sont interdits :
+ 
+Les constructions destinées à l’exploitation agricole ou forestière.
+
+
+>>> Non-verifiable
+
+Article 1 : Occupations ou utilisations du sol interdites
+ 
+1) Dans l’ensemble de la zone les secteurs N-1, N-2, N-3, N-4, N-5 sont interdits :
+ 
+Les installations classées pour la protection de l’environnement, à l’exception de celles visées à 
+l’article 2 paragraphe 1).
+
+
+>>> Verifiable
+
+Article 1 : Occupations ou utilisations du sol interdites
+ 
+2) Dans les secteurs N-2, N-3, N-4 et N-5 sont interdits :
+ 
+Les terrains de camping ou de caravanage permanents visés à l’article L.443-1 et L.444-1 du 
+code de l’urbanisme sont interdits.
+
+
+>>> False
+
+Article 1 : Occupations ou utilisations du sol interdites
+ 
+3) Dans le secteur N-6 sont interdits :
+ 
+Les pylônes et poteaux, supports d’enseignes et d’antennes d’émission ou de réception de 
+signaux radioélectriques.
+
+
+>>> False
+
+Article 1 : Occupations ou utilisations du sol interdites
+ 
+3) Dans le secteur N-6 sont interdits :
+ 
+Les antennes d'émission ou de réception de signaux radioélectriques dont l'une des dimensions 
+est supérieure à 5 mètres, support inclus.
+
+
+>>> Verifiable
+
+Article 1 : Occupations ou utilisations du sol interdites
+ 
+3) Dans le secteur N-6 sont interdits :
+ 
+Les habitations légères de loisirs.
+
+
+>>> Verifiable
+
+Article 1 : Occupations ou utilisations du sol interdites
+ 
+3) Dans le secteur N-6 sont interdits :
+ 
+Les constructions destinées à l’habitation.
+
+
+>>> Non-verifiable
+
+Article 1 : Occupations ou utilisations du sol interdites
+ 
+3) Dans le secteur N-6 sont interdits :
+ 
+Les constructions destinées à l’hébergement hôtelier.
+
+
+>>> Non-verifiable
+
+Article 1 : Occupations ou utilisations du sol interdites
+ 
+3) Dans le secteur N-6 sont interdits :
+ 
+Les constructions destinées aux bureaux, à l’industrie, à la fonction d’entrepôt.
+
+
+>>> Verifiable
+
+Article 1 : Occupations ou utilisations du sol interdites
+ 
+3) Dans le secteur N-6 sont interdits :
+ 
+Les constructions destinées à l’exploitation agricole ou forestière.
+
+
+>>> Verifiable
+
+Article 1 : Occupations ou utilisations du sol interdites
+ 
+3) Dans le secteur N-6 sont interdits :
+ 
+Les constructions destinées au commerce, à l’artisanat.
+
+
+>>> Non-verifiable
+
+Article 1 : Occupations ou utilisations du sol interdites
+ 
+3) Dans le secteur N-6 sont interdits :
+ 
+Les installations classées pour la protection de l’environnement.
+
+
+>>> False
+
+Article 1 : Occupations ou utilisations du sol interdites
+ 
+4) Dans les périmètres en bordure des cours d’eau définis dans les annexes 
+sanitaires du PLU :
+ 
+Les occupations et utilisations autres que celles visées à l’article 2, paragraphe 4).
+
+
+>>> False
+
+Article 1 : Occupations ou utilisations du sol interdites
+ 
+5) Dans les périmètres des secteurs particuliers de risque d’inondation délimités 
+dans les documents graphiques du règlement :
+ 
+Les occupations et utilisations autres que celles visées à l’article 2, paragraphe 4).
+
+
+>>> Non-verifiable
+
+Article 2 : Occupations ou utilisations du sol soumises à des conditions 
+particulières
+ 
+1)  Dans les secteurs N-1, N-2, N-3, N-4, N-5 :
+ 
+Sans préjudice des règles définies aux paragraphes 3) et 4) suivants : 
+−  Sont admises à condition que la destination projetée ne porte pas atteinte au caractère 
+naturel de la zone :
+ 
+•  les installations classées pour la protection de l’environnement, sous réserve qu’elles 
+n’entraînent pas pour leur voisinage des nuisances inacceptables, soit que 
+l’établissement soit en lui-même peu nuisant, soit que les mesures nécessaires à 
+l’élimination des nuisances soient prises.
+
+
+>>> Non-verifiable
+
+Article 2 : Occupations ou utilisations du sol soumises à des conditions 
+particulières
+ 
+1)  Dans les secteurs N-1, N-2, N-3, N-4, N-5 :
+ 
+Sans préjudice des règles définies aux paragraphes 3) et 4) suivants : 
+−  Sont admises à condition que la destination projetée ne porte pas atteinte au caractère 
+naturel de la zone :
+ 
+•  les réhabilitations de bâtiments existants.
+
+
+>>> Non-verifiable
+
+Article 2 : Occupations ou utilisations du sol soumises à des conditions 
+particulières
+ 
+1)  Dans les secteurs N-1, N-2, N-3, N-4, N-5 :
+ 
+Sans préjudice des règles définies aux paragraphes 3) et 4) suivants : 
+−  Sont admises à condition que la destination projetée ne porte pas atteinte au caractère 
+naturel de la zone :
+ 
+• les extensions mesurées des bâtiments existants, à condition qu’elles ne présentent pas 
+un caractère répétitif et ne conduisent pas à une extension supérieure à 50 % de la 
+surface de plancher existante.
+
+
+>>> Verifiable
+
+Article 2 : Occupations ou utilisations du sol soumises à des conditions 
+particulières
+ 
+2) Dans le secteur N-6 :
+ 
+Sans préjudice des règles définies aux paragraphes 3) et 4) suivants : 
+— Sont admises à condition que la destination projetée ne porte pas atteinte au caractère 
+naturel de la zone :
+ 
+• les aménagements, installations et les constructions nécessaires aux services publics ou 
+d’intérêt collectif, équipements légers d’animation et de loisirs de plein air
+
+
+>>> False
+
+Article 2 : Occupations ou utilisations du sol soumises à des conditions 
+particulières
+ 
+3) Dans les périmètres en bordure des cours d’eau définis dans les annexes 
+sanitaires du PLU :
+ 
+Seules les clôtures en grillage pourront être autorisées à condition qu'elles soient conçues de 
+manière à ne pas faire obstacle au libre écoulement des eaux. Elles doivent notamment être 
+suffisamment légères pour pouvoir plier en cas de crues exceptionnelles sous la pression de 
+l'eau et des divers matériaux charriés par le flux et devront être amovibles pour permettre le 
+passage nécessaire à l'entretien des cours d'eau.
+
+
+>>> False
+
+Article 2 : Occupations ou utilisations du sol soumises à des conditions 
+particulières
+ 
+4) Dans les périmètres des secteurs particuliers de risque d’inondation délimités 
+dans les documents graphiques du règlement :
+ 
+Les occupations et utilisations du sol ne sont admises que si elles sont conformes aux 
+dispositions issues du Plan de Prévention des Risques d’Inondations de la Basse vallée du 
+Lez et de la Mosson, annexé au présent PLU.
+
+
+>>> Verifiable
+
+Article 3 : Accès et voirie
+ 
+Dans l'ensemble de la zone :
+ 
+Pour être constructible, un terrain doit avoir accès à une voie publique ou privée soit 
+directement, soit par l’intermédiaire d’une servitude de passage instituée sur fonds voisin par 
+acte authentique ou par voie judiciaire.
+
+
+>>> False
+
+Article 3 : Accès et voirie
+ 
+Dans l'ensemble de la zone :
+ 
+Les accès doivent être adaptés à l’opération et aménagés de façon à apporter la moindre 
+gêne à la circulation publique.
+
+
+>>> False
+
+Article 3 : Accès et voirie
+ 
+Dans l'ensemble de la zone :
+ 
+Aucune opération ne peut prendre accès sur certaines sections de voies repérées sur les 
+documents graphiques du règlement.
+
+
+>>> False
+
+Article 3 : Accès et voirie
+ 
+Dans l'ensemble de la zone :
+ 
+Les caractéristiques des accès doivent permettre de satisfaire aux règles minimales de 
+desserte : défense contre l’incendie, protection civile, brancardage, ordures ménagères.
+
+
+>>> Non-verifiable
+
+Article 3 : Accès et voirie
+ 
+Dans l'ensemble de la zone :
+ 
+Les garages individuels et les parcs de stationnement privés doivent être disposés de telle 
+façon que les espaces nécessaires aux manoeuvres des véhicules soient aménagés à 
+l'intérieur des parcelles. En outre, ces garages et parcs ne doivent présenter qu'un seul 
+accès sur la voie publique s'ils sont destinés à recevoir moins de 30 véhicules et ne peuvent 
+présenter que deux accès au maximum sur une même voie pour 30 véhicules et au-delà.
+
+
+>>> Non-verifiable
+
+Article 3 : Accès et voirie
+ 
+Dans l'ensemble de la zone :
+ 
+Les accès doivent présenter au débouché sur la rue et en retrait de l’alignement sur une 
+distance d’au moins 5 mètres une pente n’excédant pas 5 %.
+
+
+>>> False
+
+Article 3 : Accès et voirie
+ 
+Dans l'ensemble de la zone :
+ 
+Les voies privées desservant des terrains ouverts à l’urbanisation devront avoir les 
+caractéristiques suivantes :
+ 
+− Les voies privées existantes, non ouvertes à la circulation publique devront dans tous les 
+cas, satisfaire aux règles minimales de desserte : défense contre l’incendie, protection civile, 
+brancardage, ordures ménagères.
+
+
+>>> Non-verifiable
+
+Article 3 : Accès et voirie
+ 
+Dans l'ensemble de la zone :
+ 
+Les voies privées desservant des terrains ouverts à l’urbanisation devront avoir les 
+caractéristiques suivantes :
+ 
+− Les voies privées nouvelles, non ouvertes à la circulation publique, ne devront pas avoir une 
+largeur inférieure à 4 mètres.
+
+
+>>> Non-verifiable
+
+Article 3 : Accès et voirie
+ 
+Dans l'ensemble de la zone :
+ 
+Les voies privées desservant des terrains ouverts à l’urbanisation devront avoir les 
+caractéristiques suivantes :
+ 
+− Les voies privées existantes, ouvertes à la circulation publique, ne devront pas avoir une 
+largeur inférieure à 4 mètres pour les voies à sens unique et à 6 mètres pour les voies à 
+double sens de circulation.
+
+
+>>> Non-verifiable
+
+Article 3 : Accès et voirie
+ 
+Dans l'ensemble de la zone :
+ 
+Les voies privées desservant des terrains ouverts à l’urbanisation devront avoir les 
+caractéristiques suivantes :
+ 
+− Les voies privées nouvelles, ouvertes à la circulation publique, ne devront pas avoir une 
+largeur inférieure à 6 mètres pour les voies à sens unique et à 9 mètres pour les voies à 
+double sens de circulation.
+
+
+>>> False
+
+Article 4 : Desserte par les réseaux
+ 
+Dans l'ensemble de la zone :
+ 
+a) Eau potable
+ 
+Toute construction doit être raccordée au réseau public de distribution existant.
+
+
+>>> False
+
+Article 4 : Desserte par les réseaux
+ 
+Dans l'ensemble de la zone :
+ 
+a) Eau potable
+ 
+En l’absence d’une distribution publique d’eau potable, l’alimentation personnelle d'un 
+logement en habitat individuel à partir d’un captage, forage, ou puits particulier pourra être 
+exceptionnellement autorisée, conformément à la réglementation en vigueur.
+
+
+>>> False
+
+Article 4 : Desserte par les réseaux
+ 
+Dans l'ensemble de la zone :
+ 
+a) Eau potable
+ 
+Dans le cas où cette adduction autonome ne serait plus réservée à l’usage personnel d'un 
+logement en habitat individuel, l’autorisation préfectorale pour l’utilisation d’eau destinée à la 
+consommation humaine devra être préalablement obtenue.
+
+
+>>> False
+
+Article 4 : Desserte par les réseaux
+ 
+Dans l'ensemble de la zone :
+ 
+b) Eaux usées / Eaux pluviales
+ 
+Les eaux résiduaires urbaines (vannes, ménagères et industrielles) doivent être traitées et 
+éliminées dans des conditions satisfaisantes d’hygiène et de salubrité conformément aux 
+dispositions de la réglementation en vigueur.
+
+
+>>> False
+
+Article 4 : Desserte par les réseaux
+ 
+Dans l'ensemble de la zone :
+ 
+b) Eaux usées / Eaux pluviales
+ 
+Le traitement des effluents autres que domestiques doivent être adaptés à l’importance et à 
+la nature de l’activité afin d’assurer une protection suffisante du milieu naturel.
+
+
+>>> False
+
+Article 4 : Desserte par les réseaux
+ 
+Dans l'ensemble de la zone :
+ 
+b) Eaux usées / Eaux pluviales
+ 
+Toute construction, réhabilitation ou installation nouvelle rejetant des eaux usées 
+domestiques doit être obligatoirement raccordée au réseau public, lorsqu’il existe, par des 
+canalisations souterraines étanches. Les raccordements aux réseaux devront être 
+conformes aux prescriptions du règlement du service d’assainissement applicable à la Ville 
+de Montpellier et du règlement sanitaire départemental de l’Hérault, notamment ses articles 
+42, 43 et 44.
+
+
+>>> False
+
+Article 4 : Desserte par les réseaux
+ 
+Dans l'ensemble de la zone :
+ 
+b) Eaux usées / Eaux pluviales
+ 
+En l’absence de réseau public, le pétitionnaire devra proposer une filière d’assainissement 
+non collectif à mettre en œuvre pour son projet en fonction des contraintes du sol et du site. 
+(Cf. art 5 caractéristiques des terrains).
+
+
+>>> False
+
+Article 4 : Desserte par les réseaux
+ 
+Dans l'ensemble de la zone :
+ 
+b) Eaux usées / Eaux pluviales
+ 
+Tout projet devra être conforme aux directives pour l’établissement des dossiers 
+d’assainissement (note D.E.D.A. définie à l’annexe sanitaire) auxquelles il conviendra de se 
+reporter, notamment pour les opérations effectuées sur des parcelles non desservies par un 
+réseau d'assainissement collectif.
+
+
+>>> False
+
+Article 4 : Desserte par les réseaux
+ 
+Dans l'ensemble de la zone :
+ 
+c) Electricité
+ 
+Les branchements ‘‘électricité’’ devront être établis en souterrain.
+
+
+>>> False
+
+Article 4 : Desserte par les réseaux
+ 
+Dans l'ensemble de la zone :
+ 
+d) Déchets ménagers
+ 
+Les locaux et aires de présentation nécessaires au stockage des conteneurs et à la collecte 
+sélective des déchets ménagers devront être définis dans l'opération.
+
+
+>>> False
+
+Article 5 : Caractéristiques des terrains
+ 
+Dans l'ensemble de la zone :
+ 
+Non réglementé
+
+
+>>> False
+
+Article 6 : Implantation des constructions par rapport aux voies et 
+emprises publiques
+ 
+Définition du prospect par rapport à l'alignement opposé :
+ 
+Il est défini par l’expression d’un rapport entre 2 variables : 
+−  la variable D : distance, comptée horizontalement de tout point du bâtiment au point le plus 
+proche de l’alignement opposé de la voie à l’altitude du sol existant ; 
+−  la variable A : différence d’altitude entre ces deux points.
+
+
+>>> False
+
+Article 6 : Implantation des constructions par rapport aux voies et 
+emprises publiques
+ 
+Définition de l'alignement :
+ 
+Il est constitué par la limite entre le domaine privé et le domaine public existant ou prévu.
+
+
+>>> False
+
+Article 6 : Implantation des constructions par rapport aux voies et 
+emprises publiques
+ 
+Définition de l'alignement :
+ 
+1) Dans l'ensemble de la zone :
+ 
+Sous réserve des règles définies aux paragraphes 2) et 3) du présent article. 
+D > ou = A
+
+
+>>> False
+
+Article 6 : Implantation des constructions par rapport aux voies et 
+emprises publiques
+ 
+Définition de l'alignement :
+ 
+2) Le long des voies désignées dans les documents graphiques du règlement:
+ 
+Les constructions devront respecter le retrait minimum indiqué dans les documents graphiques 
+du règlement.
+
+
+>>> False
+
+Article 7 : Implantation des constructions par rapport aux limites 
+séparatives
+ 
+Définition du prospect par rapport aux limites séparatives :
+ 
+Il est défini par l'expression d'un rapport entre 2 variables : 
+−  la variable L : distance comptée horizontalement de tout point du bâtiment au point de la 
+limite parcellaire qui en est le plus rapproché à l'altitude du sol existant ; 
+−  la variable H : différence d'altitude entre ces deux points. 
+Rappel : chaque prospect est calculé par rapport à la cote T.N correspondante en limite séparative sur 
+le fonds voisin.
+
+
+>>> False
+
+Article 7 : Implantation des constructions par rapport aux limites 
+séparatives
+ 
+1) Dans l'ensemble de la zone :
+ 
+Les règles d’implantation définies par le présent article ne s’appliquent qu’au dessus du 
+terrain naturel.
+
+
+>>> False
+
+Article 7 : Implantation des constructions par rapport aux limites 
+séparatives
+ 
+2) Dans les secteurs N-1, N-2 et N-5 :
+ 
+−  La distance L comptée horizontalement de tout point du bâtiment projeté au point de la 
+limite parcellaire qui en est le plus rapproché doit être au moins égale à la moitié de la 
+différence d’altitude H entre ces deux points, sans pouvoir être inférieure à 3 mètres.  
+(L = ou > à H/2 et au minimum L = ou > à 3 mètres ). 
+Cette règle ne concerne que les parties de construction en élévation au dessus du niveau 
+du terrain naturel.
+
+
+>>> False
+
+Article 7 : Implantation des constructions par rapport aux limites 
+séparatives
+ 
+2) Dans les secteurs N-1, N-2 et N-5 :
+ 
+−  Les constructions annexes ne créant pas de surface de plancher peuvent être édifiées en 
+limites séparatives . Sur ces limites ces annexes ne pourront avoir un linéaire 
+d’implantation total supérieur à 10 mètres, et une hauteur maximale, telle que définie à 
+l’article 10, supérieure à 3,50 mètres, sauf en cas d’accord écrit entre les propriétaires 
+intéressés permettant de dépasser ces normes.
+
+
+>>> False
+
+Article 7 : Implantation des constructions par rapport aux limites 
+séparatives
+ 
+2) Dans les secteurs N-1, N-2 et N-5 :
+ 
+−  En cas d’accord écrit entre les propriétaires intéressés, les bâtiments pourront être 
+édifiés dans la marge de reculement définie et jusqu’à la limite séparative .
+
+
+>>> False
+
+Article 7 : Implantation des constructions par rapport aux limites 
+séparatives
+ 
+2) Dans les secteurs N-1, N-2 et N-5 :
+ 
+−  Un bâtiment nouveau peut être adossé à un bâtiment existant s’il est d’un gabarit en 
+limites séparatives inférieur ou égal à celui du bâtiment existant.
+
+
+>>> False
+
+Article 7 : Implantation des constructions par rapport aux limites 
+séparatives
+ 
+3) Dans les secteurs N-3, N-4 et N-6 :
+ 
+Les constructions seront implantées soit en limite séparative, soit avec un retrait minimal de 
+3 mètres par rapport à celle-ci.
+
+
+>>> False
+
+Article 8 : Implantation des constructions les unes par rapport aux 
+autres sur une même propriété
+ 
+Dans l'ensemble de la zone :
+ 
+a) Principe général :
+ 
+Les règles d’implantation définies par le présent article ne s’appliquent qu’au dessus du 
+terrain naturel.
+
+
+>>> False
+
+Article 8 : Implantation des constructions les unes par rapport aux 
+autres sur une même propriété
+ 
+Dans l'ensemble de la zone :
+ 
+b) Règles particulières :
+ 
+Les constructions situées sur une même unité foncière doivent être implantées de telle 
+manière qu'elles satisfassent aux conditions suivantes : 
+Les baies éclairant les pièces principales des logements ne doivent être masquées par 
+aucune partie d'immeuble qui, à l'appui des baies, serait vue sous un angle de plus de 
+60 degrés au-dessus du plan horizontal. 
+Une distance d'au moins quatre mètres peut être imposée entre deux bâtiments non 
+contigus.
+
+
+>>> False
+
+Article 9 : Emprise au sol
+ 
+Dans l'ensemble de la zone
+ 
+Non réglementé.
+
+
+>>> False
+
+Article 10 : Hauteur maximale des constructions
+ 
+Définition de la hauteur maximale des constructions :
+ 
+La hauteur maximale HM d'une construction est définie comme le maximum de la distance 
+verticale de n'importe quel point de cette construction, superstructures comprises, à l'exception 
+des cheminées, des antennes, des enseignes et des dispositifs techniques de captage de 
+l’énergie solaire ou liés à la sécurité des personnes, au point correspondant du sol naturel avant 
+tous travaux quand celle-ci est exprimée en mètres ou au point correspondant au niveau zéro 
+dans le système de nivellement général de la France quand celle-ci est exprimée en mètres 
+NGF.
+
+
+>>> False
+
+Article 10 : Hauteur maximale des constructions
+ 
+Définition de la hauteur maximale des constructions :
+ 
+1) Dans les secteurs N-1, N-2 et N-5 :
+ 
+7 mètres
+
+
+>>> False
+
+Article 10 : Hauteur maximale des constructions
+ 
+Définition de la hauteur maximale des constructions :
+ 
+1) Dans les secteurs N-1, N-2 et N-5 :
+ 
+On pourra déroger à cette règle dans le cas de la rénovation d’un bâtiment existant et de son 
+extension mesurée dans la limite de la hauteur de ce bâtiment.
+
+
+>>> False
+
+Article 10 : Hauteur maximale des constructions
+ 
+Définition de la hauteur maximale des constructions :
+ 
+1) Dans les secteurs N-1, N-2 et N-5 :
+ 
+Pour les équipements publics et pour les pylônes support d’éclairage public, la hauteur n’est 
+pas réglementée.
+
+
+>>> False
+
+Article 10 : Hauteur maximale des constructions
+ 
+Définition de la hauteur maximale des constructions :
+ 
+2) Dans le secteur N-3 :
+ 
+8 mètres
+
+
+>>> False
+
+Article 10 : Hauteur maximale des constructions
+ 
+Définition de la hauteur maximale des constructions :
+ 
+2) Dans le secteur N-3 :
+ 
+Pour les équipements publics et pour les pylônes support d’éclairage public, la hauteur n’est 
+pas réglementée.
+
+
+>>> False
+
+Article 10 : Hauteur maximale des constructions
+ 
+Définition de la hauteur maximale des constructions :
+ 
+3) Dans le secteur N-4 et N-6 :
+ 
+9 mètres
+
+
+>>> False
+
+Article 10 : Hauteur maximale des constructions
+ 
+Définition de la hauteur maximale des constructions :
+ 
+3) Dans le secteur N-4 et N-6 :
+ 
+Pour les équipements publics et pour les pylônes support d’éclairage public, la hauteur n’est 
+pas réglementée.
+
+
+>>> False
+
+Article 11 : Aspect extérieur
+ 
+1) Dans tous les secteurs
+ 
+Pour les toitures en pente, les dispositifs techniques de captage de l’énergie solaire devront 
+être intégrés dans le plan de la toiture sans débord.
+
+
+>>> False
+
+Article 11 : Aspect extérieur
+ 
+2) Dans les secteurs N-1 et N-2 :
+ 
+a) En général
+ 
+Outre les dispositions de l’article R111.21 du code de l’urbanisme qui demeurent applicables 
+sur l’ensemble du territoire communal, à l’exclusion des périmètres couverts par une zone de 
+protection du patrimoine architectural, urbain et paysager ou un plan de sauvegarde et de 
+mise en valeur, les murs séparatifs les murs pignons, les murs de clôture, les bâtiments 
+annexes doivent avoir un aspect qui s’harmonise avec celui des façades principales.
+
+
+>>> False
+
+Article 11 : Aspect extérieur
+ 
+2) Dans les secteurs N-1 et N-2 :
+ 
+b)  En ce qui concerne les clôtures et hors des périmètres en bordure des cours d’eau définis 
+dans les annexes sanitaires du PLU
+ 
+• en limites séparatives 
+Hauteur maximum : 2 mètres 1,20 m de hauteur maximum en mur bahut surmonté d'un 
+grillage agrémenté de plantations sauf convention contraire entre voisins en définissant les 
+caractéristiques des matériaux et sous réserve des dispositions du code civil.
+
+
+>>> False
+
+Article 11 : Aspect extérieur
+ 
+2) Dans les secteurs N-1 et N-2 :
+ 
+b)  En ce qui concerne les clôtures et hors des périmètres en bordure des cours d’eau définis 
+dans les annexes sanitaires du PLU
+ 
+• à l’alignement des voies et emprises publiques 
+Hauteur maximum : 2 mètres : 
+les parties vues seront obligatoirement architecturées.
+
+
+>>> False
+
+Article 11 : Aspect extérieur
+ 
+2) Dans les secteurs N-1 et N-2 :
+ 
+b)  En ce qui concerne les clôtures et hors des périmètres en bordure des cours d’eau définis 
+dans les annexes sanitaires du PLU
+ 
+• à l’alignement des voies et emprises publiques  
+Au-dessus du terrain naturel ou du trottoir , d’une manière générale, les clôtures devront 
+être constituées d’un mur bahut de 1,20 m de hauteur maximum , surmonté d’un grillage 
+agrémenté de plantations.
+
+
+>>> False
+
+Article 11 : Aspect extérieur
+ 
+2) Dans les secteurs N-1 et N-2 :
+ 
+b)  En ce qui concerne les clôtures et hors des périmètres en bordure des cours d’eau définis 
+dans les annexes sanitaires du PLU
+ 
+• à l’alignement des voies et emprises publiques  
+Dans les cas particuliers énumérés ci-après ces hauteurs pourront être dépassées : 
+− nuisances phoniques en bordure des voies à grande circulation, 
+− reconstitution des équipements existants, 
+− harmonie de la clôture par rapport aux clôtures avoisinantes. 
+− casernes ( gendarmerie, C.R.S., armée, etc... ).
+
+
+>>> False
+
+Article 11 : Aspect extérieur
+ 
+3) Dans le secteur N-3 et N-6 :
+ 
+Les constructions devront être intégrées au mieux dans leur environnement, notamment par 
+l’utilisation de couleur ou de matériaux d’aspect naturel. Les locaux techniques devront être 
+masqués par des écrans végétaux.
+
+
+>>> False
+
+Article 11 : Aspect extérieur
+ 
+3) Dans le secteur N-3 et N-6 :
+ 
+Deux types de clôtures sont possibles : 
+• pour les espaces privatifs ou publics, lorsque les différences de niveau sont significatives, 
+les clôtures se feront alors par l’intermédiaire des murs de soutènement. Ceux-ci 
+présenteront une rupture franche entre ces deux espaces, les jardins privés surplombant 
+légèrement les espaces publics ; ils pourront être surmontés d’un grillage d’une hauteur 
+maximale de 2 mètres. 
+• pour les espaces privatifs ou publics, lorsque les différences de niveau seront peu 
+prononcées, les clôtures seront de type « grille de parc » ou grillage masqué par des 
+plantations en haies ; elles ne pourront avoir une hauteur supérieure à 2 mètres.
+
+
+>>> False
+
+Article 11 : Aspect extérieur
+ 
+4) Dans le secteur N-4 :
+ 
+Non réglementé
+
+
+>>> False
+
+Article 11 : Aspect extérieur
+ 
+5) Dans le secteur N-5 :
+ 
+a) En général
+ 
+Outre les dispositions de l’article R111-21 du code de l’urbanisme qui demeurent applicables 
+sur l’ensemble du territoire communal, à l’exclusion des périmètres couverts par une zone de 
+protection du patrimoine architectural, urbain et paysager ou un plan de sauvegarde et de 
+mise en valeur, les murs séparatifs les murs pignons, les murs de clôture, les bâtiments 
+annexes doivent avoir un aspect qui s’harmonise avec celui des façades principales.
+
+
+>>> False
+
+Article 11 : Aspect extérieur
+ 
+5) Dans le secteur N-5 :
+ 
+b)  En ce qui concerne les clôtures et hors des périmètres en bordure des cours d’eau définis 
+dans les annexes sanitaires du PLU
+ 
+Hauteur minimale : 1,50 mètre
+
+
+>>> False
+
+Article 11 : Aspect extérieur
+ 
+5) Dans le secteur N-5 :
+ 
+b)  En ce qui concerne les clôtures et hors des périmètres en bordure des cours d’eau définis 
+dans les annexes sanitaires du PLU
+ 
+Les clôtures seront constituées par un mur ou un grillage doublé d’une haie d’arbustes 
+épineux ou à feuilles persistantes, étanche à la vue et à l’intrusion.
+
+
+>>> False
+
+Article 12 : Stationnement des véhicules
+ 
+1) Dans les secteurs N-1 à N-5 :
+ 
+Le stationnement des véhicules correspondant aux besoins des constructions et des 
+installations doit être assuré en dehors des voies publiques. Les surfaces de plancher 
+existantes objet de travaux sans changement de destination ou dont la destination sera 
+modifiée, devront satisfaire uniquement aux besoins supplémentaires induits par le nouveau 
+programme ou la nouvelle affectation. 
+Le calcul des droits de stationnement initiaux de ces surfaces de plancher existantes sera 
+effectué sur la base de leur destination effective au moment du dépôt de l’autorisation 
+d’urbanisme, et des règles particulières définies pour cette destination, le cas échéant, au(x) 
+paragraphe(s) suivant(s) du présent article, nonobstant les dispositions spécifiques applicables 
+dans les périmètres de desserte par le tramway.
+
+
+>>> False
+
+Article 12 : Stationnement des véhicules
+ 
+1) Dans les secteurs N-1 à N-5 :
+ 
+Le nombre de places de stationnement, y compris le stationnement lié aux livraisons de 
+marchandises, doit répondre aux besoins engendrés par la nature, la fonction et la localisation 
+des constructions, travaux ou ouvrages réalisés.
+
+
+>>> Non-verifiable
+
+Article 12 : Stationnement des véhicules
+ 
+1) Dans les secteurs N-1 à N-5 :
+ 
+Les dimensions à prendre en compte dans le cas de garages ou aires de stationnement sont au 
+minimum de 5 mètres pour la longueur et de 2,50 mètres pour la largeur. Cette dernière 
+dimension sera portée à 3,30 mètres pour un parking “handicapé”, et à 2,00 mètres s'il s'agit 
+d'une place de stationnement longitudinal.
+
+
+>>> Non-verifiable
+
+Article 12 : Stationnement des véhicules
+ 
+2) Dans les périmètres de desserte par le tramway :
+ 
+Pour les constructions destinées à l’habitation situées tout ou partie dans les périmètres de 
+desserte par le tramway définis dans les documents graphiques du règlement, le quota 
+applicable est au maximum de : 
+- 0,5 place par logement pour les logements locatifs financés avec un prêt aidé par l’Etat, les 
+établissements assurant l’hébergement des personnes âgées et les résidences universitaires ; 
+- 1 place par logement pour toutes les autres constructions destinées à l’habitation.
+
+
+>>> Non-verifiable
+
+Article 12 : Stationnement des véhicules
+ 
+2) Dans les périmètres de desserte par le tramway :
+ 
+Pour les constructions autres que celles destinées à l’habitation situées tout ou partie dans les 
+périmètres de desserte par le tramway définis dans les documents graphiques du règlement, le 
+quota applicable est au minimum de 1 place de stationnement pour 300 m² de surface de 
+plancher.
+
+
+>>> False
+
+Article 12 : Stationnement des véhicules
+ 
+3) Rappel :
+ 
+En application des dispositions du code de l'urbanisme :
+ 
+−  Nonobstant les règles définies ci-dessus, il ne peut être exigé la réalisation de plus d’une 
+aire de stationnement par logement lors de la construction de logements locatifs financés 
+avec un prêt aidé par l’Etat, d’établissements assurant l’hébergement des personnes âgées 
+et des résidences universitaires (L.151-35).
+
+
+>>> False
+
+Article 12 : Stationnement des véhicules
+ 
+3) Rappel :
+ 
+En application des dispositions du code de l'urbanisme :
+ 
+−  Pour des raisons d'ordre technique, architectural ou urbanistique empêchant la réalisation 
+matérielle des places réglementaires sur le terrain d'assiette ou dans son environnement 
+immédiat, le pétitionnaire pourra s'affranchir de ses obligations par deux moyens (L151-33) :  
+•  l’obtention d’une concession à long terme dans un parc public de stationnement existant 
+ou en cours de réalisation et situé à proximité de l’opération ; 
+•  l’acquisition ou la concession de places dans un parking privé de stationnement existant 
+ou en cours de réalisation et situé à proximité de l’opération.
+
+
+>>> Non-verifiable
+
+Article 12 : Stationnement des véhicules
+ 
+3) Dans le secteur N-6
+ 
+Les constructions et installations nécessaires aux services publics ou d'intérêt collectif autorisées 
+dans la zone devront assurer la réalisation de places de stationnement correspondant à leurs 
+besoins, en tenant compte notamment : 
+‐ du nombre prévisible de personnels, usagers et visiteurs de ces constructions ou installations, 
+‐ de leurs modes de fréquentation impliquant ou non une infrastructure de stationnement 
+spécifique qui leur soit attachée ; 
+‐ des conditions d’accès et de la politique des déplacements mise en oeuvre, notamment des 
+conditions d’accès par les transports publics réguliers et par des véhicules non motorisés, des 
+capacités de stationnement dans un rayon de 500 m, dans des parcs de stationnement pouvant 
+répondre aux besoins du projet.
+
+
+>>> Non-verifiable
+
+Article 12 : Stationnement des véhicules
+ 
+3) Dans le secteur N-6
+ 
+Pour la réalisation des places de stationnement, les dimensions à prendre en compte dans le cas 
+de garages ou aires de stationnement sont au minimum de 5 mètres pour la longueur et de 2,50 
+mètres pour la largeur. Cette dernière dimension sera portée à 3,30 mètres pour un parking « 
+handicapé », et à 2 mètres s’il s’agit d’une place de stationnement longitudinal.
+
+
+>>> False
+
+Article 13 : Espaces libres et plantations
+ 
+Définition des espaces libres :
+ 
+Les espaces libres comprennent : 
+−  les espaces verts ; 
+−  les espaces piétonniers y compris lorsqu'ils sont accessibles aux véhicules de sécurité, s'ils 
+sont traités en matériaux perméables.
+
+
+>>> False
+
+Article 13 : Espaces libres et plantations
+ 
+Définition des espaces libres :
+ 
+Sont exclus tous les espaces accessibles aux autres véhicules.
+
+
+>>> Non-verifiable
+
+Article 13 : Espaces libres et plantations
+ 
+1) Dans tous les secteurs :
+ 
+Les travaux ayant pour effet de modifier ou de supprimer tout ou partie des espaces protégés 
+au titre de l’article L.123-1-5 III 2° représentés aux documents graphiques du PLU sont soumis 
+à déclaration préalable et peuvent :
+ 
+-être interdits pour un motif d'ordre culturel, historique ou écologique correspondant à l’un 
+des objets suivants : 
+- la préservation d’un paysage ; 
+- le maintien des équilibres écologiques ; 
+- la qualité végétale ou arboricole ;
+
+
+>>> Non-verifiable
+
+Article 13 : Espaces libres et plantations
+ 
+1) Dans tous les secteurs :
+ 
+Les travaux ayant pour effet de modifier ou de supprimer tout ou partie des espaces protégés 
+au titre de l’article L.123-1-5 III 2° représentés aux documents graphiques du PLU sont soumis 
+à déclaration préalable et peuvent :
+ 
+- 
+être autorisés sous réserve de satisfaire à tout ou partie des conditions suivantes : 
+- assurer la sécurité des biens et des personnes, 
+- réduire les risques sanitaires (allergie par exemple), 
+- garantir la qualité phytosanitaire de l’ensemble végétal, 
+- permettre la réalisation d’un projet d’ensemble reconstituant le boisement avec qualité.
+
+
+>>> Verifiable
+
+Article 13 : Espaces libres et plantations
+ 
+1) Dans tous les secteurs :
+ 
+Dans tous les cas, la destruction partielle des plantations existantes protégées par l’article 
+L.123-1-5 III 2° du code de l’urbanisme, est admise dès lors qu’elle est compensée par des 
+plantations restituant ou améliorant l’ambiance végétale initiale.
+
+
+>>> False
+
+Article 13 : Espaces libres et plantations
+ 
+2) Dans les secteurs N-1 et N-2 :
+ 
+En règle générale, les arbres de hautes tiges existants et les masses végétales significatives, 
+doivent être maintenus. En cas d’incompatibilité avec le projet, ils pourront être 
+exceptionnellement transplantés sur l’unité foncière, si cela est techniquement possible. Dans le 
+cas contraire, ils seront remplacés par des plantations de valeur équivalentes sur l’unité 
+foncière.
+
+
+>>> Non-verifiable
+
+Article 13 : Espaces libres et plantations
+ 
+2) Dans les secteurs N-1 et N-2 :
+ 
+Les aires de stationnement en surface seront obligatoirement plantées à raison d’un arbre de 
+haute tige pour 2 places de stationnement minimum, ces plantations pourront être réalisées en 
+bosquet (regroupement).
+
+
+>>> Non-verifiable
+
+Article 13 : Espaces libres et plantations
+ 
+2) Dans les secteurs N-1 et N-2 :
+ 
+La surface des espaces libres devra être égale à 60 % de la surface de l’unité foncière.
+
+
+>>> False
+
+Article 13 : Espaces libres et plantations
+ 
+3) Dans le secteur N-3 et N-6 :
+ 
+Définition :
+ 
+− Les espaces libres concernent tout espace privé non bâti, les espaces verts, les espaces 
+piétonniers. Les espaces verts présentent une continuité végétale entre l’espace public et les 
+jardins privatifs. 
+Les cours couvertes, les cours anglaises et les rampes de parc de stationnement ne sont pas 
+considérées comme espaces libres.
+
+
+>>> False
+
+Article 13 : Espaces libres et plantations
+ 
+3) Dans le secteur N-3 et N-6 :
+ 
+Principes généraux :
+ 
+− Tout espace privé, non bâti, sera aménagé et participera au projet global des espaces libres. 
+Les espaces paysagés sont le cœur du dispositif retenu pour la ZAC. Ils en fixent le caractère 
+et conditionnent l’implantation et la définition du bâti.
+
+
+>>> False
+
+Article 13 : Espaces libres et plantations
+ 
+3) Dans le secteur N-3 et N-6 :
+ 
+Principes généraux :
+ 
+− Les plantations doivent être disposées de manière à ne pas nuire à la salubrité des 
+constructions. Les espaces libres existants liés aux bâtiments conservés pourront évoluer de 
+manière limitée et s’harmoniseront avec le projet global des espaces paysagés.
+
+
+>>> False
+
+Article 13 : Espaces libres et plantations
+ 
+3) Dans le secteur N-3 et N-6 :
+ 
+Principes généraux :
+ 
+− Les espaces libres doivent faire l’objet d’un traitement de qualité pouvant associer aux arbres et 
+plantations diverses, des parties minérales.
+
+
+>>> False
+
+Article 13 : Espaces libres et plantations
+ 
+3) Dans le secteur N-3 et N-6 :
+ 
+Principes généraux :
+ 
+− Pour maintenir l’harmonie générale, chaque opération fera l’objet d’un projet d’aménagement 
+paysager des espaces extérieurs aux bâtiments, exprimant la composition générale. Ce projet 
+devra prévoir de végétaliser largement les espaces libres. Un plan de ce projet sera joint à la 
+demande de permis de construire de cette opération, ainsi qu’un état des plantations 
+existantes, conformément aux dispositions du Code de l’urbanisme.
+
+
+>>> False
+
+Article 13 : Espaces libres et plantations
+ 
+3) Dans le secteur N-3 et N-6 :
+ 
+Principes généraux :
+ 
+− Les espaces libres sont le plus souvent organisés autour d’un vaste jardin public. Celui-ci 
+tendra à préserver l’aspect naturel du site tant dans sa topographie que dans sa composition. 
+Les espaces libres privés seront conçus en relation avec ce parc public (plantations, 
+clôtures…). Ils l’accompagneront pour constituer une continuité végétale. Les essences et les 
+implantations de ces arbres devront faire l’objet d’un soin particulier.
+
+
+>>> False
+
+Article 13 : Espaces libres et plantations
+ 
+3) Dans le secteur N-3 et N-6 :
+ 
+Principes généraux :
+ 
+− Les espaces verts viendront en limite des zones construites et proposeront un rapport franc 
+avec le bâti. Entre espaces libres privés et espaces libres publics, l’implantation des clôtures et 
+des limites séparatives s’intégrera au projet global des espaces paysagés.
+
+
+>>> Non-verifiable
+
+Article 13 : Espaces libres et plantations
+ 
+3) Dans le secteur N-3 et N-6 :
+ 
+Règles :
+ 
+− Les espaces végétalisés sur dalle seront réalisés sur une couche de terre arable.
+
+
+>>> Non-verifiable
+
+Article 13 : Espaces libres et plantations
+ 
+3) Dans le secteur N-3 et N-6 :
+ 
+Règles :
+ 
+− Un arbre à grand développement au minimum devra être planté par fraction de 200 m2 
+d’espace libre.
+
+
+>>> Non-verifiable
+
+Article 13 : Espaces libres et plantations
+ 
+3) Dans le secteur N-3 et N-6 :
+ 
+Règles :
+ 
+− Les aires de stationnement doivent être plantées à raison d’un arbre de haute tige pour 3 
+places de parking minimum, à l’exception des stationnements longitudinaux situés le long des 
+voies privées qui feront l’objet d’aménagements spécifiques.
+
+
+>>> False
+
+Article 13 : Espaces libres et plantations
+ 
+4) Dans les secteurs N-4 et N-5 :
+ 
+Non réglementé
+
+
+>>> False
+
+Article 14 : Coefficient d’occupation du sol (COS)
+ 
+1) Dans les secteurs N-1, N-2, N-5 et N-6 :
+ 
+Non réglementé.
+
+
+>>> Soft
+
+Article 14 : Coefficient d’occupation du sol (COS)
+ 
+2) Dans le secteur N-3 :
+ 
+Le secteur N-3 constitue un îlot au sens de l’article L.123-3, dernier alinéa, du code de 
+l’urbanisme.
+
+
+>>> Non-verifiable
+
+Article 14 : Coefficient d’occupation du sol (COS)
+ 
+2) Dans le secteur N-3 :
+ 
+La surface de plancher autorisée dans cet îlot est de 1 000 m².
+
+
+>>> Soft
+
+Article 14 : Coefficient d’occupation du sol (COS)
+ 
+3) Dans le secteur N-4 :
+ 
+Le secteur N-4 constitue un îlot au sens de l’article L.123-3, dernier alinéa, du code de 
+l’urbanisme.
+
+
+>>> Non-verifiable
+
+Article 14 : Coefficient d’occupation du sol (COS)
+ 
+3) Dans le secteur N-4 :
+ 
+La surface de plancher autorisée dans cet îlot est de 2 500 m².
+
+

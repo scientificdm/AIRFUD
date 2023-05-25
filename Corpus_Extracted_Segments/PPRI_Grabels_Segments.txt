@@ -1,0 +1,1213 @@
+>>> False
+
+PORTEE DU REGLEMENT - DISPOSITIONS GENERALES
+ 
+I/ Champ d'application :
+ 
+Le présent règlement s'applique sur le territoire des communes de Montarnaud, Vailhauquès, Murles, Combaillaux, Grabels, Juvignac et Saint 
+Georges d’Orques  délimité sur le plan de zonage du Plan de Prévention des Risques Naturels de la haute vallée de la Mosson  prescrit par 
+arrêté préfectoral en date du 21 juin 2000.
+
+
+>>> False
+
+PORTEE DU REGLEMENT - DISPOSITIONS GENERALES
+ 
+I/ Champ d'application :
+ 
+Il détermine les mesures de protection et de prévention à mettre en oeuvre pour les risques naturels d'inondation.
+
+
+>>> False
+
+PORTEE DU REGLEMENT - DISPOSITIONS GENERALES
+ 
+I/ Champ d'application :
+ 
+Conformément aux dispositions de l'article 3 du décret n° 95-1089 du 5 octobre 1995, le territoire concerné est divisé en 3 zones : 
+− des zones rouges très exposées correspondant à une zone d’écoulement principal ou à des secteurs recouverts par une lame 
+d’eau supérieure à 0,50m en crue centennale, 
+− des zones bleues exposées à des risques moindres correspondant aux champs d’expansion des crues, 
+− une zone blanche, sans risque prévisible pour la crue de référence
+
+
+>>> False
+
+PORTEE DU REGLEMENT - DISPOSITIONS GENERALES
+ 
+I/ Champ d'application :
+ 
+En application de la loi du 13 juillet 1982 relative à l'indemnisation des victimes des catastrophes naturelles, le présent règlement fixe les 
+dispositions applicables aux biens et activités existants ainsi qu'à l'implantation de toutes constructions et installations, à l'exécution de tous 
+travaux et à l'exercice de toutes activités, sans préjudice de l'application des autres législations réglementaires en vigueur.
+
+
+>>> False
+
+PORTEE DU REGLEMENT - DISPOSITIONS GENERALES
+ 
+II/ Les effets du P.P.R. et du règlement :
+ 
+La nature et les conditions d'exécution des techniques de prévention prises pour l'application du présent règlement, sont 
+définies et mises en oeuvre sous la responsabilité du maître d'ouvrage et du maître d'oeuvre concernés pour les 
+constructions, travaux et installations visés.
+
+
+>>> False
+
+PORTEE DU REGLEMENT - DISPOSITIONS GENERALES
+ 
+II/ Les effets du P.P.R. et du règlement :
+ 
+Le P.P.R. vaut servitude d'utilité publique, les mesures de prévention définies par le P.P.R. s'imposent à toutes 
+constructions, travaux, installations et activités entrepris ou exercés. Cette servitude doit être annexée au plan 
+d'occupation des sols.
+
+
+>>> False
+
+PORTEE DU REGLEMENT - DISPOSITIONS GENERALES
+ 
+II/ Les effets du P.P.R. et du règlement :
+ 
+Les biens et activités existants antérieurement à la publication de ce plan de prévention continuent de bénéficier du 
+régime général de garantie prévu par la loi.
+
+
+>>> False
+
+PORTEE DU REGLEMENT - DISPOSITIONS GENERALES
+ 
+II/ Les effets du P.P.R. et du règlement :
+ 
+Pour les biens et activités créés postérieurement à sa publication le respect des dispositions du P.P.R. conditionne la 
+possibilité pour l'assuré, de bénéficier de la réparation des dommages matériels directement occasionnés par l'intensité 
+anormale d'un agent naturel, sous réserve que soit constaté par arrêté interministériel l'état de catastrophe naturelle.
+
+
+>>> False
+
+PORTEE DU REGLEMENT - DISPOSITIONS GENERALES
+ 
+II/ Les effets du P.P.R. et du règlement :
+ 
+Conformément à l'article 5 du décret n° 95-1089 du 5 octobre 1995, les mesures de prévention prévues par le Plan de 
+Prévention des Risques Naturels prévisibles concernant les biens existants antérieurement à sa publication, ne peuvent 
+entraîner un coût supérieur à 10 % de la valeur vénale des biens concernés.
+
+
+>>> False
+
+PORTEE DU REGLEMENT - DISPOSITIONS GENERALES
+ 
+II/ Les effets du P.P.R. et du règlement :
+ 
+Ces mesures individuelles doivent être prises dans un délai de 5 ans après l'approbation du PPR. Elles peuvent 
+concerner une mise en sécurité au regard de l'inondation des différents réseaux (électricité, eau, assainissement), des 
+appareils ménagers (chauffe-eau, chaudières, compteur électrique ...) et éventuellement la mise en place de systèmes 
+d'étanchéité du bâtiment lui-même.
+
+
+>>> False
+
+PORTEE DU REGLEMENT - DISPOSITIONS GENERALES
+ 
+II/ Les effets du P.P.R. et du règlement :
+ 
+Les dispositions de ce règlement constituent des mesures minimales de prévention individuelles ou collectives. Il 
+appartient aux différents maîtres d'ouvrages de prendre en compte les risques affichés, et de prévoir les mesures de 
+prévention en conséquence.
+
+
+>>> False
+
+PORTEE DU REGLEMENT - DISPOSITIONS GENERALES
+ 
+II/ Les effets du P.P.R. et du règlement :
+ 
+Il revient au maître d'ouvrage de chaque opération, de choisir les mesures adéquates lui permettant, dans la limite des 10 % 
+de la valeur vénale des biens, de justifier, en cas de sinistre, qu'il a mis en oeuvre les mesures de prévention nécessaires.
+
+
+>>> False
+
+PORTEE DU REGLEMENT - DISPOSITIONS GENERALES
+ 
+II/ Les effets du P.P.R. et du règlement :
+ 
+Afin de pouvoir édicter des règles simples et dont la mise en oeuvre présente le moins de difficultés possibles, il est 
+nécessaire de bien définir les repères d'altitude qui serviront de calage aux différentes prescriptions du règlement :
+ 
+− La cote N.G.F. du terrain est le niveau du terrain naturel avant travaux  
+Toute demande d’autorisation en zone inondable devra être accompagnée d’un levé topographique rattaché aux altitudes 
+normales IGN 69 dressé par un géomètre expert à l’échelle correspondant à la précision altimétrique de 0,10 m
+
+
+>>> False
+
+PORTEE DU REGLEMENT - DISPOSITIONS GENERALES
+ 
+II/ Les effets du P.P.R. et du règlement :
+ 
+Afin de pouvoir édicter des règles simples et dont la mise en oeuvre présente le moins de difficultés possibles, il est 
+nécessaire de bien définir les repères d'altitude qui serviront de calage aux différentes prescriptions du règlement :
+ 
+− le niveau des Plus Hautes Eaux (P.H.E.) est la cote NGF atteinte par la crue centennale calculée ou cote des plus 
+hautes eaux connues si celle-ci est supérieure à la crue centennale calculée. 
+C'est la cote de P.H.E. qui servira  à  caler la sous-face du 1er plancher aménagé
+
+
+>>> False
+
+PORTEE DU REGLEMENT - DISPOSITIONS GENERALES
+ 
+III/ Règles générales
+ 
+1- Carrières 
+Les demandes d'ouverture et d'exploitation de carrières, sablières ou gravières font l'objet d'une instruction de la part des 
+services de la D.R.I.R.E. (Direction Régionale de l'Industrie et de la Recherche). 
+Elles devront être conformes aux orientations du SDAGE approuvé le 20.12.96 et au schéma départemental des carrières.
+
+
+>>> False
+
+PORTEE DU REGLEMENT - DISPOSITIONS GENERALES
+ 
+III/ Règles générales
+ 
+2 - Travaux en rivière 
+Les installations, ouvrages, travaux et activités dans le lit des cours d'eau sont susceptibles d'être soumis à déclaration ou 
+autorisation au titre de la loi sur l'eau. 
+Pour tous travaux relatifs à la ripisylve, il convient de se référer aux orientations et préconisations du SDAGE.
+
+
+>>> False
+
+PORTEE DU REGLEMENT - DISPOSITIONS GENERALES
+ 
+III/ Règles générales
+ 
+3 - Maîtrise des eaux pluviales 
+Conformément aux dispositions de l'article 35 de la Loi 92.3 sur l'eau, la commune doit, afin de se prémunir des risques 
+d'inondabilité liés au ruissellement pluvial urbain en cas de pluie intense, définir : 
+− Les zones où des mesures doivent être prises pour limiter l'imperméabilisation des sols et pour assurer la maîtrise du débit et 
+de l'écoulement des eaux pluviales et de ruissellement. 
+− Les zones où il est nécessaire de prévoir des installations pour assurer la collecte, le stockage et le traitement éventuels des 
+eaux pluviales et de ruissellement. 
+Afin de limiter les ruissellements pluviaux,  toute opération d'urbanisation nouvelle entrant dans le cadre de la loi sur l'eau devra 
+prévoir les mesures compensatoires suffisantes pour permettre une rétention des eaux pluviales dans la proportion  
+de 100 litres/m2 imperméabilisés. 
+Pour préserver les axes d'écoulement, une bande non aedificandi de 10 m de part et d'autre des ruisseaux n'ayant pas fait  
+l'objet d'une étude hydraulique spécifique, classée en zone rouge "R", est reportée sur les documents graphiques.
+
+
+>>> False
+
+PORTEE DU REGLEMENT - DISPOSITIONS GENERALES
+ 
+III/ Règles générales
+ 
+4 – Alerte aux crues 
+La commune devra mettre en place dans un délai d’un an après l’approbation du PPR, tenir et diffuser un plan d’alerte et de 
+secours en cas d’inondation.
+
+
+>>> False
+
+PORTEE DU REGLEMENT - DISPOSITIONS GENERALES
+ 
+III/ Règles générales
+ 
+5 – Travaux de protection 
+Il est souhaitable que l’étude de travaux de protection des zones densément urbanisées soit engagée dans les plus brefs délais 
+après l’approbation du PPR, soit par la commune, soit par un syndicat de communes sur un périmètre élargi au bassin versant. 
+Les travaux autorisés dans le règlement ci-dessous et fortement encouragés par l’Etat dans le cadre des textes réglementaires 
+ou des possibilités de subvention doivent être menées dans les meilleurs délais.
+
+
+>>> False
+
+IV/ DISPOSITIONS CONSTRUCTIVES
+ 
+Mesures de prévention dans le cadre de constructions en zones inondables
+ 
+Techniques particulières à mettre en oeuvre sous la responsabilité du maître d'ouvrage et de son maître d'oeuvre dans le 
+cadre de constructions nouvelles ou de travaux sur le bâti existant, en zone inondable :
+ 
+− Les fondations, murs et parties de la  structure situés au-dessous de la cote de référence devront comporter sur leur partie 
+supérieure une arase étanche. Les matériaux de ces structures sensibles à la corrosion devront être traités avec des produits 
+hydrofuges ou anti-corrosifs.
+
+
+>>> False
+
+IV/ DISPOSITIONS CONSTRUCTIVES
+ 
+Mesures de prévention dans le cadre de constructions en zones inondables
+ 
+Techniques particulières à mettre en oeuvre sous la responsabilité du maître d'ouvrage et de son maître d'oeuvre dans le 
+cadre de constructions nouvelles ou de travaux sur le bâti existant, en zone inondable :
+ 
+− Les constructions seront fondées dans le sol de façon à résister à des affouillements, à des tassements ou à des érosions 
+détaillées. Elles devront être capables de résister à la pression hydrostatique.
+
+
+>>> False
+
+IV/ DISPOSITIONS CONSTRUCTIVES
+ 
+Mesures de prévention dans le cadre de constructions en zones inondables
+ 
+Techniques particulières à mettre en oeuvre sous la responsabilité du maître d'ouvrage et de son maître d'oeuvre dans le 
+cadre de constructions nouvelles ou de travaux sur le bâti existant, en zone inondable :
+ 
+− Les matériaux de second-oeuvre (cloisons, menuiseries, portes...etc) et les revêtements (sols, murs...) situés au-dessous de la 
+cote de référence seront réalisés avec des matériaux insensibles à l'eau, ou correctement traités.
+
+
+>>> False
+
+IV/ DISPOSITIONS CONSTRUCTIVES
+ 
+Mesures de prévention dans le cadre de constructions en zones inondables
+ 
+Techniques particulières à mettre en oeuvre sous la responsabilité du maître d'ouvrage et de son maître d'oeuvre dans le 
+cadre de constructions nouvelles ou de travaux sur le bâti existant, en zone inondable :
+ 
+− Les réseaux extérieurs d'eau, de gaz et d'électricité doivent être dotés d'un dispositif de mise hors-service, ou bien réalisés 
+entièrement au-dessus de la cote de référence.
+
+
+>>> False
+
+IV/ DISPOSITIONS CONSTRUCTIVES
+ 
+Mesures de prévention dans le cadre de constructions en zones inondables
+ 
+Techniques particulières à mettre en oeuvre sous la responsabilité du maître d'ouvrage et de son maître d'oeuvre dans le 
+cadre de constructions nouvelles ou de travaux sur le bâti existant, en zone inondable :
+ 
+− Les réseaux d'assainissement nouvellement réalisés doivent être étanches et munis de clapets anti-retour. Les bouches d'égouts 
+doivent être verrouillées.
+
+
+>>> False
+
+IV/ DISPOSITIONS CONSTRUCTIVES
+ 
+Mesures de prévention dans le cadre de constructions en zones inondables
+ 
+Techniques particulières à mettre en oeuvre sous la responsabilité du maître d'ouvrage et de son maître d'oeuvre dans le 
+cadre de constructions nouvelles ou de travaux sur le bâti existant, en zone inondable :
+ 
+− Les équipements électriques doivent être placés au-dessus de la cote de référence, à l'exception des dispositifs d'épuisement ou 
+de pompage.
+
+
+>>> Non-verifiable
+
+IV/ DISPOSITIONS CONSTRUCTIVES
+ 
+Mesures de prévention dans le cadre de constructions en zones inondables
+ 
+Techniques particulières à mettre en oeuvre sous la responsabilité du maître d'ouvrage et de son maître d'oeuvre dans le 
+cadre de constructions nouvelles ou de travaux sur le bâti existant, en zone inondable :
+ 
+− Les aménagements autorisés ne devront pas conduire à la création de stocks de produits ou objets de valeur, vulnérables à l'eau, 
+en-dessous de la cote de référence.
+
+
+>>> Non-verifiable
+
+IV/ DISPOSITIONS CONSTRUCTIVES
+ 
+Mesures de prévention dans le cadre de constructions en zones inondables
+ 
+Techniques particulières à mettre en oeuvre sous la responsabilité du maître d'ouvrage et de son maître d'oeuvre dans le 
+cadre de constructions nouvelles ou de travaux sur le bâti existant, en zone inondable :
+ 
+− Les citernes enterrées ou non et les citernes sous pression ainsi que tous les récipients contenant des hydrocarbures, du gaz,des 
+engrais liquides, des pesticides, et d'une façon générale, tous les produits sensibles à l'humidité, devront être protégés contre les 
+effets de la crue centennale (mises hors d'eau ou fixées et rendues étanches).
+
+
+>>> False
+
+IV/ DISPOSITIONS CONSTRUCTIVES
+ 
+Mesures de prévention dans le cadre de constructions en zones inondables
+ 
+Techniques particulières à mettre en oeuvre sous la responsabilité du maître d'ouvrage et de son maître d'oeuvre dans le 
+cadre de constructions nouvelles ou de travaux sur le bâti existant, en zone inondable :
+ 
+− Le stockage des produits polluants, quelle que soit leur quantité ou concentration, devra être réalisé dans des récipients 
+étanches et protégés contre les effets de l' inondation centennale. La nomenclature de ces produits est fixée par la législation 
+sur les installations classées, et par le Règlement Sanitaire Départemental.
+
+
+>>> False
+
+IV/ DISPOSITIONS CONSTRUCTIVES
+ 
+Mesures de prévention dans le cadre de constructions en zones inondables
+ 
+Techniques particulières à mettre en oeuvre sous la responsabilité du maître d'ouvrage et de son maître d'oeuvre dans le 
+cadre de constructions nouvelles ou de travaux sur le bâti existant, en zone inondable :
+ 
+− Les piscines doivent disposer d'un système de balisage permanent de façon à pouvoir en visualiser l'emprise en cas de crue.
+
+
+>>> False
+
+IV/ DISPOSITIONS CONSTRUCTIVES
+ 
+Mesures de prévention dans le cadre de constructions en zones inondables
+ 
+Techniques particulières à mettre en oeuvre sous la responsabilité du maître d'ouvrage et de son maître d'oeuvre dans le 
+cadre de constructions nouvelles ou de travaux sur le bâti existant, en zone inondable :
+ 
+− Les clôtures et les plantations d'alignement doivent être étudiées de façon à leur préserver une transparence maximale à 
+l'écoulement.
+
+
+>>> Soft
+
+IV/ DISPOSITIONS CONSTRUCTIVES
+ 
+Mesures de prévention dans le cadre de constructions en zones inondables
+ 
+Techniques particulières à mettre en oeuvre sous la responsabilité du maître d'ouvrage et de son maître d'oeuvre dans le 
+cadre de constructions nouvelles ou de travaux sur le bâti existant, en zone inondable :
+ 
+− Il est recommandé d'éviter les aménagements concourant à imperméabiliser de grandes surfaces, sauf à prévoir des bassins de 
+rétention suffisamment dimensionnés, ou des procédés limitant le ruissellement.
+
+
+>>> Soft
+
+IV/ DISPOSITIONS CONSTRUCTIVES
+ 
+Mesures de prévention dans le cadre de constructions en zones inondables
+ 
+Techniques particulières à mettre en oeuvre sous la responsabilité du maître d'ouvrage et de son maître d'oeuvre dans le 
+cadre de constructions nouvelles ou de travaux sur le bâti existant, en zone inondable :
+ 
+− En particulier, en matière de pluvial, il convient  de rechercher la mise en oeuvre de techniques, compensatoires à l'urbanisme, 
+favorisant l'infiltration des eaux pluviales sur place (tranchées filtrantes, puits d'infiltration, chaussées réservoir....)
+
+
+>>> Soft
+
+IV/ DISPOSITIONS CONSTRUCTIVES
+ 
+Mesures de prévention dans le cadre de constructions en zones inondables
+ 
+Techniques particulières à mettre en oeuvre sous la responsabilité du maître d'ouvrage et de son maître d'oeuvre dans le 
+cadre de constructions nouvelles ou de travaux sur le bâti existant, en zone inondable :
+ 
+− Il est recommandé d'augmenter les surfaces boisées, de limiter les défrichements de façon à réduire les volumes de 
+ruissellement et en étaler les effets.
+
+
+>>> Soft
+
+IV/ DISPOSITIONS CONSTRUCTIVES
+ 
+Mesures de prévention dans le cadre de constructions en zones inondables
+ 
+Techniques particulières à mettre en oeuvre sous la responsabilité du maître d'ouvrage et de son maître d'oeuvre dans le 
+cadre de constructions nouvelles ou de travaux sur le bâti existant, en zone inondable :
+ 
+− Une attention particulière doit être accordée aux modes culturaux, à la constitution de haies vives, dont les conséquences 
+peuvent être le ralentissement des écoulements, ou l'augmentation de la capacité de stockage des eaux sans toutefois créer 
+d'obstacle à leur écoulement sous forme de barrage.
+
+
+>>> Soft
+
+ZONES ROUGES
+ 
+La zone rouge correspond à une zone d’écoulement principal où les hauteurs d’eau et les courants peuvent être importants. 
+On distingue deux types de zones rouge : 
+1. ZONE ROUGE « R » : pour les zones naturelles, et dont la hauteur d’eau en crue centennale est supérieure à 0,50m et sur 
+une bande de 10m en bordure de tous les ruisseaux n’ayant pas fait l’objet d’étude hydraulique spécifique. 
+2. ZONE ROUGE « RU1 » : pour les secteurs urbanisés susceptibles d’être recouverts par une lame d’eau supérieure à 0,50m 
+en crue centennale et situés dans une d’écoulement préférentiel des eaux débordées.
+
+
+>>> Verifiable
+
+ZONES ROUGES
+ 
+SONT INTERDITS
+ 
+• Tous travaux, de quelque nature qu'ils soient, à l'exception de ceux visés au paragraphe ci-dessous, (intitulé "SONT 
+ADMIS")
+
+
+>>> Verifiable
+
+ZONES ROUGES
+ 
+SONT INTERDITS
+ 
+• En particulier les réparations au gros œuvre des dégats occasionnés uniquement par les crues.
+
+
+>>> Verifiable
+
+ZONES ROUGES
+ 
+SONT INTERDITS
+ 
+UTILISATIONS DU SOL :
+ 
+• Les dépôts de matériaux et conditionnements susceptibles d'être emportés ou de gêner l'écoulement des eaux en cas 
+de crue.
+
+
+>>> Verifiable
+
+ZONES ROUGES
+ 
+SONT INTERDITS
+ 
+UTILISATIONS DU SOL :
+ 
+• Tous  remblais  modifiant  les  conditions  d’écoulement ou le champ d’expansion des crues et en particulier les 
+endiguements sauf s'ils sont de nature à protéger des lieux fortement urbanisés.
+
+
+>>> Verifiable
+
+ZONES ROUGES
+ 
+SONT INTERDITS
+ 
+UTILISATIONS DU SOL :
+ 
+• Les dépôts et stockages de produits dangereux ou polluants
+
+
+>>> Verifiable
+
+ZONES ROUGES
+ 
+SONT INTERDITS
+ 
+UTILISATIONS DU SOL :
+ 
+• Les occupations et activités temporaires (parcs d'attraction, fêtes foraines, marché .....) en dehors de la 
+période du 1er mai au 31 août et sous réserve de s’assurer des conditions météorologiques.
+
+
+>>> Verifiable
+
+ZONES ROUGES
+ 
+SONT INTERDITS
+ 
+UTILISATIONS DU SOL :
+ 
+• Toutes les constructions à caractère vulnérable telle que : écoles, crèches, établissements sanitaires, établissements 
+recevant du public, installations classées…
+
+
+>>> Non-verifiable
+
+ZONES ROUGES
+ 
+SONT ADMIS
+ 
+CONSTRUCTIONS ET OUVRAGES EXISTANTS :
+ 
+• Les travaux d'entretien et de gestion courants (traitements de façades, réfection de toiture, peinture....)
+
+
+>>> Non-verifiable
+
+ZONES ROUGES
+ 
+SONT ADMIS
+ 
+CONSTRUCTIONS ET OUVRAGES EXISTANTS :
+ 
+• Les modifications de constructions sans changement de destination, sauf s'il est de nature à réduire la vulnérabilité du 
+bâtiment et améliore la sécurité des personnes, sans création de logement supplémentaire, et sous réserve que la 
+surface des planchers soit calée au minimum à la cote de la PHE. 
+En cas de contrainte architecturale majeure, des dispositifs permettant de diminuer la vulnérabilité du bâti devront 
+être mis en place.
+
+
+>>> Verifiable
+
+ZONES ROUGES
+ 
+SONT ADMIS
+ 
+CONSTRUCTIONS ET OUVRAGES EXISTANTS :
+ 
+• L'extension de bâtiments d'habitation existants dans la limite de 20 m² d'emprise au sol (une seule fois) et leur 
+modification,  sous réserve : 
+− que la sous-face du 1er plancher aménagé soit calée à la cote de PHE + 30 cm 
+− de prendre en compte les impératifs d'écoulement des crues et que leur implantation ne crée pas d'obstacle à 
+l'écoulement, 
+− que l'extension s'accompagne de mesures compensatoires de nature à diminuer la vulnérabilité du bâtiment lui-
+même, à améliorer la sécurité des personnes et à favoriser l'écoulement des eaux, 
+− et que les travaux envisagés ne soient pas de nature à créer un changement de l’usage des locaux sauf s’ils sont 
+de nature à réduire le risque.
+
+
+>>> Verifiable
+
+ZONES ROUGES
+ 
+SONT ADMIS
+ 
+CONSTRUCTIONS ET OUVRAGES EXISTANTS :
+ 
+• Si la hauteur d’eau en crue centennale est inférieure à 1,50m, l'extension   des  bâtiments d'activités,  industries  ou  
+agricoles, jusqu'à 20 % de l'emprise au sol (une seule fois) sous  réserve : 
+− que la sous-face du 1er plancher aménagé soit calée à la cote de PHE, 
+− de prendre en compte les impératifs d'écoulement des crues, que leur implantation ne crée pas d'obstacle à 
+l'écoulement, 
+− et que l'extension n'accroisse pas la vulnérabilité du bâtiment lui-même.
+
+
+>>> Non-verifiable
+
+ZONES ROUGES
+ 
+SONT ADMIS
+ 
+CAMPINGS EXISTANTS :
+ 
+• L’exploitation des cam;pings et caravanages strictement limitée aux dispositions des arrêtés qui 
+les réglementent.
+
+
+>>> Verifiable
+
+ZONES ROUGES
+ 
+SONT ADMIS
+ 
+CONSTRUCTIONS ET OUVRAGES NOUVEAUX :
+ 
+• Les forages A.E.P.
+
+
+>>> Verifiable
+
+ZONES ROUGES
+ 
+SONT ADMIS
+ 
+CONSTRUCTIONS ET OUVRAGES NOUVEAUX :
+ 
+• Les équipements d'intérêt général, lorsque leur implantation est techniquement irréalisable hors du champ 
+d'inondation, ou visant à la protection contre les inondations. Une étude hydraulique devra en définir les 
+conséquences amont et aval et déterminer leur impact sur l'écoulement des crues, les mesures compensatoires à 
+adopter visant à en annuler les effets et les conditions de leur mise en sécurité. Elle devra en outre faire apparaître les 
+conséquences d'une crue exceptionnelle.
+
+
+>>> Verifiable
+
+ZONES ROUGES
+ 
+SONT ADMIS
+ 
+CONSTRUCTIONS ET OUVRAGES NOUVEAUX :
+ 
+• Les piscines au niveau du terrain naturel. Un balisage permanent du bassin sera mis en place afin d'assurer la 
+sécurité des personnes et des services de secours.
+
+
+>>> Verifiable
+
+ZONES ROUGES
+ 
+SONT ADMIS
+ 
+CONSTRUCTIONS ET OUVRAGES NOUVEAUX :
+ 
+• Les ouvrages hydrauliques d’intérêt général et de protection indispensables à la régulation des crues après étude 
+hydraulique.
+
+
+>>> Non-verifiable
+
+ZONES ROUGES
+ 
+SONT ADMIS
+ 
+CONSTRUCTIONS ET OUVRAGES NOUVEAUX :
+ 
+• La création ou modification de clôtures légères (3 fils ou grillagées à mailles larges) sur mur de soubassement d'une 
+hauteur inférieure ou égale à 0,20 m.
+
+
+>>> Verifiable
+
+ZONES ROUGES
+ 
+SONT ADMIS
+ 
+TERRASSEMENTS :
+ 
+• Les terrassements après étude hydraulique qui définirait les conséquences amont et aval, et dont 
+l’objectif serait de nature à préserver le stockage ou l’expansion des eaux de crues.
+
+
+>>> Non-verifiable
+
+ZONES ROUGES
+ 
+SONT ADMIS
+ 
+TERRASSEMENTS :
+ 
+• La réalisation de réseaux enterrés sous réserve qu’ils ne soient pas vulnérables aux crues.
+
+
+>>> Verifiable
+
+ZONES ROUGES
+ 
+SONT ADMIS
+ 
+TERRASSEMENTS :
+ 
+• La réalisation de petites voiries secondaires et peu utilisées ( voies piétonnes, pistes cyclables, voies 
+rurales et communales ) au niveau du terrain naturel et qui ne créent pas d’obstacle à l’écoulement des 
+crues.
+
+
+>>> False
+
+ZONES ROUGES
+ 
+SONT ADMIS
+ 
+ENTRETIEN DU LIT MINEUR :
+ 
+• L’entretien du lit mineur par déboisement sélectif ou enlèvement des atterrissements après procédure 
+d’autorisation conformément aux dispositions de la Loi sur l’Eau.
+
+
+>>> False
+
+ZONES ROUGES
+ 
+SONT ADMIS
+ 
+ENTRETIEN DU LIT MINEUR :
+ 
+• L’entretien des berges par reboisement des talus érodés et entretien sélectif de la ripisylve, 
+conformément aux orientation du SDAGE.
+
+
+>>> False
+
+ZONES ROUGES
+ 
+SONT ADMIS
+ 
+ENTRETIEN DU LIT MINEUR :
+ 
+• Voir en fin des dispositions générales les dispositions constructives relatives aux bâtiments.
+
+
+>>> Verifiable
+
+ZONES ROUGES
+ 
+SONT ADMIS
+ 
+MODES CULTURAUX :
+ 
+• Les modes culturaux, la constitution de haies vives, dont les conséquences peuvent être le ralentissement 
+des écoulements ou l'augmentation de la capacité de stockage des eaux, sans toutefois créer d'obstacle à 
+leur écoulement sous forme de barrage
+
+
+>>> Verifiable
+
+ZONES ROUGES
+ 
+SONT ADMIS
+ 
+UTILISATIONS DU SOL :
+ 
+• Les parcs de stationnement des véhicules sous réserve qu’ils soient organisés et réglementés à partir d’un 
+dispositif d’annonces de crues.
+
+
+>>> Soft
+
+ZONE BLEUE Bn
+ 
+La zone bleue correspond à une zone d’expansion des crues ou les hauteurs d’eau en crue centennale sont 
+inférieures à 0,50m
+
+
+>>> Soft
+
+ZONE BLEUE Bn
+ 
+On distingue deux types de zones bleues : 
+• La zone bleue Bn : pour les secteurs naturels, très faiblement bâtis et qui constituent un champ de dispersion de 
+l’énergie des crues qu’il convient de préserver 
+• La zone bleue Bu : pour les secteurs déjà fortement urbanisés
+
+
+>>> Verifiable
+
+ZONE BLEUE Bn
+ 
+SONT INTERDITS
+ 
+• Tous travaux de quelque nature qu'ils soient, à l'exception de ceux visés au paragraphe ci-dessous, 
+intitulé "SONT ADMIS"
+
+
+>>> Verifiable
+
+ZONE BLEUE Bn
+ 
+SONT INTERDITS
+ 
+UTILISATIONS DU SOL :
+ 
+• Les dépôts de matériaux susceptibles d'être emportés en cas de crue
+
+
+>>> Verifiable
+
+ZONE BLEUE Bn
+ 
+SONT INTERDITS
+ 
+UTILISATIONS DU SOL :
+ 
+• Tous remblais modifiant les conditions d'écoulement ou le champ d'expansion des crues et en 
+particulier les endiguements
+
+
+>>> Verifiable
+
+ZONE BLEUE Bn
+ 
+SONT INTERDITS
+ 
+UTILISATIONS DU SOL :
+ 
+• Les dépôts et stockages de produits dangereux ou polluants
+
+
+>>> Verifiable
+
+ZONE BLEUE Bn
+ 
+SONT INTERDITS
+ 
+UTILISATIONS DU SOL :
+ 
+• Les  occupations  et activités temporaires (parcs d'attraction, fêtes foraines .....) en dehors du 15 mars au  
+15 septembre et sous réserve de s’assurer des conditions météorologiques.
+
+
+>>> Non-verifiable
+
+ZONE BLEUE Bn
+ 
+SONT ADMIS
+ 
+CONSTRUCTIONS ET OUVRAGES EXISTANTS :
+ 
+• Les travaux d'entretien et de gestion courants (traitements de façades, réfections de toitures, peintures)
+
+
+>>> Verifiable
+
+ZONE BLEUE Bn
+ 
+SONT ADMIS
+ 
+CONSTRUCTIONS ET OUVRAGES EXISTANTS :
+ 
+• L’extension des bâtiments d’habitations dans la limite de 20 m2 d’emprise au sol (une seule fois) et leur 
+modification, sous réserve : 
+− que la sous-face du 1er plancher aménagé soit calée à la cote de PHE, 
+− de prendre en compte les impératifs d'écoulement des crues et que leur implantation ne crée pas 
+d'obstacle à l'écoulement,  
+− que l'extension s’accompagne de mesures compensatoires de nature à diminuer la vulnérabilité du 
+bâtiment lui-même, à améliorer la sécurité des personnes et à favoriser l’écoulement des eaux, 
+− et que les travaux envisagés ne soient pas de nature à créer un changement de l’usage des locaux sauf 
+s’ils sont de nature à réduire le risque.
+
+
+>>> Verifiable
+
+ZONE BLEUE Bn
+ 
+SONT ADMIS
+ 
+CONSTRUCTIONS ET OUVRAGES EXISTANTS :
+ 
+•  L'extension des bâtiments d'activités, industries  ou  agricoles, jusqu’à 20 % de l’emprise au sol (une seule 
+fois) sous réserve : 
+− que la sous-face du 1er plancher aménagé soit calée à la cote de PHE, 
+− de prendre en compte les impératifs d'écoulement des crues et que leur implantation ne crée pas 
+d'obstacle à l'écoulement,  
+− ετ que l'extension n'accroisse pas la vulnérabilité du bâtiment lui-même
+
+
+>>> Non-verifiable
+
+ZONE BLEUE Bn
+ 
+SONT ADMIS
+ 
+CAMPINGS EXISTANTS :
+ 
+• L’implantation d’HLL dans les campings peut être autorisée sous réserve que le niveau de la sous-face du 
+plancher soit au minimum à l’altitude de la PHE
+
+
+>>> Non-verifiable
+
+ZONE BLEUE Bn
+ 
+SONT ADMIS
+ 
+CAMPINGS EXISTANTS :
+ 
+• Dans les campings sont en outre admis les travaux d’entretien strictement liés à l’amélioration de la 
+qualité d’accueil sous réserve qu’ils ne créent pas d’incidence sur l’écoulement des crues.
+
+
+>>> Verifiable
+
+ZONE BLEUE Bn
+ 
+SONT ADMIS
+ 
+CONSTRUCTIONS ET OUVRAGES NOUVEAUX :
+ 
+• Tous travaux d'aménagements sportifs et d’équipements légers d’animation et de loisirs de plein air
+
+
+>>> Non-verifiable
+
+ZONE BLEUE Bn
+ 
+SONT ADMIS
+ 
+CONSTRUCTIONS ET OUVRAGES NOUVEAUX :
+ 
+• Les surfaces de plancher pour des locaux non habités et strictement liées aux activités autorisées à 
+l’alinéa précédent tels que sanitaires, vestiaires, locaux à matériels, sous réserve que la sous face des 
+planchers soit calée à la cote de la PHE et que les conséquences de ces aménagements sur l’écoulement 
+des crues soient négligeables.
+
+
+>>> Non-verifiable
+
+ZONE BLEUE Bn
+ 
+SONT ADMIS
+ 
+CONSTRUCTIONS ET OUVRAGES NOUVEAUX :
+ 
+• Les piscines implantées au niveau du terrai  naturel. Un balisage permanent du bassin sera mis en place 
+afin d’assurer la sécurité des personnes et des services de secours.
+
+
+>>> Verifiable
+
+ZONE BLEUE Bn
+ 
+SONT ADMIS
+ 
+CONSTRUCTIONS ET OUVRAGES NOUVEAUX :
+ 
+• Les équipements d'intérêt général, lorsque leur implantation est techniquement irréalisable hors du champ 
+d'inondation. Une étude hydraulique devra en définir les conséquences amont et aval et déterminer leur 
+impact sur l'écoulement des crues, les mesures compensatoires à adopter, visant à en annuler les effets et 
+les conditions de leur mise en sécurité. Elle devra en outre faire apparaître les conséquences d'une crue 
+exceptionnelle.
+
+
+>>> Verifiable
+
+ZONE BLEUE Bn
+ 
+SONT ADMIS
+ 
+CONSTRUCTIONS ET OUVRAGES NOUVEAUX :
+ 
+• Les ouvrages hydrauliques d’intérêt général indispensables à la régulation des crues après étude 
+hydraulique
+
+
+>>> Verifiable
+
+ZONE BLEUE Bn
+ 
+SONT ADMIS
+ 
+CONSTRUCTIONS ET OUVRAGES NOUVEAUX :
+ 
+• Les forages A.E.P.
+
+
+>>> Verifiable
+
+ZONE BLEUE Bn
+ 
+SONT ADMIS
+ 
+CONSTRUCTIONS ET OUVRAGES NOUVEAUX :
+ 
+• Tous   travaux   d’aménagements,   sans   création   de   remblais,   destinés   à   créer   des   parcs    et  
+jardins d’agréments
+
+
+>>> Non-verifiable
+
+ZONE BLEUE Bn
+ 
+SONT ADMIS
+ 
+CONSTRUCTIONS ET OUVRAGES NOUVEAUX :
+ 
+• La création ou modification de clôtures légères (3 fils ou grillagées) sur mur de soubassement d’une 
+hauteur inférieure ou égale à 0.20 m
+
+
+>>> Verifiable
+
+ZONE BLEUE Bn
+ 
+SONT ADMIS
+ 
+TERRASSEMENTS :
+ 
+• Les terrassements, après étude hydraulique qui en définirait la conséquence amont et aval, et dont 
+l'objectif serait de nature à faciliter l’écoulement et à préserver le stockage ou l’expansion des eaux de 
+crues.
+
+
+>>> Non-verifiable
+
+ZONE BLEUE Bn
+ 
+SONT ADMIS
+ 
+TERRASSEMENTS :
+ 
+• La réalisation de réseaux enterrés sous réserve qu'ils ne soient pas vulnérables aux crues
+
+
+>>> Verifiable
+
+ZONE BLEUE Bn
+ 
+SONT ADMIS
+ 
+TERRASSEMENTS :
+ 
+• La  réalisation  de  petites  voiries  secondaires  et  peu  utilisées   (voies piétonnes, pistes cyclables, voies 
+rurales et communales)  et qui ne créent pas d’obstacle à l’écoulement des crues.
+
+
+>>> False
+
+ZONE BLEUE Bn
+ 
+SONT ADMIS
+ 
+Voir en fin des dispositions générales les recommandations relatives aux dispositions constructives.
+
+
+>>> False
+
+ZONE BLEUE Bn
+ 
+SONT ADMIS
+ 
+ENTRETIEN DU LIT MINEUR :
+ 
+• L’entretien   du  lit  mineur  par  déboisement  sélectif  ou enlèvement des atterrissements après procédure 
+d’autorisation conformément aux dispositions de la Loi sur l’eau.
+
+
+>>> False
+
+ZONE BLEUE Bn
+ 
+SONT ADMIS
+ 
+ENTRETIEN DU LIT MINEUR :
+ 
+• L’entretien des berges par reboisement des talus érodés et entretien sélectif de la ripisylve conformément 
+aux orientations et préconisations du SDAGE
+
+
+>>> Verifiable
+
+ZONE BLEUE Bn
+ 
+SONT ADMIS
+ 
+MODES CULTURAUX :
+ 
+• Les serres nécessaires à l’activité agricole, à condition : 
+- qu’il s’agisse de seres-tunnel ou plastique sur arceaux 
+- qu’elles soient disposées dans le sens principal du courant, 
+- qu’elles soient distantes entre elles d’au moins 5 m 
+- qu’elles ne nuisent pas au bon écoulement ou au stockage des eaux
+
+
+>>> Verifiable
+
+ZONE BLEUE Bn
+ 
+SONT ADMIS
+ 
+UTILISATION DU SOL :
+ 
+• Le parc de stationnement des véhicules.
+
+
+>>> False
+
+ZONE BLEUE Bu
+ 
+SONT INTERDITS
+ 
+• Tous travaux, de quelque nature qu'ils soient, à l'exception de ceux visés au paragraphe ci-dessous, 
+intitulé "SONT ADMIS"
+
+
+>>> False
+
+ZONE BLEUE Bu
+ 
+SONT INTERDITS
+ 
+• Tous  remblais   modifiant   les   conditions  d’écoulement  ou  le champ  d’expansion  des  crues et en 
+particulier les endiguements sauf s'ils sont de nature à protéger des lieux fortement urbanisés
+
+
+>>> False
+
+ZONE BLEUE Bu
+ 
+SONT ADMIS
+ 
+CONSTRUCTIONS ET OUVRAGES EXISTANTS :
+ 
+• L’entretien, la modification et l’extension de constructions existantes sous réserve de ne pas créer de 
+surface de plancher en-dessous de la cote de PHE
+
+
+>>> False
+
+ZONE BLEUE Bu
+ 
+SONT ADMIS
+ 
+CONSTRUCTIONS ET OUVRAGES NOUVEAUX :
+ 
+• La création de constructions nouvelles, sous réserve : 
+- que la sous face du premier plancher aménagé soit calée à la cote de PHE , 
+- et de ne pas créer de surfaces de garages ou pièces annexes en-dessous du niveau de la cote de PHE 
+sauf exceptions liées à des contraintes architecturales imposées par le règlement d’urbanisme de la 
+commune
+
+
+>>> False
+
+ZONE BLEUE Bu
+ 
+SONT ADMIS
+ 
+CONSTRUCTIONS ET OUVRAGES NOUVEAUX :
+ 
+• La création d’ouvrages de protection rapprochée dans les lieux fortement urbanisés après étude 
+hydraulique définissant les conséquences amont et aval
+
+
+>>> False
+
+ZONE BLEUE Bu
+ 
+SONT ADMIS
+ 
+CONSTRUCTIONS ET OUVRAGES NOUVEAUX :
+ 
+• Les piscines au niveau du terrain nature. Un balisage permanent du bassin sera mis en place afin d’assurer 
+la sécurité des personnes et des services de secours.
+
+
+>>> False
+
+ZONE BLEUE Bu
+ 
+SONT ADMIS
+ 
+TERRASSEMENTS :
+ 
+• Les travaux de terrassement, après étude hydraulique définissant les conséquences amont et aval, qui sont 
+nature à protéger les lieux déjà fortement urbanisés.
+
+
+>>> False
+
+ZONE BLEUE Bu
+ 
+SONT ADMIS
+ 
+TERRASSEMENTS :
+ 
+• La réalisation de réseaux enterrés, sous réserve qu’ils ne soient pas vulnérables aux crues.
+
+
+>>> False
+
+ZONE BLEUE Bu
+ 
+SONT ADMIS
+ 
+TERRASSEMENTS :
+ 
+• La réalisation de petites voiries (voies piétonnes, pistes cyclables, voies rurales et communales) au niveau 
+du sol
+
+
+>>> False
+
+ZONE BLEUE Bu
+ 
+SONT ADMIS
+ 
+TERRASSEMENTS :
+ 
+• Le stockage de produits polluants nécessaires à la consommation individuelle sous réserve qu’il soit réalisé 
+dans des récipients étanches et protégés contre les effets de l’inondation centennale
+
+
+>>> False
+
+ZONE BLEUE Bu
+ 
+SONT ADMIS
+ 
+UTILISATION DU SOL :
+ 
+• Les parcs de stationnement des véhicules.
+
+

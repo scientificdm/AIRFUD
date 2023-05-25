@@ -1,0 +1,2154 @@
+>>> False
+
+CARACTERE DE LA ZONE :
+ 
+DESCRIPTION :
+ 
+Ces zones, partiellement équipées, sont destinées à l’implantation d’activités. Cela étant, des 
+programmes d’habitation peuvent être envisagés dans certains secteurs lorsque l’environnement 
+immédiat y est favorable et lorsque le programme d’habitation envisagé s’intègre correctement dans le 
+tissu existant.
+
+
+>>> False
+
+CARACTERE DE LA ZONE :
+ 
+LOCALISATION :
+ 
+Parc 2000 et extensions, Rue Favre de Saint Castor, avenue Pablo Neruda, La Blanquette, Millénaire, 
+Portes de la Méditerranée, Rastouble, Rue de la Castelle, Chemin de Poutingon.
+
+
+>>> False
+
+CARACTERE DE LA ZONE :
+ 
+PRINCIPAUX OBJECTIFS :
+ 
+−  Favoriser la création d’activités ; 
+−  Les programmes d’habitation peuvent être envisagés lorsque l’environnement immédiat y est 
+favorable et lorsque le programme d’habitation envisagé s’intègre correctement dans le tissu existant. 
+−  Afin de pallier le nombre encore insuffisant de logements et d’hébergements pour les personnes 
+en difficultés dans la ville, ceux-ci pourront être autorisés dans la zone, sous réserve que 
+l'environnement (cadre bâti, paysage, équipements...) y soit favorable et que leur occupation du sol 
+reste limitée par rapport à l'ensemble de la zone.
+
+
+>>> Soft
+
+CARACTERE DE LA ZONE :
+ 
+PRINCIPALES TRADUCTIONS REGLEMENTAIRES :
+ 
+−  Dans son ensemble, la zone 4AU1 se caractérise par :
+ 
+•  autorisation de créer toutes activités, y compris les installations classées et des 
+constructions à usage d'habitation, lorsque l'environnement immédiat y est favorable, à 
+condition que le projet soit compatible dans le temps et dans l'espace avec la 
+programmation par la commune des équipements publics nécessaires à la desserte du 
+secteur considéré ;
+
+
+>>> Soft
+
+CARACTERE DE LA ZONE :
+ 
+PRINCIPALES TRADUCTIONS REGLEMENTAIRES :
+ 
+− 6 secteurs divisent la zone afin de prendre en compte des variations principalement concernant la 
+règle de hauteur :
+ 
+• secteur 4AU1-1 : secteur de référence de la zone 4AU1 
+- hauteur moyenne 12 m
+
+
+>>> Soft
+
+CARACTERE DE LA ZONE :
+ 
+PRINCIPALES TRADUCTIONS REGLEMENTAIRES :
+ 
+− 6 secteurs divisent la zone afin de prendre en compte des variations principalement concernant la 
+règle de hauteur :
+ 
+• secteur 4AU1-2 : Portes de la Méditerranée - Millénaire II  
+- autorisation pour les activités culturelles, d'animation et de loisirs y compris les 
+installations classées.
+
+
+>>> Soft
+
+CARACTERE DE LA ZONE :
+ 
+PRINCIPALES TRADUCTIONS REGLEMENTAIRES :
+ 
+− 6 secteurs divisent la zone afin de prendre en compte des variations principalement concernant la 
+règle de hauteur :
+ 
+• secteur 4AU1-3 : secteur d’implantation de Parc 2000 2ème extension 
+- possibilité de construire des logements 
+- alignement des constructions le long de la rue du Pilory 
+- hauteur plus importante (18 m)
+
+
+>>> Soft
+
+CARACTERE DE LA ZONE :
+ 
+PRINCIPALES TRADUCTIONS REGLEMENTAIRES :
+ 
+− 6 secteurs divisent la zone afin de prendre en compte des variations principalement concernant la 
+règle de hauteur :
+ 
+• secteur 4AU1-5 : Blanquette 
+- recul minimum des constructions le long de la route de Ganges et de l'avenue Vincent 
+Auriol et obligation de plantation dans l'espace ainsi dégagé 
+- prescriptions architecturales précises 
+- hauteur faible (10 m)
+
+
+>>> Soft
+
+CARACTERE DE LA ZONE :
+ 
+PRINCIPALES TRADUCTIONS REGLEMENTAIRES :
+ 
+− 6 secteurs divisent la zone afin de prendre en compte des variations principalement concernant la 
+règle de hauteur :
+ 
+• secteur 4AU1-6 : secteur d’implantation de l’entreprise SANOFI 
+-hauteur plus importante (20m)
+
+
+>>> Soft
+
+CARACTERE DE LA ZONE :
+ 
+PRINCIPALES TRADUCTIONS REGLEMENTAIRES :
+ 
+− 6 secteurs divisent la zone afin de prendre en compte des variations principalement concernant la 
+règle de hauteur :
+ 
+• secteur 4AU1-7 : secteur d’implantation de Parc 2000 Extension 
+- hauteur plus importante (18 m)
+
+
+>>> Soft
+
+CARACTERE DE LA ZONE :
+ 
+PRINCIPALES TRADUCTIONS REGLEMENTAIRES :
+ 
+− 6 secteurs divisent la zone afin de prendre en compte des variations principalement concernant la 
+règle de hauteur :
+ 
+−  Le cas échéant des prescriptions architecturales particulières, délimitées dans les documents 
+graphiques du règlement, répondant aux dispositions définies dans l'article L.111-1-4 du code de 
+l'urbanisme s'ajoutent ou se substituent aux règles des secteurs en bordure du linéaire de l'avenue 
+Pierre Mendès France et de l'autoroute A9.
+
+
+>>> False
+
+CARACTERE DE LA ZONE :
+ 
+PRINCIPALES TRADUCTIONS REGLEMENTAIRES :
+ 
+Pour rappel :  La zone est couverte par des orientations d’aménagement au sens de l’article L.123-1 du 
+code de l’urbanisme. Celles-ci définissent les conditions d’un aménagement cohérent et 
+de qualité du secteur. Les occupations et utilisations du sol doivent être compatibles avec 
+ces orientations d’aménagement dans les conditions définies par l’article L.123-5 du code 
+de l’urbanisme.
+
+
+>>> Non-verifiable
+
+Article 1 : Occupations ou utilisations du sol interdites
+ 
+1) Dans les secteurs 4AU1-1, 4AU1-2, 4AU1-5, 4AU1-6 et 4AU1-7 :
+ 
+Les constructions destinées à l’habitation autres que celles visées à l’article 2, paragraphes 1) et 
+3).
+
+
+>>> Verifiable
+
+Article 1 : Occupations ou utilisations du sol interdites
+ 
+1) Dans les secteurs 4AU1-1, 4AU1-2, 4AU1-5, 4AU1-6 et 4AU1-7 :
+ 
+Les constructions destinées à l’exploitation agricole ou forestière.
+
+
+>>> Verifiable
+
+Article 1 : Occupations ou utilisations du sol interdites
+ 
+1) Dans les secteurs 4AU1-1, 4AU1-2, 4AU1-5, 4AU1-6 et 4AU1-7 :
+ 
+Les habitations légères de loisirs.
+
+
+>>> Non-verifiable
+
+Article 1 : Occupations ou utilisations du sol interdites
+ 
+1) Dans les secteurs 4AU1-1, 4AU1-2, 4AU1-5, 4AU1-6 et 4AU1-7 :
+ 
+Les casses automobiles.
+
+
+>>> Verifiable
+
+Article 1 : Occupations ou utilisations du sol interdites
+ 
+2) Dans le secteur 4AU1-3 :
+ 
+Les constructions destinées à l’exploitation agricole ou forestière.
+
+
+>>> Verifiable
+
+Article 1 : Occupations ou utilisations du sol interdites
+ 
+2) Dans le secteur 4AU1-3 :
+ 
+Les habitations légères de loisirs.
+
+
+>>> Non-verifiable
+
+Article 1 : Occupations ou utilisations du sol interdites
+ 
+2) Dans le secteur 4AU1-3 :
+ 
+Les casses automobiles.
+
+
+>>> Verifiable
+
+Article 1 : Occupations ou utilisations du sol interdites
+ 
+3) Dans les secteurs 4AU1-2, 4AU1-3, 4AU1-5, 4AU1-6 et 4AU1-7 :
+ 
+Les terrains de camping ou de caravanage permanents visés à l’article L.443-1 et L.444-1 du 
+code de l’urbanisme.
+
+
+>>> Non-verifiable
+
+Article 1 : Occupations ou utilisations du sol interdites
+ 
+3) Dans les secteurs 4AU1-2, 4AU1-3, 4AU1-5, 4AU1-6 et 4AU1-7 :
+ 
+Les constructions destinées à la fonction d’entrepôt autres que celles visées à l’article 2, 
+paragraphe 4).
+
+
+>>> False
+
+Article 1 : Occupations ou utilisations du sol interdites
+ 
+4) Dans les périmètres en bordure des cours d’eau définis dans les annexes 
+sanitaires du PLU :
+ 
+Les occupations et utilisations autres que celles définies à l’article 2, paragraphe 5).
+
+
+>>> False
+
+Article 1 : Occupations ou utilisations du sol interdites
+ 
+5) Dans les périmètres des secteurs particuliers de risque d’inondation délimités 
+dans les documents graphiques du règlement :
+ 
+Les occupations et utilisations autres que celles visées à l’article 2, paragraphe 6).
+
+
+>>> Non-verifiable
+
+Article 2 : Occupations ou utilisations du sol admises sous conditions
+ 
+1) Dans tous les secteurs :
+ 
+Sans préjudice des règles définies aux paragraphes 3) et 4) suivants : 
+Nonobstant les réhabilitations et les extensions mesurées de bâtiments existants visées au 
+paragraphe c), toutes les autres occupations et utilisations du sol visées par l’article L152-1 du 
+code de l’urbanisme (hormis celles visées à l’article 1 ci-dessus) ne sont admises :
+ 
+• qu’à condition de s’intégrer de manière cohérente dans la zone et de contribuer à un 
+aménagement de qualité de celle-ci, en conformité avec les dispositions du présent 
+règlement et de ses documents graphiques et, le cas échéant, en compatibilité avec les 
+orientations d’aménagement applicables à la zone,
+
+
+>>> Non-verifiable
+
+Article 2 : Occupations ou utilisations du sol admises sous conditions
+ 
+1) Dans tous les secteurs :
+ 
+Sans préjudice des règles définies aux paragraphes 3) et 4) suivants : 
+Nonobstant les réhabilitations et les extensions mesurées de bâtiments existants visées au 
+paragraphe c), toutes les autres occupations et utilisations du sol visées par l’article L152-1 du 
+code de l’urbanisme (hormis celles visées à l’article 1 ci-dessus) ne sont admises :
+ 
+• et ce, soit au fur et à mesure de la réalisation des équipements internes à la zone, soit lors 
+de la réalisation d'une opération d'aménagement d'ensemble et au fur et à mesure de la 
+réalisation des équipements internes à cette opération d'aménagement d'ensemble.
+
+
+>>> Non-verifiable
+
+Article 2 : Occupations ou utilisations du sol admises sous conditions
+ 
+2) Dans les secteurs 4AU1-1, 4AU1-2, 4AU1-5, 4AU1-6 et 4AU1-7 :
+ 
+Aux dispositions édictées au paragraphe a) précédent s’ajoutent les règles suivantes :
+ 
+− Les constructions destinées à l’habitation sont admises sous l’une des deux conditions ci-après : 
+• Lorsque ces logements sont en rapport direct avec une occupation ou utilisation admise 
+dans la zone. 
+• Lorsqu’il s’agit du logement et de l’hébergement des personnes en difficultés.
+
+
+>>> Non-verifiable
+
+Article 2 : Occupations ou utilisations du sol admises sous conditions
+ 
+2) Dans les secteurs 4AU1-1, 4AU1-2, 4AU1-5, 4AU1-6 et 4AU1-7 :
+ 
+Aux dispositions édictées au paragraphe a) précédent s’ajoutent les règles suivantes :
+ 
+−  Sont admises, à condition qu’elles n’entraînent pas pour leur voisinage de nuisances 
+inacceptables, soit que l’établissement soit en lui-même peu nuisant, soit que les mesures 
+nécessaires à l’élimination des nuisances soient prises, et que leur volume et leur aspect 
+extérieur soient compatibles avec le milieu environnant : 
+•  Les installations classées pour la protection de l’environnement soumises à déclaration 
+ou à autorisation.
+
+
+>>> Non-verifiable
+
+Article 2 : Occupations ou utilisations du sol admises sous conditions
+ 
+2) Dans les secteurs 4AU1-1, 4AU1-2, 4AU1-5, 4AU1-6 et 4AU1-7 :
+ 
+Aux dispositions édictées au paragraphe a) précédent s’ajoutent les règles suivantes :
+ 
+− Sont admises à condition qu’elles n’entraînent pas de changement de destination : 
+• les réhabilitations de bâtiments existants.
+
+
+>>> Non-verifiable
+
+Article 2 : Occupations ou utilisations du sol admises sous conditions
+ 
+2) Dans les secteurs 4AU1-1, 4AU1-2, 4AU1-5, 4AU1-6 et 4AU1-7 :
+ 
+Aux dispositions édictées au paragraphe a) précédent s’ajoutent les règles suivantes :
+ 
+− Sont admises à condition qu’elles ne présentent pas un caractère répétitif et ne conduisent 
+pas à une extension supérieure à 50 % de la surface de plancher existante : 
+• les extensions mesurées des bâtiments existants.
+
+
+>>> Non-verifiable
+
+Article 2 : Occupations ou utilisations du sol admises sous conditions
+ 
+2) Dans les secteurs 4AU1-1, 4AU1-2, 4AU1-5, 4AU1-6 et 4AU1-7 :
+ 
+Aux dispositions édictées au paragraphe a) précédent s’ajoutent les règles suivantes :
+ 
+− Sont admises à condition qu’elles soient liées aux occupations et utilisations des sols admises 
+par ailleurs : 
+• les constructions destinées à la fonction d’entrepôt.
+
+
+>>> Verifiable
+
+Article 2 : Occupations ou utilisations du sol admises sous conditions
+ 
+3) Dans le secteur 4AU1-2 :
+ 
+– Sont admises les constructions destinées à l’activité culturelle, d’animation et de loisirs.
+
+
+>>> Non-verifiable
+
+Article 2 : Occupations ou utilisations du sol admises sous conditions
+ 
+4) Dans le secteur 4AU1-3 :
+ 
+− Sont admises, à condition qu’elles n’entraînent pas pour leur voisinage de nuisances 
+inacceptables, soit que l’établissement soit en lui-même peu nuisant, soit que les mesures 
+nécessaires à l’élimination des nuisances soient prises, et que leur volume et leur aspect extérieur 
+soient compatibles avec le milieu environnant :
+ 
+• Les installations classées pour la protection de l’environnement soumises à déclaration 
+ou à autorisation.
+
+
+>>> Non-verifiable
+
+Article 2 : Occupations ou utilisations du sol admises sous conditions
+ 
+4) Dans le secteur 4AU1-3 :
+ 
+− Sont admises à condition qu’elles n’entraînent pas de changement de destination :
+ 
+• les réhabilitations de bâtiments existants.
+
+
+>>> Non-verifiable
+
+Article 2 : Occupations ou utilisations du sol admises sous conditions
+ 
+4) Dans le secteur 4AU1-3 :
+ 
+− Sont admises à condition qu’elles ne présentent pas un caractère répétitif et ne conduisent pas 
+à une extension supérieure à 50 % de la surface de plancher existante :
+ 
+• les extensions mesurées des bâtiments existants.
+
+
+>>> Non-verifiable
+
+Article 2 : Occupations ou utilisations du sol admises sous conditions
+ 
+4) Dans le secteur 4AU1-3 :
+ 
+− Sont admises à condition qu’elles soient liées aux occupations et utilisations des sols admises 
+par ailleurs :
+ 
+• les constructions destinées à la fonction d’entrepôt.
+
+
+>>> False
+
+Article 2 : Occupations ou utilisations du sol admises sous conditions
+ 
+5) Dans les périmètres en bordure des cours d’eau définis dans les annexes 
+sanitaires du PLU :
+ 
+Seules les clôtures en grillage pourront être autorisées à condition qu'elles soient conçues de 
+manière à ne pas faire obstacle au libre écoulement des eaux. Elles doivent notamment être 
+suffisamment légères pour pouvoir plier en cas de crues exceptionnelles sous la pression de l'eau 
+et des divers matériaux charriés par le flux et devront être amovibles pour permettre le passage 
+nécessaire à l'entretien des cours d'eau.
+
+
+>>> False
+
+Article 2 : Occupations ou utilisations du sol admises sous conditions
+ 
+6) Dans les périmètres des secteurs particuliers de risque d’inondation délimités 
+dans les documents graphiques du règlement :
+ 
+Les occupations et utilisations du sol ne sont admises que si elles sont conformes aux 
+dispositions issues du Plan de Prévention des Risques d’Inondations de la Basse vallée du Lez 
+et de la Mosson, annexé au présent PLU.
+
+
+>>> Non-verifiable
+
+Article 3 : Accès et voirie
+ 
+Dans tous les secteurs :
+ 
+a) Accès
+ 
+Pour être constructible, un terrain doit avoir accès à une voie publique ou privée soit 
+directement, soit par l’intermédiaire d’une servitude de passage instituée sur fonds voisin par 
+acte authentique ou par voie judiciaire.
+
+
+>>> Non-verifiable
+
+Article 3 : Accès et voirie
+ 
+Dans tous les secteurs :
+ 
+a) Accès
+ 
+Les accès doivent être adaptés à l’opération et aménagés de façon à apporter la moindre 
+gêne à la circulation publique.
+
+
+>>> Non-verifiable
+
+Article 3 : Accès et voirie
+ 
+Dans tous les secteurs :
+ 
+a) Accès
+ 
+Aucune opération ne peut prendre accès sur certaines sections de voies repérées sur les 
+documents graphiques du règlement.
+
+
+>>> Non-verifiable
+
+Article 3 : Accès et voirie
+ 
+Dans tous les secteurs :
+ 
+a) Accès
+ 
+Les caractéristiques des accès doivent permettre de satisfaire aux règles minimales de 
+desserte : défense contre l’incendie, protection civile, brancardage, ordures ménagères.
+
+
+>>> Non-verifiable
+
+Article 3 : Accès et voirie
+ 
+Dans tous les secteurs :
+ 
+a) Accès
+ 
+Les garages individuels et les parcs de stationnement privés doivent être disposés de telle 
+façon que les espaces nécessaires aux manœuvres des véhicules soient aménagés à 
+l'intérieur des parcelles. En outre, ces garages et parcs ne doivent présenter qu'un seul accès 
+sur la voie publique s'ils sont destinés à recevoir moins de 30 véhicules et ne peuvent 
+présenter que deux accès au maximum sur une même voie pour 30 véhicules et au-delà.
+
+
+>>> Non-verifiable
+
+Article 3 : Accès et voirie
+ 
+Dans tous les secteurs :
+ 
+a) Accès
+ 
+Les accès doivent présenter au débouché sur la rue et en retrait de l’alignement sur une 
+distance d’au moins 5 mètres une pente n’excédant pas 5 %.
+
+
+>>> Non-verifiable
+
+Article 3 : Accès et voirie
+ 
+Dans tous les secteurs :
+ 
+b) Voiries privées
+ 
+Les voies privées desservant des terrains ouverts à l’urbanisation devront avoir les 
+caractéristiques suivantes :
+
+
+>>> Non-verifiable
+
+Article 3 : Accès et voirie
+ 
+Dans tous les secteurs :
+ 
+b) Voiries privées
+ 
+– Les voies privées existantes, non ouvertes à la circulation publique devront dans tous les cas, 
+satisfaire aux règles minimales de desserte : défense contre l’incendie, protection civile, 
+brancardage, ordures ménagères.
+
+
+>>> Non-verifiable
+
+Article 3 : Accès et voirie
+ 
+Dans tous les secteurs :
+ 
+b) Voiries privées
+ 
+– Les voies privées existantes, ouvertes à la circulation publique, ne devront pas avoir une 
+largeur inférieure à 4 mètres pour les voies à sens unique et à 6 mètres pour les voies à 
+double sens de circulation.
+
+
+>>> Non-verifiable
+
+Article 3 : Accès et voirie
+ 
+Dans tous les secteurs :
+ 
+b) Voiries privées
+ 
+– Les voies privées nouvelles, non ouvertes à la circulation publique, ne devront pas avoir une 
+largeur inférieure à 4 mètres.
+
+
+>>> Non-verifiable
+
+Article 3 : Accès et voirie
+ 
+Dans tous les secteurs :
+ 
+b) Voiries privées
+ 
+– Les voies privées nouvelles, ouvertes à la circulation publique, ne devront pas avoir une 
+largeur inférieure à 6 mètres pour les voies à sens unique et à 9 mètres pour les voies à double 
+sens de circulation.
+
+
+>>> False
+
+Article 4 : Desserte par les réseaux
+ 
+1) Dans tous les secteurs :
+ 
+a) Eau potable
+ 
+Toute construction nouvelle doit être raccordée au réseau public de distribution existant. 
+Les raccordements aux réseaux devront se conformer aux prescriptions définies par le 
+règlement du service d’eau potable applicable à la Ville de Montpellier et par le code de la 
+santé publique, notamment son article R.1321-54.
+
+
+>>> False
+
+Article 4 : Desserte par les réseaux
+ 
+1) Dans tous les secteurs :
+ 
+b) Eaux usées / Eaux pluviales
+ 
+Toute construction ou installation nouvelle devra être raccordée au réseau public 
+d’assainissement existant par des canalisations souterraines, en respectant ses 
+caractéristiques (séparatif et unitaire).
+
+
+>>> False
+
+Article 4 : Desserte par les réseaux
+ 
+1) Dans tous les secteurs :
+ 
+b) Eaux usées / Eaux pluviales
+ 
+Les eaux résiduaires urbaines (vannes, ménagères et industrielles) doivent être traitées et 
+éliminées dans des conditions satisfaisantes d’hygiène et de salubrité conformément aux 
+dispositions de la réglementation en vigueur.
+
+
+>>> False
+
+Article 4 : Desserte par les réseaux
+ 
+1) Dans tous les secteurs :
+ 
+b) Eaux usées / Eaux pluviales
+ 
+Le traitement et l’élimination des effluents autres que domestiques doivent être adaptés à 
+l’importance et à la nature de l’activité afin d’assurer une protection suffisante du milieu 
+naturel.
+
+
+>>> False
+
+Article 4 : Desserte par les réseaux
+ 
+1) Dans tous les secteurs :
+ 
+b) Eaux usées / Eaux pluviales
+ 
+Toute construction, ou installation nouvelle rejetant des eaux usées domestiques doit être 
+raccordée obligatoirement par des canalisations souterraines étanches au réseau public 
+existant. Les raccordements aux réseaux devront être conformes aux prescriptions du 
+règlement d’assainissement applicable à la Ville de Montpellier et du règlement sanitaire 
+départemental de l’Hérault, notamment ses articles 42, 43 et 44.
+
+
+>>> False
+
+Article 4 : Desserte par les réseaux
+ 
+1) Dans tous les secteurs :
+ 
+b) Eaux usées / Eaux pluviales
+ 
+Dans le cas de réhabilitation ou d’extension de bâtiments sur des parcelles non desservies, 
+l’installation d’Assainissement Non Collectif existante devra être conforme à la législation en 
+vigueur et suffisamment dimensionnée pour permettre la réalisation du projet. Lorsque celle-
+ci n’est pas conforme, le pétitionnaire devra proposer une filière d’assainissement non collectif 
+à mettre en œuvre pour son projet en fonction des contraintes du sol et du site (Cf. art 5 
+caractéristiques des terrains). En tout état de cause, cette filière devra être conforme aux 
+réglementations nationales et locales en vigueur.
+
+
+>>> False
+
+Article 4 : Desserte par les réseaux
+ 
+1) Dans tous les secteurs :
+ 
+b) Eaux usées / Eaux pluviales
+ 
+Tout projet devra être conforme aux directives pour l’établissement des dossiers 
+d’assainissement (note D.E.D.A. définie à l’annexe sanitaire) auxquelles il conviendra de se 
+reporter, notamment pour les opérations effectuées sur des parcelles non desservies par un 
+réseau d'assainissement collectif. 
+Les dispositions internes des constructions doivent permettre leur raccordement ultérieur au 
+réseau public d’assainissement collectif qui sera obligatoire, dans les délais légaux.
+
+
+>>> False
+
+Article 4 : Desserte par les réseaux
+ 
+1) Dans tous les secteurs :
+ 
+c) Electricité
+ 
+Les branchements ‘‘électricité’’ devront être établis en souterrain.
+
+
+>>> False
+
+Article 4 : Desserte par les réseaux
+ 
+1) Dans tous les secteurs :
+ 
+d) Déchets ménagers
+ 
+Les locaux et aires de présentation nécessaires au stockage des conteneurs et à la collecte 
+sélective des déchets ménagers devront être définis dans l'opération.
+
+
+>>> False
+
+Article 4 : Desserte par les réseaux
+ 
+2) Dans les secteurs 4AU1-1, 4AU1-5 et 4AU1-6:
+ 
+– Conformément aux dispositions de l’article L 2224-10 du code général des collectivités 
+territoriales, les mesures suivantes de rétention des eaux pluviales devront être prises pour les 
+unités foncières d'une superficie supérieure à 2000 m² et si la surface des espaces libres non 
+imperméabilisés du projet est inférieure à 60 % de la surface totale du terrain concerné.
+
+
+>>> False
+
+Article 4 : Desserte par les réseaux
+ 
+2) Dans les secteurs 4AU1-1, 4AU1-5 et 4AU1-6:
+ 
+– Les eaux de ruissellement générées au minimum par les surfaces imperméabilisées au-delà du 
+coefficient d’imperméabilisation seuil fixé à 40% de la surface de l’unité foncière devront être 
+retenues sur ladite parcelle.
+
+
+>>> False
+
+Article 4 : Desserte par les réseaux
+ 
+2) Dans les secteurs 4AU1-1, 4AU1-5 et 4AU1-6:
+ 
+– La capacité minimale de rétention sera de 100 litres par m² de surface imperméabilisée, 
+excédentaire par rapport au seuil défini ci-dessus.
+
+
+>>> False
+
+Article 4 : Desserte par les réseaux
+ 
+2) Dans les secteurs 4AU1-1, 4AU1-5 et 4AU1-6:
+ 
+– Le volume total disponible pour la rétention des eaux pluviales et de ruissellement sera toujours 
+supérieur à 15 m3.
+
+
+>>> False
+
+Article 4 : Desserte par les réseaux
+ 
+2) Dans les secteurs 4AU1-1, 4AU1-5 et 4AU1-6:
+ 
+– En cas d’extension de transformation ou reconstruction de bâtiments existants le coefficient 
+d’imperméabilisation seuil pris en considération sera fixé, non plus à 40%, mais au coefficient 
+d’imperméabilisation existant (avant transformation ou reconstruction le cas échéant) s’il est 
+supérieur à 40%.
+
+
+>>> False
+
+Article 4 : Desserte par les réseaux
+ 
+2) Dans les secteurs 4AU1-1, 4AU1-5 et 4AU1-6:
+ 
+– Le coefficient d'imperméabilisation mentionné ci-dessus est défini comme étant le rapport entre 
+les surfaces autres que celles des espaces libres existants et la surface totale de l'unité foncière.
+
+
+>>> False
+
+Article 4 : Desserte par les réseaux
+ 
+2) Dans les secteurs 4AU1-1, 4AU1-5 et 4AU1-6:
+ 
+– Les espaces libres comprennent : 
+-  les espaces verts ; 
+-  les espaces piétonniers y compris lorsqu'ils sont accessibles aux véhicules de sécurité, s'ils 
+sont traités en matériaux perméables.
+
+
+>>> False
+
+Article 4 : Desserte par les réseaux
+ 
+2) Dans les secteurs 4AU1-1, 4AU1-5 et 4AU1-6:
+ 
+– Sont exclus tous les espaces accessibles aux autres véhicules.
+
+
+>>> False
+
+Article 4 : Desserte par les réseaux
+ 
+2) Dans les secteurs 4AU1-1, 4AU1-5 et 4AU1-6:
+ 
+– Trois techniques de rétention à la parcelle pourront être utilisées : 
+- Chaussées ou parkings avec structure réservoir, 
+- Bassins secs non couverts ou noues intégrés dans l’aménagement des espaces verts, 
+- Dispositifs de rétention en toiture.
+
+
+>>> False
+
+Article 4 : Desserte par les réseaux
+ 
+2) Dans les secteurs 4AU1-1, 4AU1-5 et 4AU1-6:
+ 
+– Dans les trois cas, la vidange s’effectuera à faible débit par drainage de type agricole en fond 
+d’ouvrage.
+
+
+>>> False
+
+Article 4 : Desserte par les réseaux
+ 
+2) Dans les secteurs 4AU1-1, 4AU1-5 et 4AU1-6:
+ 
+– Si des contraintes techniques particulières s’opposent à la mise en œuvre des dispositifs de 
+rétention préconisés ci-dessus, des solutions variantes pourront être proposées.
+
+
+>>> False
+
+Article 4 : Desserte par les réseaux
+ 
+2) Dans les secteurs 4AU1-1, 4AU1-5 et 4AU1-6:
+ 
+– Dans tous les cas, le projet devra être conforme aux directives pour l’établissement des dossiers 
+d’assainissement (note D.E.D.A. figurant aux annexes sanitaires du PLU) auxquelles il 
+conviendra de se reporter.
+
+
+>>> False
+
+Article 5 : Caractéristiques des terrains
+ 
+Dans l'ensemble de la zone :
+ 
+Non règlementé
+
+
+>>> False
+
+Article 6 : Implantation des constructions par rapport aux voies et 
+emprises publiques
+ 
+Définition du prospect par rapport à l'alignement opposé :
+ 
+Il est défini par l'expression d'un rapport entre 2 variables : 
+−  la variable D : distance, comptée horizontalement de tout point du bâtiment au point le plus 
+proche de l'alignement opposé de la voie à l'altitude du sol existant ; 
+−  la variable A : différence d'altitude entre ces deux points.
+
+
+>>> False
+
+Article 6 : Implantation des constructions par rapport aux voies et 
+emprises publiques
+ 
+Définition de l'alignement :
+ 
+La limite entre le domaine privé et le domaine public existant ou prévu.
+
+
+>>> Non-verifiable
+
+Article 6 : Implantation des constructions par rapport aux voies et 
+emprises publiques
+ 
+1) Dans tous les secteurs : 
+  a) Principe général :
+ 
+a.1)  Les règles d’implantation définies par le présent article : 
+−  ne s’appliquent qu’au-dessus du terrain naturel ; 
+−  ne visent pas les pylônes et poteaux de lignes électriques et d’antennes d’émission 
+ou de réception de signaux radioélectriques.
+
+
+>>> Non-verifiable
+
+Article 6 : Implantation des constructions par rapport aux voies et 
+emprises publiques
+ 
+1) Dans tous les secteurs : 
+  a) Principe général :
+ 
+a.2)  Sauf disposition contraire particulière, les règles d’implantation définies par le présent 
+article ne s’appliquent qu’aux façades des constructions prises dans le plan vertical du 
+nu de celles-ci. Elles ne font pas préjudice de la réglementation des saillies sur l’espace 
+public telle que définie ci-après.
+
+
+>>> False
+
+Article 6 : Implantation des constructions par rapport aux voies et 
+emprises publiques
+ 
+1) Dans tous les secteurs : 
+  a) Principe général :
+ 
+b) Règles particulières liées aux saillies autorisées sur le domaine public : 
+Sauf disposition contraire particulière, les saillies sur l’espace public existant ou prévu seront 
+admises, et ce dans les conditions suivantes :
+ 
+b-1)  Dans tous les cas hormis les saillies définies au paragraphe b-4) : 
+Les surplombs sur l’espace public devront respecter au minimum une hauteur de 4 m 
+au-dessus du niveau d’un trottoir ou d’un passage piétons et 4,50 m au-dessus du niveau 
+de la chaussée dans les voies dépourvues de trottoir.
+
+
+>>> False
+
+Article 6 : Implantation des constructions par rapport aux voies et 
+emprises publiques
+ 
+1) Dans tous les secteurs : 
+  a) Principe général :
+ 
+b) Règles particulières liées aux saillies autorisées sur le domaine public : 
+Sauf disposition contraire particulière, les saillies sur l’espace public existant ou prévu seront 
+admises, et ce dans les conditions suivantes :
+ 
+b-2)  Saillies de balcons et bow-windows : 
+Aux règles de hauteur des surplombs définies précédemment, s’ajoutent les dispositions 
+suivantes : 
+– Les saillies de balcons et de bow-windows ne pourront dépasser les dimensions 
+suivantes comptées horizontalement depuis le nu de la façade : 
+0,20 mètres sur les voies d’une largeur Inférieure ou égale à 7 mètres 
+0,50 mètres sur les voies d’une largeur comprise entre 7,01 et 12 mètres 
+0,80 mètres sur les voies d’une largeur comprise entre 12,01 et 15 mètres 
+1,00 mètres sur les voies d’une largeur comprise entre 15,01 et 30 mètres 
+1,20 mètres sur les voies d’une largeur supérieure à 30 mètres (places)
+
+
+>>> False
+
+Article 6 : Implantation des constructions par rapport aux voies et 
+emprises publiques
+ 
+1) Dans tous les secteurs : 
+  a) Principe général :
+ 
+b) Règles particulières liées aux saillies autorisées sur le domaine public : 
+Sauf disposition contraire particulière, les saillies sur l’espace public existant ou prévu seront 
+admises, et ce dans les conditions suivantes :
+ 
+b-3)  Saillies de toitures : 
+Aux règles de hauteur des surplombs définies précédemment, s’ajoutent les dispositions 
+suivantes : 
+– Les saillies de toitures (génoises, corniche, etc …) ne pourront dépasser les dimensions 
+suivantes :  
+0,30 mètres sur les voies d’une largeur inférieure ou égale à 6 mètres 
+0,40 mètres sur les voies d’une largeur comprise entre 6,01 mètres et 8 mètres 
+0,50 mètres sur les voies d’une largeur comprise entre 8,01 mètres et 12 mètres 
+0,60 mètres sur les voies d’une largeur comprise entre 12,01 mètres et 15 mètres 
+0,80 mètres sur les voies d’une largeur supérieure à 15 mètres
+
+
+>>> False
+
+Article 6 : Implantation des constructions par rapport aux voies et 
+emprises publiques
+ 
+1) Dans tous les secteurs : 
+  a) Principe général :
+ 
+b) Règles particulières liées aux saillies autorisées sur le domaine public : 
+Sauf disposition contraire particulière, les saillies sur l’espace public existant ou prévu seront 
+admises, et ce dans les conditions suivantes :
+ 
+b-4)  Autres saillies en façades : 
+Nonobstant la règle de hauteur définie au paragraphe b-1), les autres saillies (parements 
+architecturaux, descentes d’eaux pluviales, ouvrages en soubassement, etc…) sont 
+admises dans le respect de la sécurité civile et routière.
+
+
+>>> Non-verifiable
+
+Article 6 : Implantation des constructions par rapport aux voies et 
+emprises publiques
+ 
+2) Dans le secteur 4AU1-1 :
+ 
+– Sous réserve des règles définies au paragraphe 8) du présent article.
+
+
+>>> Non-verifiable
+
+Article 6 : Implantation des constructions par rapport aux voies et 
+emprises publiques
+ 
+2) Dans le secteur 4AU1-1 :
+ 
+– Règle de prospect :  D > ou = 2 x A
+
+
+>>> Non-verifiable
+
+Article 6 : Implantation des constructions par rapport aux voies et 
+emprises publiques
+ 
+2) Dans le secteur 4AU1-1 :
+ 
+– Cas particulier :  Lorsqu’un bâtiment est édifié à l’intersection de deux voies d’inégales largeurs 
+le prospect applicable en bordure de la voie la plus large peut s’appliquer en 
+bordure de la voie la plus étroite sur un linéaire de 16 mètres maximum compté 
+à partir de l’intersection des deux voies.
+
+
+>>> Non-verifiable
+
+Article 6 : Implantation des constructions par rapport aux voies et 
+emprises publiques
+ 
+3) Dans le secteur 4AU1-2, 4AU1-3, 4AU1-6 et 4AU1-7 :
+ 
+a) Aux dispositions générales définies au paragraphe 1) s’ajoutent les règles suivantes :
+ 
+Sous réserve des règles définies aux paragraphes 7 et 8 du présent article.
+
+
+>>> Non-verifiable
+
+Article 6 : Implantation des constructions par rapport aux voies et 
+emprises publiques
+ 
+3) Dans le secteur 4AU1-2, 4AU1-3, 4AU1-6 et 4AU1-7 :
+ 
+a) Aux dispositions générales définies au paragraphe 1) s’ajoutent les règles suivantes :
+ 
+Règle de prospect : D > ou = A
+
+
+>>> Non-verifiable
+
+Article 6 : Implantation des constructions par rapport aux voies et 
+emprises publiques
+ 
+3) Dans le secteur 4AU1-2, 4AU1-3, 4AU1-6 et 4AU1-7 :
+ 
+a) Aux dispositions générales définies au paragraphe 1) s’ajoutent les règles suivantes :
+ 
+Cas particulier :  Lorsqu’un bâtiment est édifié à l’intersection de deux voies d’inégales 
+largeurs le prospect applicable en bordure de la voie la plus large peut 
+s’appliquer en bordure de la voie la plus étroite sur un linéaire de 16 mètres 
+maximum compté à partir de l’intersection des deux voies.
+
+
+>>> Verifiable
+
+Article 6 : Implantation des constructions par rapport aux voies et 
+emprises publiques
+ 
+3) Dans le secteur 4AU1-2, 4AU1-3, 4AU1-6 et 4AU1-7 :
+ 
+b) Dans le secteur 4AU1-3, le long de la rue du Pilory, nonobstant les règles définies au 
+paragraphe a) :
+ 
+Les constructions seront implantées à l’alignement sur au moins 30 % du linéaire de l’unité 
+foncière. 
+Toutefois, les façades ainsi alignées pourront présenter des reculs partiels (terrasses, 
+loggias, balcons, tout ou partie des rez-de-chaussée…) et pourront intervenir dans la 
+verticalité du linéaire des façades ainsi alignées telles que défini ci avant.
+
+
+>>> Non-verifiable
+
+Article 6 : Implantation des constructions par rapport aux voies et 
+emprises publiques
+ 
+4) Dans le secteur 4AU1-5 :
+ 
+Aux dispositions générales définies au paragraphe 1) s’ajoutent les règles suivantes : 
+Nonobstant les règles édictées au paragraphe 8) du présent article. 
+−  Retrait défini au plan annexé au présent règlement le long de l'avenue Vincent Auriol pour 
+toutes les constructions ; 
+−  Recul de 5 mètres par rapport aux voies (existantes ou à créer) à l'intérieur du secteur pour 
+toutes les constructions.
+
+
+>>> Non-verifiable
+
+Article 6 : Implantation des constructions par rapport aux voies et 
+emprises publiques
+ 
+5) Dans le secteur de prescriptions architecturales particulières "route de Ganges 
+(RD 986)" :
+ 
+Nonobstant les règles édictées au paragraphe 8) du présent article, aux règles édictées au 
+paragraphe 4) du présent article se substituent les règles suivantes : 
+−  Retrait défini au plan annexé au présent règlement le long de la route de Ganges (RD 986) et 
+de la bretelle d'accès à la rue des Apothicaires pour les constructions autres que les 
+habitations 
+−  Recul minimum de 75 m de l'axe de la route de Ganges (RD 986) pour les habitations.
+
+
+>>> Non-verifiable
+
+Article 6 : Implantation des constructions par rapport aux voies et 
+emprises publiques
+ 
+6) Dans le secteur de prescriptions architecturales particulières "avenue Pierre 
+Mendès France" :
+ 
+Aux règles édictées au paragraphe 3) du présent article se substituent les règles suivantes : 
+Les constructions seront édifiées au minimum au retrait défini dans les documents graphiques du 
+règlement.
+
+
+>>> Non-verifiable
+
+Article 6 : Implantation des constructions par rapport aux voies et 
+emprises publiques
+ 
+Secteur 4AU1-2 :
+ 
+De plus, dans la bande de 100 m par rapport à l'axe de l'avenue Pierre Mendès France, la somme 
+des projections orthogonales des façades bâties sur l'axe de la voie est limitée à 55 % du linéaire 
+total de cet axe dans le secteur de prescriptions architecturales "avenue Pierre Mendès France" 
+dans la zone 4AU1-2.
+
+
+>>> Non-verifiable
+
+Article 6 : Implantation des constructions par rapport aux voies et 
+emprises publiques
+ 
+7) Dans le secteur de prescriptions architecturales particulières "autoroute A9" :
+ 
+Aux règles édictées au paragraphe 3) du présent article se substituent les règles suivantes : 
+− Les constructions seront édifiées au minimum au retrait défini dans les documents graphiques du 
+règlement. 
+− De plus, dans la bande de 100 m par rapport à l'axe de l'autoroute A9, la somme des projections 
+orthogonales des façades bâties sur l'axe de la voie est limitée à 60 % du linéaire total de cet axe 
+dans le secteur de prescriptions architecturales "autoroute A9" dans la zone 4AU1-2.
+
+
+>>> False
+
+Article 6 : Implantation des constructions par rapport aux voies et 
+emprises publiques
+ 
+8) Le long des voies désignées dans les documents graphiques du règlement:
+ 
+Les constructions devront respecter le retrait minimum indiqué dans les documents graphiques 
+du règlement.
+
+
+>>> False
+
+Article 7 : Implantation des constructions par rapport aux limites  
+ séparatives
+ 
+Définition du prospect par rapport aux limites séparatives :
+ 
+Il est défini par l'expression d'un rapport entre 2 variables : 
+−  la variable L : distance comptée horizontalement de tout point du bâtiment au point de la limite 
+parcellaire qui en est le plus rapproché à l'altitude du sol existant ; 
+−  la variable H : différence d'altitude entre ces deux points.
+
+
+>>> False
+
+Article 7 : Implantation des constructions par rapport aux limites  
+ séparatives
+ 
+1) Dans tous les secteurs :
+ 
+a) Principe général :
+ 
+Les règles d’implantation définies par le présent article ne s’appliquent qu’au-dessus du terrain 
+naturel.
+
+
+>>> False
+
+Article 7 : Implantation des constructions par rapport aux limites  
+ séparatives
+ 
+1) Dans tous les secteurs :
+ 
+a) Principe général :
+ 
+Les pylônes et poteaux de lignes électriques et d’antennes d’émission ou de réception de 
+signaux radioélectriques peuvent être implantés jusqu’en limite séparative.
+
+
+>>> False
+
+Article 7 : Implantation des constructions par rapport aux limites  
+ séparatives
+ 
+1) Dans tous les secteurs :
+ 
+a) Principe général :
+ 
+Rappel : chaque prospect est calculé par rapport à la cote T.N correspondante en limite séparative sur 
+le fonds voisin.
+
+
+>>> False
+
+Article 7 : Implantation des constructions par rapport aux limites  
+ séparatives
+ 
+1) Dans tous les secteurs :
+ 
+b) Règles particulières :
+ 
+−  Les constructions annexes ne créant pas de surface de plancher peuvent être édifiées en 
+limites séparatives. Sur ces limites ces annexes ne pourront avoir un linéaire d’implantation 
+total supérieur à 10 mètres, et une hauteur maximale, telle que définie à l’article 10, 
+supérieure à 3,50 mètres, sauf en cas d’accord écrit entre les propriétaires intéressés 
+permettant de dépasser ces normes.
+
+
+>>> False
+
+Article 7 : Implantation des constructions par rapport aux limites  
+ séparatives
+ 
+1) Dans tous les secteurs :
+ 
+b) Règles particulières :
+ 
+− Les parties de constructions situées au-dessous du terrain naturel (notamment les parkings 
+et les piscines) peuvent être implantées en limites séparatives.
+
+
+>>> False
+
+Article 7 : Implantation des constructions par rapport aux limites  
+ séparatives
+ 
+1) Dans tous les secteurs :
+ 
+b) Règles particulières :
+ 
+−  En cas d’accord écrit entre les propriétaires intéressés, les bâtiments pourront être édifiés 
+dans la marge de reculement définie et jusqu’à la limite séparative.
+
+
+>>> False
+
+Article 7 : Implantation des constructions par rapport aux limites  
+ séparatives
+ 
+1) Dans tous les secteurs :
+ 
+b) Règles particulières :
+ 
+−  Un bâtiment nouveau peut être adossé à un bâtiment existant s’il est d’un gabarit en limites 
+séparatives inférieur ou égal à celui du bâtiment existant.
+
+
+>>> False
+
+Article 7 : Implantation des constructions par rapport aux limites  
+ séparatives
+ 
+1) Dans tous les secteurs :
+ 
+b) Règles particulières :
+ 
+Cas particulier des constructions sur le domaine public :
+
+
+>>> False
+
+Article 7 : Implantation des constructions par rapport aux limites  
+ séparatives
+ 
+1) Dans tous les secteurs :
+ 
+b) Règles particulières :
+ 
+−  En ce qui concerne les constructions sur le domaine public, celles-ci seront implantées au 
+minimum à 3 mètres des limites séparatives.
+
+
+>>> False
+
+Article 7 : Implantation des constructions par rapport aux limites  
+ séparatives
+ 
+1) Dans tous les secteurs :
+ 
+b) Règles particulières :
+ 
+Toutefois, les implantations sur le domaine public restant à un niveau proche ou équivalent 
+de celui du sol fini après travaux d’aménagement de la zone, telles que notamment les 
+terrasses, de même que le mobilier urbain, les parkings, les piscines et les bassins 
+d’agrément peuvent être implantées en deçà de cette limite, jusqu’en limites séparatives.
+
+
+>>> False
+
+Article 7 : Implantation des constructions par rapport aux limites  
+ séparatives
+ 
+2) Dans les secteurs 4AU1-1, 4AU1-3, 4AU1-5 et 4AU1-7 :
+ 
+−  L > = ou à H/2 et au minimum L > ou = à 5 mètres
+
+
+>>> False
+
+Article 7 : Implantation des constructions par rapport aux limites  
+ séparatives
+ 
+2) Dans les secteurs 4AU1-1, 4AU1-3, 4AU1-5 et 4AU1-7 :
+ 
+Les parties de constructions situées au-dessous du terrain naturel (notamment les parkings 
+et les piscines) peuvent être implantées jusqu'en limites séparatives.
+
+
+>>> False
+
+Article 7 : Implantation des constructions par rapport aux limites  
+ séparatives
+ 
+3) Dans le secteur 4AU1-2 :
+ 
+−  Les constructions peuvent être implantées jusqu'en limite séparative. 
+Dans le cas contraire, L > ou = à H/2 et au minimum L > ou = à 5 mètres. 
+Dans tous les cas, les parties de constructions situées au-dessous du terrain naturel 
+(notamment les parkings et les piscines) peuvent être implantées jusqu'en limite séparative.
+
+
+>>> False
+
+Article 7 : Implantation des constructions par rapport aux limites  
+ séparatives
+ 
+4) Dans le secteur 4AU1-6 :
+ 
+−  L > ou = à H et au minimum L > ou = à 4 mètres
+
+
+>>> False
+
+Article 7 : Implantation des constructions par rapport aux limites  
+ séparatives
+ 
+4) Dans le secteur 4AU1-6 :
+ 
+Les parties de constructions situées au-dessous du terrain naturel (notamment les parkings 
+et les piscines) peuvent être implantées jusqu'en limites séparatives.
+
+
+>>> False
+
+Article 8 : Implantation des constructions les unes par rapport aux 
+autres sur une même propriété
+ 
+1) Dans tous les secteurs :
+ 
+Les règles d’implantation définies par le présent article ne s’appliquent qu’au-dessus du terrain 
+naturel.
+
+
+>>> False
+
+Article 8 : Implantation des constructions les unes par rapport aux 
+autres sur une même propriété
+ 
+2) Dans les secteurs 4AU1-1, 4AU1-3, 4AU1-5 et 4AU1-7 :
+ 
+5 mètres entre deux bâtiments à usage d’activités, non contigus. 
+Pour les autres modes d’occupation du sol : les constructions situées sur une même unité foncière 
+doivent être implantées de telle manière qu'elles satisfassent aux conditions suivantes : les baies 
+éclairant les pièces principales des logements ne doivent être masquées par aucune partie 
+d'immeuble qui, à l'appui des baies, serait vue sous un angle de plus de 60 degrés au-dessus du 
+plan horizontal. 
+Une distance d'au moins quatre mètres peut être imposée entre deux bâtiments non contigus.
+
+
+>>> False
+
+Article 8 : Implantation des constructions les unes par rapport aux 
+autres sur une même propriété
+ 
+3) Dans le secteur 4AU1-2 et 4AU1-6 :
+ 
+L'implantation des bâtiments sera, soit contiguë, soit à distance d'au moins 4 mètres.
+
+
+>>> False
+
+Article 9 : Emprise au sol
+ 
+Non réglementé.
+
+
+>>> False
+
+Article 10 : Hauteur maximale des constructions
+ 
+Définition de la hauteur maximale des constructions :
+ 
+La hauteur maximale HM d'une construction est définie comme le maximum de la distance 
+verticale de n'importe quel point de cette construction, superstructures comprises, à l'exception 
+des cheminées, des antennes, des enseignes et des dispositifs techniques de captage de 
+l’énergie solaire ou liés à la sécurité des personnes, au point correspondant du sol naturel avant 
+tous travaux quand celle-ci est exprimée en mètres ou au point correspondant au niveau zéro 
+dans le système de nivellement général de la France quand celle-ci est exprimée en mètres NGF.
+
+
+>>> False
+
+Article 10 : Hauteur maximale des constructions
+ 
+1) Dans tous les secteurs :
+ 
+La hauteur maximale HM admise correspond à la plus restrictive des 2 règles édictées aux 
+paragraphes 2 et 3 suivants : 
+− Pour les pylônes et poteaux, les supports d'enseignes et d'antennes d'émission ou de réception 
+de signaux radioélectriques, ainsi que pour les pylônes support d’éclairage public, la hauteur n’est 
+pas réglementée. 
+− Pour les constructions existantes dont la hauteur HM est supérieure à la hauteur autorisée par le 
+règlement de la zone, la construction ou l’installation d’édicules techniques nouveaux est 
+autorisée à condition : 
+- que ces édicules soient regroupés avec ceux déjà réalisés s’il en existe, 
+- en l’absence d’édicules existants, que leur hauteur ne dépasse pas 1,80 mètres.
+
+
+>>> False
+
+Article 10 : Hauteur maximale des constructions
+ 
+2) Normes spécifiques des secteurs de la zone :
+ 
+• dans le secteur  
+4AU1-1 ........................................................................  12 mètres 
+• dans le secteur  
+4AU1-2 
+Règle générale ....................................  15 mètres 
+Dans le périmètre A .............................  25 mètres 
+Dans le périmètre B ............................. 33 mètres 
+• dans les secteurs 4AU1-3 et 4AU1-7 .......................................................  18 mètres 
+• dans le secteur  
+4AU1-5 ........................................................................  10 mètres 
+• dans le secteur  
+4AU1-6 ........................................................................  20 mètres
+
+
+>>> False
+
+Article 10 : Hauteur maximale des constructions
+ 
+3) Normes générales de hauteur en fonction de l'indice de la zone :
+ 
+• dans le périmètre d'indice "b" ..............................................................  55 mètres NGF 
+• dans le périmètre d'indice "c" ..............................................................  cotes inscrites au plan 
+• dans le périmètre d'indice "e" ..............................................................  15 mètres 
+• dans le périmètre d'indice "f" ...............................................................  21 mètres 
+Dans les secteurs affectés des indices b ou c, cette règle ne s'applique pas aux constructions 
+dont la hauteur maximale est égale ou inférieure à 10 mètres pour les collectifs et bâtiments 
+autres qu'à usage d'habitation et à 8 mètres pour l'individuel, mesurés à partir du sol naturel avant 
+terrassements.
+
+
+>>> False
+
+Article 11 : Aspect extérieur
+ 
+1) Dans tous les secteurs :
+ 
+Outre les dispositions de l’article R111.21 du code de l’urbanisme qui demeurent applicables sur 
+l’ensemble du territoire communal, à l’exclusion des périmètres couverts par une zone de 
+protection du patrimoine architectural, urbain et paysager ou un plan de sauvegarde et de mise 
+en valeur, les murs séparatifs les murs pignons, les murs de clôture, les bâtiments annexes 
+doivent avoir un aspect qui s’harmonise avec celui des façades principales. Les murs pignons 
+des immeubles collectifs doivent être obligatoirement architecturés ou animés.  
+Les édicules techniques installés sur les constructions doivent faire l’objet d’une intégration 
+adaptée aux caractéristiques architecturales du bâtiment.  
+Les procédés de traitement par camouflage sont possibles.
+
+
+>>> False
+
+Article 11 : Aspect extérieur
+ 
+2) Dans les secteurs 4AU1-1, 4AU1-2, 4AU1-3, 4AU1-6 et 4AU1-7:
+ 
+a)  En ce qui concerne les bâtiments
+ 
+Les acrotères des constructions à toiture plate devront être réalisés à une hauteur suffisante 
+pour masquer les superstructures en toiture. 
+Pour les toitures en pente, les dispositifs techniques de captage de l’énergie solaire devront 
+être intégrés dans le plan de la toiture sans débord.
+
+
+>>> False
+
+Article 11 : Aspect extérieur
+ 
+2) Dans les secteurs 4AU1-1, 4AU1-2, 4AU1-3, 4AU1-6 et 4AU1-7:
+ 
+b)  En ce qui concerne les clôtures et hors des périmètres en bordure des cours d'eau définis 
+dans les annexes sanitaires du PLU
+ 
+• en limites séparatives 
+Hauteur maximum : 2 mètres dont 1,20 m de hauteur maximum de mur bahut surmonté d'un 
+grillage agrémenté de plantation sauf convention contraire entre voisins en définissant les 
+caractéristiques des matériaux et sous réserve des dispositions du code civil.
+
+
+>>> False
+
+Article 11 : Aspect extérieur
+ 
+2) Dans les secteurs 4AU1-1, 4AU1-2, 4AU1-3, 4AU1-6 et 4AU1-7:
+ 
+b)  En ce qui concerne les clôtures et hors des périmètres en bordure des cours d'eau définis 
+dans les annexes sanitaires du PLU
+ 
+• à l’alignement des voies et emprises publiques 
+Hauteur maximum : 2 mètres : 
+Les parties vues seront obligatoirement architecturées. 
+Au-dessus du terrain naturel ou du trottoir, d’une manière générale, les clôtures devront être 
+constituées d’un mur bahut de 1,20 m de hauteur maximum, surmonté d’un grillage 
+agrémenté de plantations. 
+Dans les cas particuliers énumérés ci-après ces hauteurs pourront être dépassées : 
+− nuisances phoniques en bordure des voies à grande circulation, 
+− reconstitution des équipements existants, 
+− harmonie de la clôture par rapport aux clôtures avoisinantes. 
+− casernes ( gendarmerie, C.R.S., armée, etc.. )
+
+
+>>> False
+
+Article 11 : Aspect extérieur
+ 
+3) Dans le secteur 4AU1-5 :
+ 
+Aux règles édictées au paragraphe 1) du présent article s'ajoutent les règles suivantes : 
+Afin de préserver le parti de composition générale de la zone, toutes les constructions doivent 
+respecter les prescriptions architecturales suivantes :
+ 
+− Volumétrie 
+Les volumes doivent exprimer les caractéristiques constructives et fonctionnelles du bâtiment 
+dans une volumétrie d'ensemble de caractère horizontal, les accidents verticaux pouvant 
+exprimer l'articulation des différentes fonctions du bâtiment et de la structure porteuse.
+
+
+>>> False
+
+Article 11 : Aspect extérieur
+ 
+3) Dans le secteur 4AU1-5 :
+ 
+Aux règles édictées au paragraphe 1) du présent article s'ajoutent les règles suivantes : 
+Afin de préserver le parti de composition générale de la zone, toutes les constructions doivent 
+respecter les prescriptions architecturales suivantes :
+ 
+− Toiture 
+La toiture doit exprimer l'horizontalité caractérisant la volumétrie d'ensemble de la zone. 
+Les toitures seront dans leur ensemble, plates ou en pente faible ou légèrement ondulées. 
+Les chéneaux, gouttières et descentes d'eaux pluviales seront intégrés à la construction ou 
+traités en éléments structurants.
+
+
+>>> False
+
+Article 11 : Aspect extérieur
+ 
+3) Dans le secteur 4AU1-5 :
+ 
+Aux règles édictées au paragraphe 1) du présent article s'ajoutent les règles suivantes : 
+Afin de préserver le parti de composition générale de la zone, toutes les constructions doivent 
+respecter les prescriptions architecturales suivantes :
+ 
+− Façades 
+Toutes les façades et pignons doivent être traités avec le même souci architectural. 
+Les murs pignons traités en fronton dépassant du volume de la toiture sont interdits. 
+Toutes les façades doivent exprimer par le calepinage de leur parement de finition un rythme 
+horizontal quel que soit le matériau employé.
+
+
+>>> False
+
+Article 11 : Aspect extérieur
+ 
+3) Dans le secteur 4AU1-5 :
+ 
+Aux règles édictées au paragraphe 1) du présent article s'ajoutent les règles suivantes : 
+Afin de préserver le parti de composition générale de la zone, toutes les constructions doivent 
+respecter les prescriptions architecturales suivantes :
+ 
+− Couleurs
+
+
+>>> False
+
+Article 11 : Aspect extérieur
+ 
+3) Dans le secteur 4AU1-5 :
+ 
+En règle générale, l'harmonie des couleurs devra permettre une lecture dynamique du 
+bâtiment en faisant ressortir les éléments constructifs (structure porteuse) des éléments de 
+remplissage (façades). 
+Les teintes utilisées pour les grandes surfaces seront essentiellement monochromes dans des 
+gammes de couleurs profondes.
+
+
+>>> False
+
+Article 11 : Aspect extérieur
+ 
+3) Dans le secteur 4AU1-5 :
+ 
+− Enseignes 
+Toutes enseignes, logos, graphiques ou écrits, ayant pour support le bâtiment ou la clôture, 
+doivent être correctement intégrés à l'architecture du bâtiment et devront figurer sur les plans 
+et façades annexés à la demande de permis de construire.
+
+
+>>> False
+
+Article 11 : Aspect extérieur
+ 
+3) Dans le secteur 4AU1-5 :
+ 
+− Energie solaire 
+Les éléments de captage de l'énergie solaire en mode passif ou actif doivent faire partie 
+intégrante de la conception générale du bâtiment et doivent figurer sur les plans et élévations 
+annexés à la demande de permis de construire.
+
+
+>>> False
+
+Article 11 : Aspect extérieur
+ 
+3) Dans le secteur 4AU1-5 :
+ 
+Pour les toitures en pente, ces éléments de captage de l’énergie solaire devront être intégrés 
+dans le plan de la toiture sans débord.
+
+
+>>> False
+
+Article 11 : Aspect extérieur
+ 
+3) Dans le secteur 4AU1-5 :
+ 
+− Clôture 
+En limite avec l'espace public : les clôtures d'une hauteur maximale de deux mètres seront 
+particulièrement soignées de type métallique en treillis soudés plastifié de couleur verte. 
+En limite séparative : les clôtures d'une hauteur maximale de deux mètres seront 
+particulièrement soignées de type métallique en treillis soudés plastifié de couleur verte et 
+doublées par une haie végétale de feuilles persistantes.
+
+
+>>> Non-verifiable
+
+Article 12 : Stationnement des véhicules
+ 
+1) Dans tous les secteurs :
+ 
+a) Principes généraux :
+ 
+Le stationnement des véhicules correspondant aux besoins des constructions et des 
+installations doit être assuré en dehors des voies publiques. Les surfaces de plancher 
+existantes objet de travaux sans changement de destination ou dont la destination sera 
+modifiée, devront satisfaire uniquement aux besoins supplémentaires induits par le nouveau 
+programme ou la nouvelle affectation. 
+Le calcul des droits de stationnement initiaux de ces surfaces de plancher existantes sera 
+effectué sur la base de leur destination effective au moment du dépôt de l’autorisation 
+d’urbanisme, et des règles particulières définies pour cette destination, le cas échéant, au(x) 
+paragraphe(s) suivant(s) du présent article, nonobstant les dispositions spécifiques 
+applicables dans les périmètres de desserte par le tramway.
+
+
+>>> Non-verifiable
+
+Article 12 : Stationnement des véhicules
+ 
+1) Dans tous les secteurs :
+ 
+a) Principes généraux :
+ 
+Le nombre de places de stationnement, y compris le stationnement lié aux livraisons de 
+marchandises, doit répondre aux besoins engendrés par la nature, la fonction et la localisation 
+des constructions, travaux ou ouvrages réalisés. 
+Pour les projets non expressément listés au paragraphe b) suivant, la demande de permis de 
+construire devra montrer que le nombre de places de stationnement répond aux besoins 
+engendrés par la nature, la fonction et la localisation des constructions, travaux et ouvrages 
+réalisés.
+
+
+>>> Non-verifiable
+
+Article 12 : Stationnement des véhicules
+ 
+1) Dans tous les secteurs :
+ 
+a) Principes généraux :
+ 
+Les dimensions à prendre en compte dans le cas de garages ou aires de stationnement sont 
+au minimum de 5 mètres pour la longueur et de 2,50 mètres pour la largeur. Cette dernière 
+dimension sera portée à 3,30 mètres pour un parking “handicapé”, et à 2,00 mètres s'il s'agit 
+d'une place de stationnement longitudinal.
+
+
+>>> Non-verifiable
+
+Article 12 : Stationnement des véhicules
+ 
+1) Dans tous les secteurs :
+ 
+a) Principes généraux :
+ 
+Les places doubles sont autorisées à condition qu’une place de stationnement par logement 
+soit directement accessible.
+
+
+>>> False
+
+Article 12 : Stationnement des véhicules
+ 
+1) Dans tous les secteurs :
+ 
+b) Règles particulières :
+ 
+Les quotas applicables définis ci-dessous sont les normes minimales imposées aux 
+constructions. Pour les constructions non répertoriées ci-dessous (notamment les 
+équipements publics), seul le principe général s'applique.
+
+
+>>> False
+
+Article 12 : Stationnement des véhicules
+ 
+1) Dans tous les secteurs :
+ 
+b) Règles particulières :
+ 
+Le calcul des places de stationnement nécessaire à l'opération sera arrondi à l'unité inférieure 
+en dessous de 0,5 et à l'unité supérieure pour 0,5 et au-dessus.
+
+
+>>> False
+
+Article 12 : Stationnement des véhicules
+ 
+1) Dans tous les secteurs :
+ 
+b) Règles particulières :
+ 
+• constructions destinées à l’industrie, à l’artisanat, à la fonction d’entrepôt, 
+1 place pour 60 m² de surface de plancher.
+
+
+>>> False
+
+Article 12 : Stationnement des véhicules
+ 
+1) Dans tous les secteurs :
+ 
+b) Règles particulières :
+ 
+• constructions destinées à l’habitation, 
+1 place pour 50 m² de surface de plancher. 
+Cette norme minimale de stationnement est plafonnée à 1 place par logement. 
+Un ou des locaux directement accessibles et aménagés aux fins exclusives d’un 
+stationnement sécurisé des vélos doivent être prévus. La surface cumulée de ces locaux 
+résulte d’une norme minimale fixée à 0,8 m² pour 50 m² de surface de plancher, chaque 
+local devant avoir une superficie minimale de 6 m².
+
+
+>>> False
+
+Article 12 : Stationnement des véhicules
+ 
+1) Dans tous les secteurs :
+ 
+b) Règles particulières :
+ 
+• constructions destinées au bureau, 
+1 place pour 40 m² de surface de plancher. 
+Un ou des locaux directement accessibles et aménagés aux fins exclusives d’un 
+stationnement sécurisé des vélos doivent être prévus. La surface cumulée de ces locaux 
+résulte d’une norme minimale fixée à 0,8 m² pour 50 m² de surface de plancher, chaque 
+local devant avoir une superficie minimale de 6 m².
+
+
+>>> False
+
+Article 12 : Stationnement des véhicules
+ 
+1) Dans tous les secteurs :
+ 
+b) Règles particulières :
+ 
+• constructions destinées à l’hébergement hôtelier, 
+− hôtel : 
+1 place pour 2 chambres, 
+1 aire d’autocar pour tout projet de plus de 100 chambres. 
+Le projet de permis de construire devra indiquer la façon dont seront gérés, en dehors 
+de la voie publique, les arrêts momentanés des véhicules de la clientèle (autocars et 
+véhicules particuliers). 
+− résidences services personnes âgées : 
+1 place pour 50 m² de surface de plancher (cette norme minimale imposée est plafonnée 
+à 1 place pour 2 logements).
+
+
+>>> False
+
+Article 12 : Stationnement des véhicules
+ 
+1) Dans tous les secteurs :
+ 
+b) Règles particulières :
+ 
+• constructions et installations nécessaires aux services publics ou d’intérêt collectif, 
+- établissements d’enseignement public ou privé du 2ème degré : 
+1 aire pour le stationnement des 2 roues de 60 m² pour 100 élèves.
+
+
+>>> False
+
+Article 12 : Stationnement des véhicules
+ 
+2) Dans les secteurs 4AU1-1, 4AU1-3, 4AU1-5 et 4AU1-7:
+ 
+Aux règles édictées au paragraphe 1) du présent article s'ajoutent les règles suivantes : 
+Les quotas applicables définis ci-dessous sont les normes minimales imposées aux constructions :
+ 
+• constructions destinées aux commerces, 
+1 place pour 40 m² de surface de plancher.
+
+
+>>> False
+
+Article 12 : Stationnement des véhicules
+ 
+3) Dans le secteur 4AU1-2 :
+ 
+Aux règles édictées au paragraphe 1) du présent article s'ajoutent les règles suivantes : 
+Les quotas applicables définis ci-dessous sont les normes minimales imposées aux constructions :
+ 
+• constructions destinées aux activités culturelles, d'animation et de loisirs, 
+1place pour 60 m² de surface de plancher.
+
+
+>>> False
+
+Article 12 : Stationnement des véhicules
+ 
+3) Dans le secteur 4AU1-2 :
+ 
+Aux règles édictées au paragraphe 1) du présent article s'ajoutent les règles suivantes : 
+Les quotas applicables définis ci-dessous sont les normes minimales imposées aux constructions :
+ 
+• constructions destinées aux commerces, 
+1 place pour 80 m² de surface de plancher.
+
+
+>>> False
+
+Article 12 : Stationnement des véhicules
+ 
+3) Dans le secteur 4AU1-2 :
+ 
+Aux règles édictées au paragraphe 1) du présent article s'ajoutent les règles suivantes : 
+Les quotas applicables définis ci-dessous sont les normes minimales imposées aux constructions :
+ 
+• constructions destinées aux restaurants, 
+1 place pour 20 m² de surface de plancher.
+
+
+>>> Non-verifiable
+
+Article 12 : Stationnement des véhicules
+ 
+4) Dans les périmètres de desserte par le tramway :
+ 
+– Pour les constructions destinées à l’habitation situées tout ou partie dans les périmètres de 
+desserte par le tramway définis dans les documents graphiques du règlement, la règle applicable 
+est au minimum : 
+- 0,5 place par logement pour les logements locatifs sociaux, 
+- 0,5 place pour 3 places d’hébergement pour les établissements assurant l’hébergement 
+des personnes âgées et les résidences universitaires ; 
+- 1 place par logement pour toutes les autres constructions destinées à l’habitation.
+
+
+>>> False
+
+Article 12 : Stationnement des véhicules
+ 
+4) Dans les périmètres de desserte par le tramway :
+ 
+– Pour les constructions autres que celles destinées à l’habitation situées tout ou partie dans les 
+périmètres de desserte par le tramway définis dans les documents graphiques du règlement, la 
+règle applicable est au minimum de 1 place de stationnement pour 300 m² de surface de plancher.
+
+
+>>> False
+
+Article 12 : Stationnement des véhicules
+ 
+4) Dans les périmètres de desserte par le tramway :
+ 
+– Les règles ci-avant pourront être minorées si la demande de permis de construire montre que le 
+nombre de places de stationnement répond aux besoins engendrés par la nature et la fonction 
+des constructions, travaux et ouvrages réalisés.
+
+
+>>> False
+
+Article 12 : Stationnement des véhicules
+ 
+5) Rappel :
+ 
+En application des dispositions du code de l'urbanisme :
+ 
+− Nonobstant les règles définies ci-dessus, il ne peut être exigé la réalisation de plus d’une aire 
+de stationnement par logement lors de la construction de logements locatifs sociaux, et d’une 
+aire de stationnement pour 3 places d’hébergement pour les établissements assurant 
+l’hébergement des personnes âgées et des résidences universitaires (L.151-35 et R.151-46).
+
+
+>>> False
+
+Article 12 : Stationnement des véhicules
+ 
+5) Rappel :
+ 
+En application des dispositions du code de l'urbanisme :
+ 
+− Pour des raisons d'ordre technique, architectural ou urbanistique empêchant la réalisation 
+matérielle des places réglementaires sur le terrain d'assiette ou dans son environnement 
+immédiat, le pétitionnaire pourra s'affranchir de ses obligations par deux moyens (L.151-33) :  
+• l’obtention d’une concession à long terme dans un parc public de stationnement existant ou 
+en cours de réalisation et situé à proximité de l’opération ; 
+• l’acquisition ou la concession de places dans un parking privé de stationnement existant ou 
+en cours de réalisation et situé à proximité de l’opération.
+
+
+>>> Soft
+
+Article 13 : Espaces libres et plantations
+ 
+Les espaces libres comprennent : 
+−  les espaces verts ; 
+−  les espaces piétonniers y compris lorsqu'ils sont accessibles aux véhicules de sécurité, s'ils 
+sont traités en matériaux perméables.
+
+
+>>> Soft
+
+Article 13 : Espaces libres et plantations
+ 
+Sont exclus tous les espaces accessibles aux autres véhicules.
+
+
+>>> Non-verifiable
+
+Article 13 : Espaces libres et plantations
+ 
+1) Dans tous les secteurs :
+ 
+– être interdits pour un motif d'ordre culturel, historique ou écologique correspondant à l’un 
+des objets suivants : 
+- la préservation d’un paysage ; 
+- le maintien des équilibres écologiques ; 
+- la qualité végétale ou arboricole ;
+
+
+>>> Non-verifiable
+
+Article 13 : Espaces libres et plantations
+ 
+1) Dans tous les secteurs :
+ 
+– être autorisés sous réserve de satisfaire à tout ou partie des conditions suivantes : 
+- assurer la sécurité des biens et des personnes, 
+- réduire les risques sanitaires (allergie par exemple), 
+- garantir la qualité phytosanitaire de l’ensemble végétal, 
+- permettre la réalisation d’un projet d’ensemble reconstituant le boisement avec qualité.
+
+
+>>> Non-verifiable
+
+Article 13 : Espaces libres et plantations
+ 
+1) Dans tous les secteurs :
+ 
+Dans tous les cas, la destruction partielle des plantations existantes protégées par l’article L.123-
+1-5 III 2° du code de l’urbanisme, est admise dès lors qu’elle est compensée par des plantations 
+restituant ou améliorant l’ambiance végétale initiale.
+
+
+>>> False
+
+Article 13 : Espaces libres et plantations
+ 
+2) Dans les secteurs 4AU1-1, 4AU1-5, 4AU1-6 et 4AU1-7 :
+ 
+En règle générale, les arbres de hautes tiges existants et les masses végétales significatives, 
+doivent être maintenus. En cas d’incompatibilité avec le projet, ils pourront être 
+exceptionnellement transplantés sur l’unité foncière, si cela est techniquement possible. Dans le 
+cas contraire, ils seront remplacés par des plantations de valeur équivalentes sur l’unité foncière.
+
+
+>>> False
+
+Article 13 : Espaces libres et plantations
+ 
+2) Dans les secteurs 4AU1-1, 4AU1-5, 4AU1-6 et 4AU1-7 :
+ 
+Les aires de stationnement en surface seront obligatoirement plantées à raison d’un arbre de 
+haute tige pour 2 places de stationnement minimum, ces plantations pourront être réalisées en 
+bosquet (regroupement).
+
+
+>>> False
+
+Article 13 : Espaces libres et plantations
+ 
+2) Dans les secteurs 4AU1-1, 4AU1-5, 4AU1-6 et 4AU1-7 :
+ 
+Les espaces libres devront être plantés et représenter 30 % de la surface de l’unité foncière.
+
+
+>>> False
+
+Article 13 : Espaces libres et plantations
+ 
+2) Dans les secteurs 4AU1-1, 4AU1-5, 4AU1-6 et 4AU1-7 :
+ 
+En outre dans le secteur 4AU1-5 la bande de terrain inconstructible comprise entre les limites 
+des voies publiques (routes de Ganges, Vincent Auriol, bretelle d'accès à la rue des Apothicaires) 
+et le retrait imposé pour l'implantation des constructions, sera obligatoirement arborée 
+principalement de résineux plantés en bosquets. Dans cette bande, les aires de stationnement 
+sont interdites.
+
+
+>>> False
+
+Article 13 : Espaces libres et plantations
+ 
+3) Dans le secteur 4AU1-2 :
+ 
+En règle générale, les arbres de hautes tiges existants et les masses végétales significatives, 
+doivent être maintenus. En cas d’incompatibilité avec le projet, ils pourront être 
+exceptionnellement transplantés sur l’unité foncière, si cela est techniquement possible. Dans le 
+cas contraire, ils seront remplacés par des plantations de valeur équivalentes sur l’unité foncière.
+
+
+>>> False
+
+Article 13 : Espaces libres et plantations
+ 
+3) Dans le secteur 4AU1-2 :
+ 
+Les aires de stationnement en surface seront obligatoirement plantées à raison d’un arbre de 
+haute tige pour 4 places de stationnement minimum. Ces plantations pourront être réalisées en 
+bosquet (regroupement).
+
+
+>>> False
+
+Article 13 : Espaces libres et plantations
+ 
+4) Dans le secteur 4AU1-3 :
+ 
+En règle générale, les arbres de hautes tiges existants et les masses végétales significatives, 
+doivent être maintenus. En cas d’incompatibilité avec le projet, ils pourront être 
+exceptionnellement transplantés sur l’unité foncière, si cela est techniquement possible. Dans le 
+cas contraire, ils seront remplacés par des plantations de valeur équivalentes sur l’unité foncière.
+
+
+>>> False
+
+Article 13 : Espaces libres et plantations
+ 
+4) Dans le secteur 4AU1-3 :
+ 
+Les aires de stationnement en surface seront obligatoirement plantées à raison d’un arbre de 
+haute tige pour 2 places de stationnement minimum, ces plantations pourront être réalisées en 
+bosquet (regroupement).
+
+
+>>> False
+
+Article 13 : Espaces libres et plantations
+ 
+4) Dans le secteur 4AU1-3 :
+ 
+Les espaces libres devront être plantés et représenter 10 % de la surface de l’unité foncière.
+
+
+>>> False
+
+Article 13 : Espaces libres et plantations
+ 
+5) Dans le secteur de prescriptions architecturales particulières "avenue Pierre 
+Mendès France" :
+ 
+– Dans la bande de 50 mètres à partir de l'axe de l'avenue Pierre Mendès France, de recul des 
+constructions défini dans les documents graphiques du règlement, les espaces libres devront être 
+arborés principalement de résineux plantés en bosquets. Dans cette bande, les aires de 
+stationnement sont interdites.
+
+
+>>> Non-verifiable
+
+Article 13 : Espaces libres et plantations
+ 
+6) Dans le secteur de prescriptions architecturales particulières "autoroute A9" :
+ 
+– Dans la bande de 50 mètres à partir de l'axe de l'autoroute A9, de recul des constructions défini 
+dans les documents graphiques du règlement, les espaces libres devront être arborés 
+principalement de résineux plantés en bosquets. Dans cette bande, les aires de stationnement 
+sont autorisées sous réserve d'être plantées selon les mêmes principes.
+
+
+>>> False
+
+Article 13 : Espaces libres et plantations
+ 
+7) Dans le secteur de prescriptions architecturales particulières "route de Ganges 
+(RD 986)" :
+ 
+– Dans la bande de terrain inconstructible définie au plan ci-joint du règlement (secteur de la 
+Blanquette) les espaces libres seront obligatoirement arborés principalement de résineux plantés 
+en bosquets. Dans cette bande les aires de stationnement sont interdites.
+
+
+>>> False
+
+Article 14 : Coefficient d’occupation du sol (COS)
+ 
+Dans tous les secteurs :
+ 
+Non réglementé
+
+

@@ -1,0 +1,1035 @@
+>>> False
+
+CARACTERE DE LA ZONE :
+ 
+DESCRIPTION :
+ 
+Cette zone non équipée, marquée par une occupation agricole encore prégnante, est caractérisée par 
+la présence de constructions éparses qui émaillent le paysage, ainsi que celle imposante des 
+ensembles bâtis du Château de la Mogère et du lycée Pierre Mendès France. S’étendant d’Ouest en 
+Est entre le lycée Mendès France et le couloir d’écoulement du ruisseau du Nègue Cats, elle est 
+délimitée au Nord par l’autoroute A9 et le Château de la Mogère, et au Sud par la limite communale 
+avec Lattes.
+
+
+>>> False
+
+CARACTERE DE LA ZONE :
+ 
+DESCRIPTION :
+ 
+Cette zone recouvre pour partie l’emprise de la ZAC OZ 1.
+
+
+>>> False
+
+CARACTERE DE LA ZONE :
+ 
+LOCALISATION :
+ 
+Secteur Méjanelle-Pont Trinquat.
+
+
+>>> False
+
+CARACTERE DE LA ZONE :
+ 
+PRINCIPAUX OBJECTIFS :
+ 
+Réalisation d’un nouveau quartier, composé principalement de logements, de grands équipements 
+métropolitains, de bureaux, de commerces, de services, organisés autour de la future gare TGV, d’un 
+pôle d’affaires, et en bordure du futur parc du Nègue Cats.
+
+
+>>> False
+
+CARACTERE DE LA ZONE :
+ 
+PRINCIPALES TRADUCTIONS REGLEMENTAIRES :
+ 
+Règles spécifiques selon les exigences d’un plan d’aménagement d’ensemble traduit dans les 
+documents graphiques du règlement.
+
+
+>>> Soft
+
+CARACTERE DE LA ZONE :
+ 
+PRINCIPALES TRADUCTIONS REGLEMENTAIRES :
+ 
+Deux secteurs composent cette zone :
+ 
+- un secteur 14AU-1 correspondant essentiellement à la trame bâtie du nouveau quartier avec un principe 
+d’une mixité des fonctions urbaines admettant les constructions destinées notamment à l’habitation, aux 
+équipements publics, aux bureaux, aux commerces et aux services.
+
+
+>>> Soft
+
+CARACTERE DE LA ZONE :
+ 
+PRINCIPALES TRADUCTIONS REGLEMENTAIRES :
+ 
+Deux secteurs composent cette zone :
+ 
+- un secteur 14AU-2, intégrant les grandes infrastructures de transports dans le prolongement du futur 
+PEM, avec des aménagements urbains et paysagers d’envergure accompagnant ces équipements au 
+sein du nouveau quartier : ouvrages hydrauliques, parcs de stationnement, écrans acoustiques, 
+espaces verts…, avec en outre des équipements de loisirs, de sports, d’animation, de détente, de 
+restauration, de service public et d’intérêt collectifs.
+
+
+>>> False
+
+CARACTERE DE LA ZONE :
+ 
+PRINCIPALES TRADUCTIONS REGLEMENTAIRES :
+ 
+Des prescriptions architecturales particulières, délimitées dans les documents graphiques du règlement, 
+répondant aux dispositions définies dans l’article L. 111-1-4 du code de l’urbanisme s’ajoutent ou se 
+substituent aux règles des secteurs en bordure Sud du linéaire de l’autoroute A9 et par anticipation de 
+la future autoroute A9 déplacée.
+
+
+>>> False
+
+CARACTERE DE LA ZONE :
+ 
+PRINCIPALES TRADUCTIONS REGLEMENTAIRES :
+ 
+Pour rappel : La zone est couverte par des orientations d’aménagement au sens de l’article L. 123-1 du 
+code de l’urbanisme. Celles-ci définissent les conditions d’un aménagement cohérent et de qualité du 
+secteur. Les occupations et utilisations du sol doivent être compatibles avec ces orientations 
+d’aménagement dans les conditions définies par l’article L. 123-5 du code de l’urbanisme.
+
+
+>>> False
+
+CARACTERE DE LA ZONE :
+ 
+ATTENTION :
+ 
+Le secteur 14U-2 est partiellement concerné par le Plan de prévention des risques d’inondation de la 
+basse vallée du Lez et de la Mosson (P.P.R.I.). Aussi, il convient, le cas échéant, de se reporter aux 
+dispositions du règlement du P.P.R.I. qui constitue une servitude d’utilité publique annexé au présent 
+P.L.U.
+
+
+>>> Verifiable
+
+Article 1 : Occupations et utilisations du sol interdites
+ 
+1) Dans l’ensemble de la zone :
+ 
+Les constructions destinées à l’industrie.
+
+
+>>> False
+
+Article 1 : Occupations et utilisations du sol interdites
+ 
+1) Dans l’ensemble de la zone :
+ 
+Les antennes d’émission ou de réception de signaux radioélectriques dont l’une des dimensions 
+est supérieure à 5 mètres, support inclus, autres que ceux visés à l’article 2, paragraphe 1).
+
+
+>>> Verifiable
+
+Article 1 : Occupations et utilisations du sol interdites
+ 
+1) Dans l’ensemble de la zone :
+ 
+Les constructions destinées à l’exploitation agricole ou forestière.
+
+
+>>> False
+
+Article 1 : Occupations et utilisations du sol interdites
+ 
+1) Dans l’ensemble de la zone :
+ 
+Les pylônes et poteaux, supports d’enseignes et d’antennes d’émission ou de réception de 
+signaux radioélectriques autres que ceux visés à l’article 2, paragraphe 1).
+
+
+>>> Verifiable
+
+Article 1 : Occupations et utilisations du sol interdites
+ 
+1) Dans l’ensemble de la zone :
+ 
+Les terrains de camping ou de caravanage permanents visés à l’article L. 443-1 et L. 444-1 du 
+code de l’urbanisme.
+
+
+>>> Verifiable
+
+Article 1 : Occupations et utilisations du sol interdites
+ 
+1) Dans l’ensemble de la zone :
+ 
+Les habitations légères de loisirs.
+
+
+>>> Verifiable
+
+Article 1 : Occupations et utilisations du sol interdites
+ 
+2) Dans le secteur 14AU-2 :
+ 
+– Les constructions destinées à de l’habitation.
+
+
+>>> Non-verifiable
+
+Article 1 : Occupations et utilisations du sol interdites
+ 
+2) Dans le secteur 14AU-2 :
+ 
+– Les constructions destinées à de l’hébergement hôtelier.
+
+
+>>> Verifiable
+
+Article 1 : Occupations et utilisations du sol interdites
+ 
+2) Dans le secteur 14AU-2 :
+ 
+– Les constructions destinées aux bureaux et à la fonction d’entrepôt.
+
+
+>>> Verifiable
+
+Article 1 : Occupations et utilisations du sol interdites
+ 
+2) Dans le secteur 14AU-2 :
+ 
+– Les constructions destinées au commerce, à l’artisanat, autres que celles visées à l’article 2, 
+paragraphe 2).
+
+
+>>> False
+
+Article 1 : Occupations et utilisations du sol interdites
+ 
+3) Dans les périmètres en bordure des cours d’eau délimités aux documents graphiques du 
+règlement :
+ 
+Les occupations et utilisations autres que celles visées à l’article 2, paragraphe 3).
+
+
+>>> False
+
+Article 1 : Occupations et utilisations du sol interdites
+ 
+4) Dans les périmètres des secteurs particuliers de risque inondation délimités dans les 
+documents graphiques du règlement
+ 
+Les occupations et utilisations autres que celles visées à l’article 2, paragraphe 4).
+
+
+>>> Non-verifiable
+
+Article 2 : Occupations et utilisations du sol soumises à des 
+conditions particulières
+ 
+1) Dans l’ensemble de la zone :
+ 
+Toutes les occupations et utilisations du sol visées par l’article L152-1 du code de l’urbanisme 
+(hormis celles visées à l’article 1 ci-dessus) ne sont admises :
+ 
+• qu’à condition de s’intégrer de manière cohérente dans la zone et de contribuer à un 
+aménagement de qualité de celle-ci, en conformité avec les dispositions du présent règlement 
+et de ses documents graphiques et, le cas échéant, en compatibilité avec les orientations 
+d’aménagement applicables à la zone,
+
+
+>>> Non-verifiable
+
+Article 2 : Occupations et utilisations du sol soumises à des 
+conditions particulières
+ 
+1) Dans l’ensemble de la zone :
+ 
+Toutes les occupations et utilisations du sol visées par l’article L152-1 du code de l’urbanisme 
+(hormis celles visées à l’article 1 ci-dessus) ne sont admises :
+ 
+• et ce, soit au fur et à mesure de la réalisation des équipements internes à la zone, soit 
+lors de la réalisation d’une opération d’aménagement d’ensemble et au fur et à mesure de la 
+réalisation des équipements internes à cette opération d’aménagement d’ensemble.
+
+
+>>> Non-verifiable
+
+Article 2 : Occupations et utilisations du sol soumises à des 
+conditions particulières
+ 
+1) Dans l’ensemble de la zone :
+ 
+Les antennes d’émission ou de réception de signaux radioélectriques dont l’une des dimensions 
+est supérieure à 5 mètres, les pylônes et poteaux, supports d’enseignes et d’antennes 
+d’émission ou de réception de signaux radioélectriques ne sont admis que sous réserve d’être 
+nécessaires aux services publics ou d'intérêt collectif.
+
+
+>>> Verifiable
+
+Article 2 : Occupations et utilisations du sol soumises à des 
+conditions particulières
+ 
+2) Dans le secteur 14AU-2 :
+ 
+– Sous réserve des dispositions issues du Plan de Prévention des Risques d’Inondations de la 
+Basse vallée du Lez et de la Mosson, annexé au présent PLU, sont admis les aménagements, 
+installations et constructions liés à des fonctions hydrauliques, de stationnement, de protection 
+acoustique, d’espaces verts et paysagers, d’animation, de détente et de loisirs, de sports, de 
+restauration, de service public ou d’intérêt collectif.
+
+
+>>> False
+
+Article 2 : Occupations et utilisations du sol soumises à des 
+conditions particulières
+ 
+3) Dans les périmètres en bordure des cours d’eau délimités dans les annexes sanitaires 
+du PLU :
+ 
+Seules les clôtures en grillage pourront être autorisées à condition qu’elles soient conçues de 
+manière à ne pas faire obstacle au libre écoulement des eaux. Elles doivent notamment être 
+suffisamment légères pour pouvoir plier en cas de crues exceptionnelles sous la pression de 
+l’eau et des divers matériaux charriés par le flux et devront être amovibles pour pouvoir 
+permettre le passage nécessaire à l’entretien des cours d’eau.
+
+
+>>> False
+
+Article 2 : Occupations et utilisations du sol soumises à des 
+conditions particulières
+ 
+4) Dans les périmètres des secteurs particuliers de risque inondation délimités dans les 
+documents graphiques du règlement
+ 
+Les occupations et utilisations du sol ne sont admises que si elles sont conformes aux 
+dispositions issues du Plan de prévention des risques d’Inondation de la Basse Vallée du Lez 
+et de la Mosson, annexé au présent PLU
+
+
+>>> Non-verifiable
+
+Article 2 : Occupations et utilisations du sol soumises à des 
+conditions particulières
+ 
+5) Conditions particulières relatives à la création de logements locatifs sociaux dans les 
+périmètres délimités aux documents graphiques du règlement et autres logements relevant 
+de la solidarité
+ 
+A l'échelle de la Zone d'Aménagement Concerté (ZAC) :
+ 
+- 30 % des surfaces de plancher à usage d'habitation prévues dans l’opération doivent être 
+affectées à des logements locatifs sociaux familiaux et d'insertion dont le financement sera 
+assuré à hauteur d'au moins 25 % en PLUS / PLAI et au plus 5 % en PLS familial (ou nouvelle 
+dénomination équivalente),
+
+
+>>> Non-verifiable
+
+Article 2 : Occupations et utilisations du sol soumises à des 
+conditions particulières
+ 
+5) Conditions particulières relatives à la création de logements locatifs sociaux dans les 
+périmètres délimités aux documents graphiques du règlement et autres logements relevant 
+de la solidarité
+ 
+A l'échelle de la Zone d'Aménagement Concerté (ZAC) :
+ 
+- Au moins 10 % des surfaces de plancher à usage d'habitation prévues dans l’opération doivent 
+être affectées à des logements locatifs sociaux spécifiques (logements sociaux étudiants, 
+résidences service, EHPAD).
+
+
+>>> Non-verifiable
+
+Article 2 : Occupations et utilisations du sol soumises à des 
+conditions particulières
+ 
+5) Conditions particulières relatives à la création de logements locatifs sociaux dans les 
+périmètres délimités aux documents graphiques du règlement et autres logements relevant 
+de la solidarité
+ 
+A l'échelle de la Zone d'Aménagement Concerté (ZAC) :
+ 
+- 20 % des surfaces de plancher à usage d'habitation prévues dans l’opération doivent être 
+affectées à des logements en accession abordable dont 12 % en accession sociale et 8 % en 
+accession intermédiaire, comme défini dans le rapport de présentation.
+
+
+>>> Non-verifiable
+
+Article 3 : Accès et voirie
+ 
+Dans l’ensemble de la zone :
+ 
+Pour être constructible, un terrain doit avoir accès à une voie publique ou privée soit 
+directement, soit par l’intermédiaire d’une servitude de passage instituée sur fonds voisin par 
+acte authentique ou par voie judiciaire.
+
+
+>>> False
+
+Article 3 : Accès et voirie
+ 
+Dans l’ensemble de la zone :
+ 
+Les accès doivent être adaptés à l’opération et aménagés de façon à apporter la moindre gêne 
+à la circulation publique.
+
+
+>>> False
+
+Article 3 : Accès et voirie
+ 
+Dans l’ensemble de la zone :
+ 
+Aucune opération ne peut prendre accès sur certaines voies importantes repérées sur les 
+documents graphiques du règlement.
+
+
+>>> False
+
+Article 3 : Accès et voirie
+ 
+Dans l’ensemble de la zone :
+ 
+Les caractéristiques des accès doivent permettre de satisfaire aux règles minimales de 
+desserte : défense contre l’incendie, protection civile, brancardage, ordures ménagères.
+
+
+>>> Non-verifiable
+
+Article 3 : Accès et voirie
+ 
+Dans l’ensemble de la zone :
+ 
+Les rampes d’accès aux parcs de stationnement en sous-sol seront intégrées aux constructions. 
+Elles devront présenter une pente n’excédant pas 5% au débouché de la voie jusqu’à une 
+distance en retrait de 5 m par rapport à la limite de celle-ci.
+
+
+>>> False
+
+Article 4 : Desserte par les réseaux
+ 
+Dans l’ensemble de la zone :
+ 
+a) Eau potable :
+ 
+Toute construction nouvelle doit être raccordée au réseau public de distribution existant ou 
+prévu.
+
+
+>>> False
+
+Article 4 : Desserte par les réseaux
+ 
+Dans l’ensemble de la zone :
+ 
+a) Eau potable :
+ 
+Les raccordements ou réseaux devront se conformer aux prescriptions définies par le 
+règlement du service d’eau potable applicable à la ville de Montpellier et par le code de la 
+santé publique, notamment son article R. 1321-54.
+
+
+>>> False
+
+Article 4 : Desserte par les réseaux
+ 
+Dans l’ensemble de la zone :
+ 
+b) Eaux usées / Eaux pluviales :
+ 
+Toute construction ou installation nouvelle devra être raccordée au réseau public 
+d’assainissement existant par des canalisations souterraines, en respectant ses 
+caractéristiques (séparatif et unitaire).
+
+
+>>> False
+
+Article 4 : Desserte par les réseaux
+ 
+Dans l’ensemble de la zone :
+ 
+b) Eaux usées / Eaux pluviales :
+ 
+Les eaux résiduaires urbaines (vannes, ménagères et industrielles) doivent être traitées et 
+éliminées dans des conditions satisfaisantes d’hygiène et de salubrité conformément aux 
+dispositions de la règlementation en vigueur.
+
+
+>>> False
+
+Article 4 : Desserte par les réseaux
+ 
+Dans l’ensemble de la zone :
+ 
+b) Eaux usées / Eaux pluviales :
+ 
+Le traitement et l’élimination des effluents autres que domestiques doivent être adaptés à 
+l’importance et à la nature de l’activité afin d’assurer une protection suffisante du milieu 
+naturel.
+
+
+>>> False
+
+Article 4 : Desserte par les réseaux
+ 
+Dans l’ensemble de la zone :
+ 
+b) Eaux usées / Eaux pluviales :
+ 
+Toute construction, ou installation nouvelle rejetant des eaux usées domestiques doit être 
+raccordée obligatoirement par des canalisations souterraines étanches au réseau public 
+existant. Les raccordements aux réseaux devront être conformes aux prescriptions du 
+règlement d’assainissement applicable à la Ville de Montpellier et du règlement sanitaire 
+départemental de l’Hérault, notamment ses articles 42, 43 et 44.
+
+
+>>> False
+
+Article 4 : Desserte par les réseaux
+ 
+Dans l’ensemble de la zone :
+ 
+b) Eaux usées / Eaux pluviales :
+ 
+Dans le cas de réhabilitation ou d’extension de bâtiments sur des parcelles non desservies, 
+l’installation d’Assainissement Non Collectif existante devra être conforme à la législation 
+en vigueur et suffisamment dimensionnée pour permettre la réalisation du projet. Lorsque 
+celle-ci n’est pas conforme, le pétitionnaire devra proposer une filière d’assainissement 
+non collectif à mettre en œuvre pour son projet en fonction des contraintes du sol et du site 
+(Cf. art. 5 caractéristiques des terrains). En tout état de cause, cette filière devra être 
+conforme aux règlementations nationales et locales en vigueur.
+
+
+>>> False
+
+Article 4 : Desserte par les réseaux
+ 
+Dans l’ensemble de la zone :
+ 
+b) Eaux usées / Eaux pluviales :
+ 
+Tout projet devra être conforme aux directives pour l’établissement des dossiers 
+d’assainissement (note D.E.D.A. définie à l’annexe sanitaire) auxquelles il conviendra de 
+se reporter, notamment pour les opérations effectuées sur des parcelles non desservies 
+par un réseau d’assainissement collectif.
+
+
+>>> False
+
+Article 4 : Desserte par les réseaux
+ 
+Dans l’ensemble de la zone :
+ 
+b) Eaux usées / Eaux pluviales :
+ 
+Les dispositions internes des constructions doivent permettre leur raccordement ultérieur 
+au réseau public d’assainissement collectif qui sera obligatoire, dans les délais légaux.
+
+
+>>> False
+
+Article 4 : Desserte par les réseaux
+ 
+Dans l’ensemble de la zone :
+ 
+c) Electricité :
+ 
+Les branchements « électricité » devront être établis en souterrain.
+
+
+>>> False
+
+Article 4 : Desserte par les réseaux
+ 
+Dans l’ensemble de la zone :
+ 
+d) Déchets ménagers :
+ 
+Les locaux et aires de présentation nécessaires au stockage des conteneurs et à la collecte 
+sélective des déchets ménagers devront être définis dans l’opération.
+
+
+>>> False
+
+Article 5 : Caractéristiques des terrains
+ 
+Non réglementé.
+
+
+>>> False
+
+Article 6 : Implantation des constructions par rapport aux voies et 
+emprises publiques
+ 
+Définition de l’alignement :
+ 
+Il est constitué par la limite entre le domaine privé et le domaine public existant ou prévu.
+
+
+>>> False
+
+Article 6 : Implantation des constructions par rapport aux voies et 
+emprises publiques
+ 
+1) Dans l’ensemble de la zone :
+ 
+a) Principe général :
+ 
+a.1) Les règles d’implantation définies par le présent article ne s’appliquent qu’au-dessus 
+du niveau du sol fini après travaux d’aménagement.
+
+
+>>> False
+
+Article 6 : Implantation des constructions par rapport aux voies et 
+emprises publiques
+ 
+1) Dans l’ensemble de la zone :
+ 
+a) Principe général :
+ 
+a.2) Sauf disposition contraire ou particulière, les règles d’implantation définies par le 
+présent article ne s’appliquent qu’aux façades des constructions prises dans le plan vertical 
+de leur nu.
+
+
+>>> False
+
+Article 6 : Implantation des constructions par rapport aux voies et 
+emprises publiques
+ 
+1) Dans l’ensemble de la zone :
+ 
+b) Règles spécifiques liées aux saillies autorisées sur le domaine public : 
+Sauf disposition contraire particulière, les saillies sur l’espace public existant ou prévu seront 
+admises, et ce dans les conditions suivantes :
+ 
+b-1) Dans tous les cas hormis les saillies définies au paragraphe b-4) :  
+Les surplombs sur l’espace public devront respecter au minimum une hauteur de 4 m au-
+dessus du niveau d’un trottoir ou d’un passage piétons et 4,50 m au-dessus du niveau de 
+la chaussée dans les voies dépourvues de trottoir.
+
+
+>>> False
+
+Article 6 : Implantation des constructions par rapport aux voies et 
+emprises publiques
+ 
+1) Dans l’ensemble de la zone :
+ 
+b) Règles spécifiques liées aux saillies autorisées sur le domaine public : 
+Sauf disposition contraire particulière, les saillies sur l’espace public existant ou prévu seront 
+admises, et ce dans les conditions suivantes :
+ 
+b-2) Saillies de balcons et bow-windows : 
+Aux règles de hauteur des surplombs définies précédemment, s’ajoutent les dispositions :  
+Les saillies de balcons et de bow-windows ne pourront dépasser les dimensions suivantes 
+comptées horizontalement depuis le nu de la façade : 
+- 0,20 mètres sur les voies d’une largeur inférieure ou égale à 7 mètres  
+- 0,50 mètres sur les voies d’une largeur comprise entre à 7,01 et 12 mètres  
+- 0,80 mètres sur les voies d’une largeur comprise entre à 12,01 et 15 mètres  
+- 1,00 mètres sur les voies d’une largeur comprise entre à 15,01 et 30 mètres  
+- 1,20 mètres sur les voies d’une largeur supérieure à 30 mètres (places)
+
+
+>>> False
+
+Article 6 : Implantation des constructions par rapport aux voies et 
+emprises publiques
+ 
+1) Dans l’ensemble de la zone :
+ 
+b) Règles spécifiques liées aux saillies autorisées sur le domaine public : 
+Sauf disposition contraire particulière, les saillies sur l’espace public existant ou prévu seront 
+admises, et ce dans les conditions suivantes :
+ 
+b-3) Saillies de toiture : 
+Aux règles de hauteur des surplombs définies précédemment, s’ajoutent les dispositions 
+suivantes : 
+Les saillies de toitures (génoises, corniche, etc…) ne pourront dépasser les dimensions 
+suivantes : 
+- 0,30 mètres sur les voies d’une largeur inférieure ou égale à 6 mètres  
+- 0,40 mètres sur les voies d’une largeur comprise entre à 6,01 et 8 mètres  
+- 0,50 mètres sur les voies d’une largeur comprise entre à 8,01 et 12 mètres  
+- 0,60 mètres sur les voies d’une largeur comprise entre à 12,01 et 15 mètres  
+- 0,80 mètres sur les voies d’une largeur supérieure à 15 mètres
+
+
+>>> False
+
+Article 6 : Implantation des constructions par rapport aux voies et 
+emprises publiques
+ 
+1) Dans l’ensemble de la zone :
+ 
+b) Règles spécifiques liées aux saillies autorisées sur le domaine public : 
+Sauf disposition contraire particulière, les saillies sur l’espace public existant ou prévu seront 
+admises, et ce dans les conditions suivantes :
+ 
+b-4) Autres saillies en façades :  
+Nonobstant la règle de hauteur définie au paragraphe b-1), les autres saillies (parements 
+architecturaux, descentes d’eaux pluviales, ouvrages en soubassement, etc…) sont 
+admises dans le respect de la sécurité civile et routière.
+
+
+>>> False
+
+Article 6 : Implantation des constructions par rapport aux voies et 
+emprises publiques
+ 
+1) Dans l’ensemble de la zone :
+ 
+c) Règles particulières :  
+Selon le principe défini au paragraphe a) précédent :
+ 
+– En dehors des cas d’implantation obligatoire indiqués aux documents graphiques du règlement, 
+les façades des constructions pourront être implantées soit en alignement, soit avec un retrait 
+maximum de 5 mètres par rapport à celui-ci.
+
+
+>>> False
+
+Article 6 : Implantation des constructions par rapport aux voies et 
+emprises publiques
+ 
+1) Dans l’ensemble de la zone :
+ 
+c) Règles particulières :  
+Selon le principe défini au paragraphe a) précédent :
+ 
+– Cette règle ne s’applique pas pour les parties arrière des constructions situées au-delà d’une 
+bande d’une largueur de 10 mètres à compter de la limite des voies et emprises publiques. 
+Par ailleurs, les constructions devront respecter les implantations obligatoires indiquées aux 
+documents graphiques du règlement. Toutefois, dans ce cas, et notamment pour des raisons 
+architecturales :  
+- les constructions ne seront pas tenues d’une implantation continue tout le long du linéaire 
+considéré, 
+- de plus, des retraits partiels seront admis pour : 
+• la création de loggias, 
+• l’aménagement des accès des constructions,  
+• la réalisation, à rez-de-chaussée, sur une hauteur de deux niveaux maximum, de passages 
+couverts perpendiculaires ou parallèles aux façades devant avoir une largeur minimum de 
+2,50 mètres.
+
+
+>>> Non-verifiable
+
+Article 6 : Implantation des constructions par rapport aux voies et 
+emprises publiques
+ 
+2) Dans le périmètre de prescriptions architecturales particulières liées aux infrastructures 
+existantes (a9 actuelle) et futures (a9 déplacée) :
+ 
+– Au Sud de l’autoroute A9 actuelle :  
+Dans la bande de 100 m par rapport à l’axe de l’autoroute A9, la somme des projections 
+orthogonales des façades bâties sur l’axe de la voie est limitée à 50% du linéaire total de cet 
+axe dans le secteur de prescriptions architecturales « autoroute A9 », reporté dans les 
+documents graphiques du règlement.
+
+
+>>> Non-verifiable
+
+Article 6 : Implantation des constructions par rapport aux voies et 
+emprises publiques
+ 
+2) Dans le périmètre de prescriptions architecturales particulières liées aux infrastructures 
+existantes (a9 actuelle) et futures (a9 déplacée) :
+ 
+– Au nord de l’autoroute A9 déplacée:  
+Dans la bande de 100 m par rapport à l’axe de l’autoroute A9 déplacée, la somme du linéaire 
+non bâti sur l’axe de la voie est au moins de 20% du linéaire total de cet axe dans le secteur 
+des prescriptions architecturales « autoroute A9 » dans les documents graphiques du 
+règlement.
+
+
+>>> False
+
+Article 7 : Implantation des constructions par rapport aux limites 
+séparatives
+ 
+Dans l’ensemble de la zone :
+ 
+Les constructions seront implantées soit en limite séparative, soit en retrait de 1 mètre minimum 
+par rapport à celle-ci.
+
+
+>>> False
+
+Article 7 : Implantation des constructions par rapport aux limites 
+séparatives
+ 
+Dans l’ensemble de la zone :
+ 
+Toutefois, les implantations restant à un niveau proche ou équivalent de celui du sol fini après 
+travaux d’aménagement telles que notamment les terrasses, les parkings et les piscines, 
+peuvent être implantées en deçà de cette limite, jusqu’en limite séparative.
+
+
+>>> False
+
+Article 7 : Implantation des constructions par rapport aux limites 
+séparatives
+ 
+Dans l’ensemble de la zone :
+ 
+Les constructions édifiées sur le domaine public pourront être implantées soit en limite 
+séparative dudit domaine, soit en retrait minimum de 1 mètre par rapport à celle-ci.
+
+
+>>> False
+
+Article 8 : Implantation des constructions les unes par rapport aux 
+autres sur une même propriété
+ 
+Dans l’ensemble de la zone :
+ 
+Non réglementé.
+
+
+>>> False
+
+Article 9 : Emprise au sol
+ 
+Dans l’ensemble de la zone :
+ 
+Non réglementé.
+
+
+>>> False
+
+Article 10 : Hauteur maximale des constructions
+ 
+Définition de la hauteur maximale des constructions :
+ 
+La hauteur maximale HM d’une construction est définie comme le maximum de la distance 
+verticale de n’importe quel point de cette construction, superstructures comprises au point 
+correspondant du sol fini après travaux d’aménagement quand celle-ci est exprimée en 
+mètres ou au point correspondant au niveau zéro dans le système de nivellement général 
+de la France quand celle-ci est exprimée en mètre NGF.
+
+
+>>> False
+
+Article 10 : Hauteur maximale des constructions
+ 
+Définition de la hauteur maximale des constructions :
+ 
+Ce secteur est concerné par le plan de des servitudes aéronautiques instituées pour la 
+protection de la circulation aérienne (T5).
+
+
+>>> False
+
+Article 10 : Hauteur maximale des constructions
+ 
+Dans l’ensemble de la zone :
+ 
+La hauteur maximale des constructions est : 54 mètres NGF, à l'exception des secteurs 
+concernés par la servitude de dégagement de l'aéroport où celle-ci est fixée à 49 mètre NGF.
+
+
+>>> False
+
+Article 11 : Aspects extérieur
+ 
+Dans l’ensemble de la zone :
+ 
+Toute expression architecturale est admise si elle répond à une qualité à la fois de conception 
+(rythme, percements, proportions ou alternance pleins-vides) et à une cohérence architecturale 
+de l’ensemble.
+
+
+>>> False
+
+Article 11 : Aspects extérieur
+ 
+Dans l’ensemble de la zone :
+ 
+Dans tous les cas, l’écriture devra être contemporaine.
+
+
+>>> False
+
+Article 11 : Aspects extérieur
+ 
+Dans l’ensemble de la zone :
+ 
+Les édicules techniques installés sur les constructions doivent faire l’objet d’une intégration 
+adaptée aux caractéristiques architecturales du bâtiment. Pour les toitures en pente, les 
+dispositifs techniques de captage de l’énergie solaire devront être intégrés dans le plan de la 
+toiture sans débord.
+
+
+>>> False
+
+Article 11 : Aspects extérieur
+ 
+Dans l’ensemble de la zone :
+ 
+Les procédés de traitement par camouflage sont possibles.
+
+
+>>> False
+
+Article 11 : Aspects extérieur
+ 
+Dans l’ensemble de la zone :
+ 
+Les clôtures sont autorisées à condition de répondre à une qualité architecturale en accord avec 
+l’aménagement d’ensemble. Les clôtures constituées de panneaux rigides, ou de tout matériaux 
+d’imitation ou en plastiques sont interdites.
+
+
+>>> False
+
+Article 12 : Stationnement des véhicules
+ 
+1) Dans l’ensemble de la zone :
+ 
+a) Principe général :
+ 
+- véhicules motorisés :  
+Compte tenu de la politique mise en œuvre s’appuyant notamment sur une desserte 
+performante par les transports collectifs, le développement des modes doux, et promouvant la 
+réalisation de parkings à usage partagé, iI n’est pas imposé dans le règlement de nombre 
+minimal de places de stationnement, y compris pour les constructions à usage résidentiel.  
+Néanmoins des principes sont définis dans les orientations d’aménagement de la zone qui fixent 
+notamment un nombre ou une surface maximale de places de stationnement pour certaines 
+constructions liées aux activités (commerces, bureaux) et aux logements.
+
+
+>>> False
+
+Article 12 : Stationnement des véhicules
+ 
+1) Dans l’ensemble de la zone :
+ 
+a) Principe général :
+ 
+- Véhicules non motorisés :  
+La réalisation d’une surface minimale d’espace dédié exclusivement au stationnement des 
+vélos est requise pour certains types de constructions. 
+Cet espace devra permettre un stationnement sécurisé et faire l’objet d’un accès adapté depuis 
+les emprises publiques et les voies, par un cheminement praticable sans discontinuité.  
+L’espace sera clos et de préférence couvert.
+
+
+>>> False
+
+Article 12 : Stationnement des véhicules
+ 
+1) Dans l’ensemble de la zone :
+ 
+b) Règles particulières :  
+Au principe défini au paragraphe a) précédent, s’ajoutent les dispositions suivantes :
+ 
+Véhicules non motorisés :  
+•  constructions destinées à l’habitation ou aux bureaux : 
+Un ou des locaux directement accessibles et aménagés aux fins exclusives d’un stationnement 
+sécurisé des vélos doivent être prévu.  
+La surface cumulée de ces locaux résulte d’une norme minimale de 0,8 m² pour 50 m² de 
+surface de plancher, chaque local devant avoir une superficie minimale de 6 m².
+
+
+>>> Non-verifiable
+
+Article 12 : Stationnement des véhicules
+ 
+2) Dans les périmètres de desserte par le tramway : 
+Nonobstant les quotas définis au paragraphe 1) précédent et sans préjudice des autres règles 
+dudit paragraphe qui restent applicables :
+ 
+Pour les constructions destinées à l’habitation situées tout ou partie dans les périmètres de 
+desserte par le tramway définis dans les documents graphiques du règlement, la règle applicable 
+est au minimum : 
+- 0,5 place par logement pour les logements locatifs sociaux, 
+- 0,5 place pour 3 places d’hébergement pour les établissements assurant l’hébergement 
+des personnes âgées et les résidences universitaires ; 
+- 1 place par logement pour toutes les autres constructions destinées à l’habitation.
+
+
+>>> Non-verifiable
+
+Article 12 : Stationnement des véhicules
+ 
+2) Dans les périmètres de desserte par le tramway : 
+Nonobstant les quotas définis au paragraphe 1) précédent et sans préjudice des autres règles 
+dudit paragraphe qui restent applicables :
+ 
+Pour les constructions autres que celles destinées à l’habitation situées tout ou partie dans les 
+périmètres de desserte par le tramway définis dans les documents graphiques du règlement, la 
+règle applicable est au minimum de 1 place de stationnement pour 300 m² de surface de plancher.
+
+
+>>> False
+
+Article 12 : Stationnement des véhicules
+ 
+2) Dans les périmètres de desserte par le tramway : 
+Nonobstant les quotas définis au paragraphe 1) précédent et sans préjudice des autres règles 
+dudit paragraphe qui restent applicables :
+ 
+Les règles ci-avant pourront être minorées si la demande de permis de construire montre que le 
+nombre de places de stationnement répond aux besoins engendrés par la nature et la fonction 
+des constructions, travaux et ouvrages réalisés.
+
+
+>>> False
+
+Article 12 : Stationnement des véhicules
+ 
+3) Rappel :
+ 
+En application des dispositions du code de l'urbanisme :
+ 
+− Nonobstant les règles définies ci-dessus, il ne peut être exigé la réalisation de plus d’une aire 
+de stationnement par logement lors de la construction de logements locatifs sociaux, et d’une 
+aire de stationnement pour 3 places d’hébergement pour les établissements assurant 
+l’hébergement des personnes âgées et des résidences universitaires (L.151-35 et R.151-46).
+
+
+>>> False
+
+Article 12 : Stationnement des véhicules
+ 
+3) Rappel :
+ 
+En application des dispositions du code de l'urbanisme :
+ 
+− Pour des raisons d'ordre technique, architectural ou urbanistique empêchant la réalisation 
+matérielle des places réglementaires sur le terrain d'assiette ou dans son environnement 
+immédiat, le pétitionnaire pourra s'affranchir de ses obligations par deux moyens (L.151-33) :  
+• l’obtention d’une concession à long terme dans un parc public de stationnement existant ou 
+en cours de réalisation et situé à proximité de l’opération ; 
+• l’acquisition ou la concession de places dans un parking privé de stationnement existant ou 
+en cours de réalisation et situé à proximité de l’opération.
+
+
+>>> False
+
+Article 13 : Espaces libres et plantations
+ 
+Dans l’ensemble de la zone :
+ 
+Non réglementé.
+
+
+>>> False
+
+Article 14 : Coefficient d’occupation des sols
+ 
+Non réglementé.
+
+

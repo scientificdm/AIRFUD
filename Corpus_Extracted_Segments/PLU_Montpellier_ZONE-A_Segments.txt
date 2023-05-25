@@ -1,0 +1,889 @@
+>>> False
+
+CARACTERE DE LA ZONE :
+ 
+DESCRIPTION :
+ 
+La commune de Montpellier, malgré ses 225 392 habitants et sa position en centre d’agglomération, 
+possède encore quelques terrains à usage agricole.
+
+
+>>> False
+
+CARACTERE DE LA ZONE :
+ 
+LOCALISATION :
+ 
+Mas Nouguier, Rieucoulon, Mas de Tendon (au sud de l'autoroute A9), Montauberou, Valedeau, 
+Grand Grès, La Méjanelle, La Banquière.
+
+
+>>> False
+
+CARACTERE DE LA ZONE :
+ 
+PRINCIPAUX OBJECTIFS :
+ 
+Maintien de l’activité agricole 
+Constructibilité limitée et possibilité de changement d’affectation de certains bâtiments.
+
+
+>>> Soft
+
+CARACTERE DE LA ZONE :
+ 
+PRINCIPALES TRADUCTIONS REGLEMENTAIRES :
+ 
+− Dans son ensemble la zone A se caractérise par :
+ 
+• autorisation de construire des bâtiments liés et nécessaires à l’exploitation ; 
+• autorisation de changements de destination pour les bâtiments repérés sur les documents 
+graphiques du règlement au titre de l’article L.151-11 du code de l’urbanisme.
+
+
+>>> Soft
+
+CARACTERE DE LA ZONE :
+ 
+ATTENTION :
+ 
+La zone est couverte en partie par le Plan de Prévention des Risques d’Inondations de la Basse 
+Vallée du Lez et de la Mosson. Les occupations et utilisations des sols comprises dans son périmètre 
+doivent respecter les prescriptions et interdictions issues de ses dispositions.
+
+
+>>> False
+
+Article 1 : Occupations ou utilisations du sol interdites
+ 
+1) Dans l’ensemble de la zone sont interdits :
+ 
+Les pylônes et poteaux, supports d’enseignes et d’antennes d’émission ou de réception de 
+signaux radioélectriques.
+
+
+>>> False
+
+Article 1 : Occupations ou utilisations du sol interdites
+ 
+1) Dans l’ensemble de la zone sont interdits :
+ 
+Les antennes d'émission ou de réception de signaux radioélectriques dont l'une des 
+dimensions est supérieure à 5 mètres, support inclus.
+
+
+>>> Verifiable
+
+Article 1 : Occupations ou utilisations du sol interdites
+ 
+1) Dans l’ensemble de la zone sont interdits :
+ 
+Les terrains de camping ou de caravanage permanents visés à l’article L.443-1 et L.444-1 du 
+code de l’urbanisme.
+
+
+>>> Verifiable
+
+Article 1 : Occupations ou utilisations du sol interdites
+ 
+1) Dans l’ensemble de la zone sont interdits :
+ 
+Les habitations légères de loisirs.
+
+
+>>> Verifiable
+
+Article 1 : Occupations ou utilisations du sol interdites
+ 
+1) Dans l’ensemble de la zone sont interdits :
+ 
+Les constructions destinées à l’habitation ne dépendant pas d’une exploitation agricole autres 
+que celles visées à l’article 2 paragraphe 1).
+
+
+>>> Verifiable
+
+Article 1 : Occupations ou utilisations du sol interdites
+ 
+1) Dans l’ensemble de la zone sont interdits :
+ 
+Les constructions destinées à l’hébergement hôtelier autres que celles visées à l’article 2 
+paragraphe 1).
+
+
+>>> Verifiable
+
+Article 1 : Occupations ou utilisations du sol interdites
+ 
+1) Dans l’ensemble de la zone sont interdits :
+ 
+Les constructions destinées aux bureaux, au commerce et activités de service, à l’artisanat, à 
+l’industrie autres que celles visées à l’article 2 paragraphe 1).
+
+
+>>> Verifiable
+
+Article 1 : Occupations ou utilisations du sol interdites
+ 
+1) Dans l’ensemble de la zone sont interdits :
+ 
+Les constructions destinées à la fonction d’entrepôt autres que celles visées à l’article 2 
+paragraphe 1).
+
+
+>>> Verifiable
+
+Article 1 : Occupations ou utilisations du sol interdites
+ 
+1) Dans l’ensemble de la zone sont interdits :
+ 
+Les installations classées pour la protection de l’environnement, à l’exception de celles visées à 
+l’article 2 paragraphe 1).
+
+
+>>> False
+
+Article 1 : Occupations ou utilisations du sol interdites
+ 
+2) Dans les périmètres en bordure des cours d’eau définis dans les annexes 
+sanitaires du PLU :
+ 
+Les occupations et utilisations autres que celles visées à l’article 2, paragraphe 2).
+
+
+>>> False
+
+Article 1 : Occupations ou utilisations du sol interdites
+ 
+3) Dans les périmètres des secteurs particuliers de risque d’inondation délimités 
+dans les documents graphiques du règlement :
+ 
+Les occupations et utilisations autres que celles visées à l’article 2, paragraphe 3).
+
+
+>>> Non-verifiable
+
+Article 2 : Occupations ou utilisations du sol soumises à des conditions 
+particulières
+ 
+1) Dans l'ensemble de la zone :
+ 
+− Sont admis sans préjudice des règles définies aux paragraphes 2 et 3 suivants :
+ 
+• les constructions à usage d’habitation liées et nécessaires à l’exploitation agricole ;
+
+
+>>> Non-verifiable
+
+Article 2 : Occupations ou utilisations du sol soumises à des conditions 
+particulières
+ 
+1) Dans l'ensemble de la zone :
+ 
+− Sont admis sans préjudice des règles définies aux paragraphes 2 et 3 suivants :
+ 
+• les changements de destination à usage d’habitation, d’hébergement hôtelier, de 
+bureaux, commerces et activités de service, artisanat, industrie dans l’emprise existante 
+des bâtiments repérés sur les documents graphiques du règlement au titre de l’article 
+L.151-11 du code de l’urbanisme, à condition qu’ils ne compromettent l’activité agricole 
+ou la qualité paysagère du site.
+
+
+>>> Non-verifiable
+
+Article 2 : Occupations ou utilisations du sol soumises à des conditions 
+particulières
+ 
+1) Dans l'ensemble de la zone :
+ 
+− Sont admises à condition qu’elles n’entraînent pas pour leur voisinage de nuisances 
+inacceptables, soit que l’établissement soit en lui-même peu nuisant, soit que les mesures 
+nécessaires à l’élimination des nuisances soient prises, et que leur volume et leur aspect 
+extérieur soient compatibles avec le milieu environnant :
+ 
+• les installations classées pour la protection de l’environnement liées aux équipements 
+publics et aux équipements d’infrastructure, aux constructions ou installations d’intérêt 
+collectif, aux constructions nécessaires à l’exploitation agricole, sous réserve qu’elles 
+n’entraînent pas pour leur voisinage des nuisances inacceptables, soit que 
+l’établissement soit en lui-même peu nuisant, soit que les mesures nécessaires à 
+l’élimination des nuisances soient prises.
+
+
+>>> Non-verifiable
+
+Article 2 : Occupations ou utilisations du sol soumises à des conditions 
+particulières
+ 
+1) Dans l'ensemble de la zone :
+ 
+− Sont admises à condition qu’elles n’entraînent pas de changement de destination (si les 
+constructions existantes sont à usage agricole) :
+ 
+• les réhabilitations de bâtiments existants.
+
+
+>>> Non-verifiable
+
+Article 2 : Occupations ou utilisations du sol soumises à des conditions 
+particulières
+ 
+1) Dans l'ensemble de la zone :
+ 
+− Sont admises à condition qu’elles ne présentent pas un caractère répétitif et ne conduisent 
+pas à une extension supérieure à 50 % de la surface de plancher existante :
+ 
+• les extensions mesurées des bâtiments existants.
+
+
+>>> False
+
+Article 2 : Occupations ou utilisations du sol soumises à des conditions 
+particulières
+ 
+2) Dans les périmètres en bordure des cours d’eau définis dans les annexes 
+sanitaires du PLU :
+ 
+Seules les clôtures en grillage pourront être autorisées à condition qu'elles soient conçues de 
+manière à ne pas faire obstacle au libre écoulement des eaux. Elles doivent notamment être 
+suffisamment légères pour pouvoir plier en cas de crues exceptionnelles sous la pression de 
+l'eau et des divers matériaux charriés par le flux et devront être amovibles pour permettre le 
+passage nécessaire à l'entretien des cours d'eau.
+
+
+>>> False
+
+Article 2 : Occupations ou utilisations du sol soumises à des conditions 
+particulières
+ 
+3) Dans les périmètres des secteurs particuliers de risque d’inondation délimités 
+dans les documents graphiques du règlement :
+ 
+Les occupations et utilisations du sol ne sont admises que si elles sont conformes aux 
+dispositions issues du Plan de Prévention des Risques d’Inondations de la Basse vallée du Lez 
+et de la Mosson, annexé au présent PLU.
+
+
+>>> Verifiable
+
+Article 3 : Accès et voirie
+ 
+Dans l'ensemble de la zone :
+ 
+Pour être constructible, un terrain doit avoir accès à une voie publique ou privée soit 
+directement, soit par l’intermédiaire d’une servitude de passage instituée sur fonds voisin par 
+acte authentique ou par voie judiciaire.
+
+
+>>> Non-verifiable
+
+Article 3 : Accès et voirie
+ 
+Dans l'ensemble de la zone :
+ 
+Les accès doivent être adaptés à l’opération et aménagés de façon à apporter la moindre 
+gêne à la circulation publique.
+
+
+>>> Non-verifiable
+
+Article 3 : Accès et voirie
+ 
+Dans l'ensemble de la zone :
+ 
+Aucune opération ne peut prendre accès sur certaines sections de voies repérées sur les 
+documents graphiques du règlement.
+
+
+>>> Non-verifiable
+
+Article 3 : Accès et voirie
+ 
+Dans l'ensemble de la zone :
+ 
+Les caractéristiques des accès doivent permettre de satisfaire aux règles minimales de 
+desserte : défense contre l’incendie, protection civile, brancardage, ordures ménagères.
+
+
+>>> Non-verifiable
+
+Article 3 : Accès et voirie
+ 
+Dans l'ensemble de la zone :
+ 
+Les garages individuels et les parcs de stationnement privés doivent être disposés de telle 
+façon que les espaces nécessaires aux manoeuvres des véhicules soient aménagés à 
+l'intérieur des parcelles. En outre, ces garages et parcs ne doivent présenter qu'un seul 
+accès sur la voie publique s'ils sont destinés à recevoir moins de 30 véhicules et ne peuvent 
+présenter que deux accès au maximum sur une même voie pour 30 véhicules et au-delà.
+
+
+>>> Non-verifiable
+
+Article 3 : Accès et voirie
+ 
+Dans l'ensemble de la zone :
+ 
+Les accès doivent présenter au débouché sur la rue et en retrait de l’alignement sur une 
+distance d’au moins 5 mètres une pente n’excédant pas 5 %.
+
+
+>>> Non-verifiable
+
+Article 3 : Accès et voirie
+ 
+Dans l'ensemble de la zone :
+ 
+Les voies privées desservant des terrains ouverts à l’urbanisation devront avoir les 
+caractéristiques suivantes :
+ 
+− Les voies privées existantes, non ouvertes à la circulation publique devront dans tous les 
+cas, satisfaire aux règles minimales de desserte : défense contre l’incendie, protection civile, 
+brancardage, ordures ménagères.
+
+
+>>> Non-verifiable
+
+Article 3 : Accès et voirie
+ 
+Dans l'ensemble de la zone :
+ 
+Les voies privées desservant des terrains ouverts à l’urbanisation devront avoir les 
+caractéristiques suivantes :
+ 
+− Les voies privées nouvelles, non ouvertes à la circulation publique, ne devront pas avoir une 
+largeur inférieure à 4 mètres .
+
+
+>>> Non-verifiable
+
+Article 3 : Accès et voirie
+ 
+Dans l'ensemble de la zone :
+ 
+Les voies privées desservant des terrains ouverts à l’urbanisation devront avoir les 
+caractéristiques suivantes :
+ 
+− Les voies privées existantes, ouvertes à la circulation publique, ne devront pas avoir une 
+largeur inférieure à 4 mètres pour les voies à sens unique et à 6 mètres pour les voies à 
+double sens de circulation.
+
+
+>>> Non-verifiable
+
+Article 3 : Accès et voirie
+ 
+Dans l'ensemble de la zone :
+ 
+Les voies privées desservant des terrains ouverts à l’urbanisation devront avoir les 
+caractéristiques suivantes :
+ 
+− Les voies privées nouvelles, ouvertes à la circulation publique, ne devront pas avoir une 
+largeur inférieure à 6 mètres pour les voies à sens unique et à 9 mètres pour les voies à 
+double sens de circulation.
+
+
+>>> False
+
+Article 4 : Desserte par les réseaux
+ 
+Dans l'ensemble de la zone :
+ 
+a) Eau potable
+ 
+Toute construction doit être raccordée au réseau public de distribution existant. 
+En l’absence d’une distribution publique d’eau potable, l’alimentation personnelle d'un 
+logement en habitat individuel à partir d’un captage, forage, ou puits particulier pourra être 
+exceptionnellement autorisée, conformément à la réglementation en vigueur. 
+Dans le cas où cette adduction autonome ne serait plus réservée à l’usage personnel d'un 
+logement en habitat individuel, l’autorisation préfectorale pour l’utilisation d’eau destinée à la 
+consommation humaine devra être préalablement obtenue.
+
+
+>>> False
+
+Article 4 : Desserte par les réseaux
+ 
+Dans l'ensemble de la zone :
+ 
+b) Eaux usées / Eaux pluviales
+ 
+Les eaux résiduaires urbaines (vannes, ménagères et industrielles) doivent être traitées et 
+éliminées dans des conditions satisfaisantes d’hygiène et de salubrité conformément aux 
+dispositions de la réglementation en vigueur.
+
+
+>>> False
+
+Article 4 : Desserte par les réseaux
+ 
+Dans l'ensemble de la zone :
+ 
+b) Eaux usées / Eaux pluviales
+ 
+Le traitement des effluents autres que domestiques doivent être adaptés à l’importance et à 
+la nature de l’activité afin d’assurer une protection suffisante du milieu naturel.
+
+
+>>> False
+
+Article 4 : Desserte par les réseaux
+ 
+Dans l'ensemble de la zone :
+ 
+b) Eaux usées / Eaux pluviales
+ 
+Toute construction, réhabilitation ou installation nouvelle rejetant des eaux usées 
+domestiques doit être obligatoirement raccordée au réseau public, lorsqu’il existe, par des 
+canalisations souterraines étanches. Les raccordements aux réseaux devront être 
+conformes aux prescriptions du règlement du service d’assainissement applicable à la Ville 
+de Montpellier et du règlement sanitaire départemental de l’Hérault, notamment ses articles 
+42, 43 et 44.
+
+
+>>> False
+
+Article 4 : Desserte par les réseaux
+ 
+Dans l'ensemble de la zone :
+ 
+b) Eaux usées / Eaux pluviales
+ 
+En l’absence de réseau public, le pétitionnaire devra proposer une filière d’assainissement 
+non collectif à mettre en œuvre pour son projet en fonction des contraintes du sol et du site. 
+(Cf. art 5 caractéristiques des terrains).
+
+
+>>> False
+
+Article 4 : Desserte par les réseaux
+ 
+Dans l'ensemble de la zone :
+ 
+b) Eaux usées / Eaux pluviales
+ 
+Tout projet devra être conforme aux directives pour l’établissement des dossiers 
+d’assainissement (note D.E.D.A. définie à l’annexe sanitaire) auxquelles il conviendra de se 
+reporter, notamment pour les opérations effectuées sur des parcelles non desservies par un 
+réseau d'assainissement collectif.
+
+
+>>> False
+
+Article 4 : Desserte par les réseaux
+ 
+Dans l'ensemble de la zone :
+ 
+c) Electricité
+ 
+Les branchements électricité, téléphone, vidéo-communication devront être établis en 
+souterrain.
+
+
+>>> False
+
+Article 4 : Desserte par les réseaux
+ 
+Dans l'ensemble de la zone :
+ 
+d) Déchets ménagers
+ 
+Les locaux et aires de présentation nécessaires au stockage des conteneurs et à la collecte 
+sélective des déchets ménagers devront être définis dans l'opération.
+
+
+>>> False
+
+Article 5 : Caractéristiques des terrains
+ 
+Dans l'ensemble de la zone :
+ 
+Non réglementé
+
+
+>>> False
+
+Article 6 : Implantation des constructions par rapport aux voies et 
+emprises publiques
+ 
+Définition de l'alignement :
+ 
+Il est constitué par la limite entre le domaine privé et le domaine public existant ou prévu.
+
+
+>>> False
+
+Article 6 : Implantation des constructions par rapport aux voies et 
+emprises publiques
+ 
+Définition de l'alignement :
+ 
+1) Dans l'ensemble de la zone :
+ 
+Sous réserve des règles définies au paragraphe 2) du présent article : 
+D’une manière générale, les constructions autorisées à l’article 1 ne pourront pas être édifiées à 
+moins de 10 mètres de l’alignement de la voie.
+
+
+>>> False
+
+Article 6 : Implantation des constructions par rapport aux voies et 
+emprises publiques
+ 
+Définition de l'alignement :
+ 
+2) Le long des voies désignées dans les documents graphiques du règlement:
+ 
+Les constructions devront respecter le retrait minimum indiqué dans les documents graphiques 
+du règlement.
+
+
+>>> False
+
+Article 7 : Implantation des constructions par rapport aux limites 
+séparatives
+ 
+Définition du prospect par rapport aux limites séparatives :
+ 
+Il est défini par l'expression d'un rapport entre 2 variables : 
+−  la variable L : distance comptée horizontalement de tout point du bâtiment au point de la 
+limite parcellaire qui en est le plus rapproché à l'altitude du sol existant ; 
+−  la variable H : différence d'altitude entre ces deux points. 
+Rappel : chaque prospect est calculé par rapport à la cote T.N correspondante en limite séparative sur 
+le fonds voisin.
+
+
+>>> False
+
+Article 7 : Implantation des constructions par rapport aux limites 
+séparatives
+ 
+Dans l'ensemble de la zone :
+ 
+a) Principe général :
+ 
+Les règles d’implantation définies par le présent article ne s’appliquent qu’au dessus du 
+terrain naturel.
+
+
+>>> False
+
+Article 7 : Implantation des constructions par rapport aux limites 
+séparatives
+ 
+Dans l'ensemble de la zone :
+ 
+b) Règles particulières :
+ 
+•  Implantation des constructions correspondant aux besoins de l’exploitation : 
+L = ou > à H et au minimum L = ou > à 6 mètres .
+
+
+>>> False
+
+Article 7 : Implantation des constructions par rapport aux limites 
+séparatives
+ 
+Dans l'ensemble de la zone :
+ 
+b) Règles particulières :
+ 
+•  Implantation des annexes : 
+Les constructions annexes ne créant pas de surface de plancher peuvent être édifiées en 
+limites séparatives . Sur ces limites ces annexes ne pourront avoir un linéaire d’implantation 
+total supérieur à 10 mètres, et une hauteur maximale, telle que définie à l’article 10, 
+supérieure à 3,50 mètres, sauf en cas d’accord écrit entre les propriétaires intéressés 
+permettant de dépasser ces normes.
+
+
+>>> False
+
+Article 7 : Implantation des constructions par rapport aux limites 
+séparatives
+ 
+Dans l'ensemble de la zone :
+ 
+b) Règles particulières :
+ 
+•  Cas particuliers : 
+En cas d’accord écrit entre les propriétaires intéressés, les bâtiments pourront être édifiés 
+dans la marge de reculement définie et jusqu’à la limite séparative . 
+Un bâtiment nouveau peut être adossé à un bâtiment existant s’il est d’un gabarit en limites 
+séparatives inférieur ou égal à celui du bâtiment existant.
+
+
+>>> False
+
+Article 8 : Implantation des constructions les unes par rapport aux 
+autres sur une même propriété
+ 
+Dans l'ensemble de la zone :
+ 
+a) Principe général :
+ 
+Les règles d’implantation définies par le présent article ne s’appliquent qu’au dessus du 
+terrain naturel.
+
+
+>>> False
+
+Article 8 : Implantation des constructions les unes par rapport aux 
+autres sur une même propriété
+ 
+Dans l'ensemble de la zone :
+ 
+b) Règles particulières :
+ 
+Les constructions situées sur une même unité foncière doivent être implantées de telle 
+manière qu'elles satisfassent aux conditions suivantes : 
+Les baies éclairant les pièces principales des logements ne doivent être masquées par 
+aucune partie d'immeuble qui, à l'appui des baies, serait vue sous un angle de plus de 
+60 degrés au-dessus du plan horizontal. 
+Une distance d'au moins quatre mètres peut être imposée entre deux bâtiments non 
+contigus.
+
+
+>>> False
+
+Article 9 : Emprise au sol
+ 
+Dans l'ensemble de zone :
+ 
+Non réglementé.
+
+
+>>> False
+
+Article 10 : Hauteur maximale des constructions
+ 
+Définition de la hauteur maximale des constructions :
+ 
+La hauteur maximale HM d'une construction est définie comme le maximum de la distance 
+verticale de n'importe quel point de cette construction, superstructures comprises, à l'exception 
+des cheminées, des antennes, des enseignes et des dispositifs techniques de captage de 
+l’énergie solaire ou liés à la sécurité des personnes, au point correspondant du sol naturel avant 
+tous travaux quand celle-ci est exprimée en mètres ou au point correspondant au niveau zéro 
+dans le système de nivellement général de la France quand celle-ci est exprimée en mètres 
+NGF.
+
+
+>>> False
+
+Article 10 : Hauteur maximale des constructions
+ 
+Dans l'ensemble de la zone :
+ 
+7 mètres
+
+
+>>> False
+
+Article 10 : Hauteur maximale des constructions
+ 
+Dans l'ensemble de la zone :
+ 
+Exceptionnellement, tout projet de construction indispensable à l’activité agricole et qui ne peut 
+être réalisé dans les 7 mètres réglementaires pourra dépasser cette norme s’il s’intègre 
+correctement dans l’environnement.
+
+
+>>> False
+
+Article 10 : Hauteur maximale des constructions
+ 
+Dans l'ensemble de la zone :
+ 
+Cependant, pour les pylônes support d’éclairage public, la hauteur n’est pas réglementée.
+
+
+>>> False
+
+Article 11 : Aspect extérieur
+ 
+Dans l'ensemble de la zone :
+ 
+a)  En général
+ 
+Outre les dispositions de l’article R111.21 du code de l’urbanisme qui demeurent applicables 
+sur l’ensemble du territoire communal, à l’exclusion des périmètres couverts par une zone 
+de protection du patrimoine architectural, urbain et paysager ou un plan de sauvegarde et de 
+mise en valeur, s'appliquent les prescriptions suivantes : 
+−  Les murs séparatifs les murs pignons, les murs de clôture, les constructions annexes 
+doivent avoir un aspect qui s’harmonise avec celui des façades principales.
+
+
+>>> False
+
+Article 11 : Aspect extérieur
+ 
+Dans l'ensemble de la zone :
+ 
+b)  En ce qui concerne les bâtiments
+ 
+L’aspect des extensions devra être similaire à l’existant, les bâtiments agricoles seront 
+traités dans un souci d’intégration au site.
+
+
+>>> False
+
+Article 11 : Aspect extérieur
+ 
+Dans l'ensemble de la zone :
+ 
+b)  En ce qui concerne les bâtiments
+ 
+Tous les travaux réalisés sur les bâtiments repérés sur les documents graphiques du 
+règlement au titre de l’article L151-11 du code de l’urbanisme doivent être conçus de 
+manière à ne pas compromettre la qualité paysagère du site et, le cas échéant, selon l’état 
+et les caractéristiques d’origine des constructions, aller dans le sens d’une préservation et 
+d’une mise en valeur : 
+- de leurs caractéristiques historiques et architecturales ; 
+- de leur composition, leur ordonnancement et leur volumétrie ; 
+- des matériaux et des modalités constructives d’origine.
+
+
+>>> False
+
+Article 11 : Aspect extérieur
+ 
+Dans l'ensemble de la zone :
+ 
+b)  En ce qui concerne les bâtiments
+ 
+Pour les toitures en pente, les dispositifs techniques de captage de l’énergie solaire devront 
+être intégrés dans le plan de la toiture sans débord.
+
+
+>>> False
+
+Article 11 : Aspect extérieur
+ 
+Dans l'ensemble de la zone :
+ 
+c)  En ce qui concerne les clôtures et hors des périmètres en bordure des cours d’eau définis 
+dans les annexes sanitaires du PLU
+ 
+• en limites séparatives : 
+Hauteur maximum : 2 mètres dont 1,20 m de hauteur maximum en mur bahut surmonté 
+d'un grillage agrémenté de plantations sauf convention contraire entre voisins en 
+définissant les caractéristiques des matériaux et sous réserve des dispositions du code 
+civil.
+
+
+>>> False
+
+Article 11 : Aspect extérieur
+ 
+Dans l'ensemble de la zone :
+ 
+c)  En ce qui concerne les clôtures et hors des périmètres en bordure des cours d’eau définis 
+dans les annexes sanitaires du PLU
+ 
+• à l’alignement des voies et emprises publiques : 
+Hauteur maximum : 2 mètres : 
+les parties vues seront obligatoirement architecturées. 
+Au-dessus du terrain naturel ou du trottoir , d’une manière générale, les clôtures devront 
+être constituées d’un mur bahut de 1,20 m de hauteur maximum , surmonté d’un grillage 
+agrémenté de plantations.
+
+
+>>> False
+
+Article 11 : Aspect extérieur
+ 
+Dans l'ensemble de la zone :
+ 
+c)  En ce qui concerne les clôtures et hors des périmètres en bordure des cours d’eau définis 
+dans les annexes sanitaires du PLU
+ 
+Dans les cas particuliers énumérés ci-après ces hauteurs pourront être dépassées : 
+− nuisances phoniques en bordure des voies à grande circulation, 
+− reconstitution des équipements existants, 
+− harmonie de la clôture par rapport aux clôtures avoisinantes. 
+− casernes ( gendarmerie, C.R.S., armée, etc... ).
+
+
+>>> False
+
+Article 12 : Stationnement des véhicules
+ 
+Non réglementé.
+
+
+>>> Non-verifiable
+
+Article 13 : Espaces libres et plantations
+ 
+Dans l'ensemble de la zone :
+ 
+Les travaux ayant pour effet de modifier ou de supprimer tout ou partie des espaces protégés 
+au titre de l’article L.123-1-5 III 2° représentés aux documents graphiques du PLU sont soumis 
+à déclaration préalable et peuvent :
+ 
+- être interdits pour un motif d'ordre culturel, historique ou écologique correspondant à l’un 
+des objets suivants : 
+- la préservation d’un paysage ; 
+- le maintien des équilibres écologiques ; 
+- la qualité végétale ou arboricole ;
+
+
+>>> Non-verifiable
+
+Article 13 : Espaces libres et plantations
+ 
+Dans l'ensemble de la zone :
+ 
+Les travaux ayant pour effet de modifier ou de supprimer tout ou partie des espaces protégés 
+au titre de l’article L.123-1-5 III 2° représentés aux documents graphiques du PLU sont soumis 
+à déclaration préalable et peuvent :
+ 
+- être autorisés sous réserve de satisfaire à tout ou partie des conditions suivantes : 
+- assurer la sécurité des biens et des personnes, 
+- réduire les risques sanitaires (allergie par exemple), 
+- garantir la qualité phytosanitaire de l’ensemble végétal, 
+- permettre la réalisation d’un projet d’ensemble reconstituant le boisement avec qualité.
+
+
+>>> Non-verifiable
+
+Article 13 : Espaces libres et plantations
+ 
+Dans l'ensemble de la zone :
+ 
+Dans tous les cas, la destruction partielle des plantations existantes protégées par l’article 
+L.123-1-5 III 2° du code de l’urbanisme,  est admise dès lors qu’elle est compensée par des 
+plantations restituant ou améliorant l’ambiance végétale initiale.
+
+
+>>> Non-verifiable
+
+Article 13 : Espaces libres et plantations
+ 
+Dans l'ensemble de la zone :
+ 
+En règle générale, les arbres de hautes tiges existants et les masses végétales significatives, 
+doivent être maintenus. En cas d’incompatibilité avec le projet, ils pourront être 
+exceptionnellement transplantés sur l’unité foncière, si cela est techniquement possible. Dans le 
+cas contraire, ils seront remplacés par des plantations de valeur équivalentes sur l’unité 
+foncière.
+
+
+>>> Non-verifiable
+
+Article 13 : Espaces libres et plantations
+ 
+Dans l'ensemble de la zone :
+ 
+Les aires de stationnement en surface seront obligatoirement plantées à raison d’un arbre de 
+haute tige pour 2 places de stationnement minimum, ces plantations pourront être réalisées en 
+bosquet (regroupement).
+
+
+>>> False
+
+Article 14 : Coefficient d’occupation du sol (COS)
+ 
+Dans l'ensemble de la zone :
+ 
+Non réglementé.
+
+

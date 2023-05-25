@@ -1,0 +1,84 @@
+# “être interdit” :
+être interdit
+est interdit
+sont interdits
+interdites
+
+# “être admis” :
+être admis
+est admis
+sont admis
+
+# “ne pas être admis” :
+ne être admis
+ne pas être admis
+n'est pas admis
+
+# “être autorisé” :
+être autorisé
+est autorisé
+sont autorisés
+
+# “pour être constructible” :
+pour être constructible
+
+# verbe “devoir”, et sa négation “ne pas devoir” :
+devoir
+ne pas devoir
+ne devoir
+
+# verbe “pouvoir” et sa négation “ne pas pouvoir” :
+pouvoir
+ne pas pouvoir
+ne pouvoir
+
+# “non réglementé” désignant l’absence de règles particulières :
+# add exception: if "non réglementé" then it is a false positive
+
+# “s’appliquer” et “ne pas s’appliquer” :
+s’appliquer
+ne pas s’appliquer
+ne s’appliquer
+
+# “implanter” ou “implantation” :
+implanter
+implantation
+
+#“être défini” :
+être défini
+est défini
+sont définis
+
+#“admettre“, “interdire“, “constructible“, “autoriser“, “interdire“, “implanter“, “pouvoir“, “devoir“, “définir“, “réglementer“ :
+admettre
+interdire
+constructible
+autoriser
+interdire
+implanter
+pouvoir
+devoir
+définir
+réglementer
+#est limitée
+
+#“être interdit” (interdire) :
+#être interdit
+#est interdit
+#sont interdits
+
+#“être admis” (admettre) :
+#être admis
+#est admis
+#sont admis
+
+#“être considéré“ :
+être considéré
+est considéré
+sont considérés
+
+# verbe au futur (seront etc.) :
+#seront
+aura
+devront
+

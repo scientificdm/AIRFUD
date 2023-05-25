@@ -1,0 +1,37 @@
+objet : Surface artificialisée, Vegetation, Eau, Sable
+
+Surface artificialisée : Bâti résidentiel, Bâti activité, Artificialisation autre, Tronçon, voie, Routes, Zone extraction, Carrière
+
+Bâti résidentiel : TU discontinu, TU continu
+
+TU discontinu : TU discontinu individuel, TU discontinu collectif
+
+TU discontinu individuel : Pavillon
+
+TU discontinu collectif : Bâtiment collectif, Bâtiment de l’habitat collectif discontinu
+
+TU continu : Zone Bâtie continue
+
+Zone Bâtie continue : Pavillon, Bâtiment collectif
+
+Bâti activité : Batiment activité, Zone industrielle, Zone commerciale, Zone tertiaire, Batiment rural, Serre
+
+Artificialisation autre : Cimetière, Parking, Place, Sol Nu, Terrain de sport, Ilot de circulation, Piscine extérieur, Batiment Autre, Zone aéroportuaire, Zone sportif loisir
+
+Tronçon : Route, Chemin, Chemin de fer, Route Grande vitesse, Autre route
+
+voie : Route, Chemin, Chemin de fer, Route Grande vitesse, Autre route
+
+Routes : Route, Chemin, Chemin de fer, Route Grande vitesse, Autre route
+
+Vegetation : Végétation urbaine, Parcelle agricole, Surface Boisée, Forêt, Végétation autre
+
+Végétation urbaine : Arbre, Pelouse, Jardin, Parc, Alignement d’arbre, Groupe d’arbre, Ensemble d’arbre
+
+Parcelle agricole : Vigne, Verger, Culture Autre
+
+Végétation autre : Alignement d’arbre, Groupe d’arbre, Ensemble d’arbre
+
+Eau : Etendue d’eau, Canal, Cours d’eau, Bassin artificiel
+
+
